@@ -20,7 +20,7 @@ url: "http://www.uppercrust-catering.net" # the base hostname & protocol for you
 
 collections:
   menus:
-    permalink: /menu/:path/
+    permalink: /menus/:path/
     output: true
 
 full_rebuild: true
