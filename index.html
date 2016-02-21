@@ -7,7 +7,7 @@ layout: default
   <h1 class="page-heading">Check out our menus</h1>
 
   <ul class="post-list">
-    {% assign menus = site.menu | sort: 'title' %}
+    {% assign menus = site.menus | sort: 'title' %}
     {% for menu in menus %}
       <li>
         <h2>
