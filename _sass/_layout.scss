@@ -102,6 +102,7 @@
 
 .hero {
     background-color: #efefef;
+    padding-bottom: $spacing-unit;
 }
 
 /**
@@ -174,6 +175,13 @@
 }
 
 
+.delivery-prefooter {
+    font-size: 12px;
+    @extend %clearfix;
+    border-top: 1px solid black;
+    padding-top: $spacing-unit;
+    text-align: right;
+}
 
 /**
  * Page content
@@ -183,7 +191,8 @@
 }
 
 .page-heading {
-    font-size: 20px;
+    font-size: 36px;
+    text-align: center;
 }
 
 .post-list {
@@ -227,6 +236,8 @@
 .post-content {
     margin-bottom: $spacing-unit;
 
+    h1 { font-size: 40px; }
+
     h2 {
         font-size: 32px;
 
@@ -250,4 +261,15 @@
             font-size: 18px;
         }
     }
+}
+
+.from-boxed, .its-finest {
+    font-size: 26px;
+    @include media-query($on-laptop) {
+        font-size: 22px;
+    }
+}
+
+.its-finest {
+    text-align: right;
 }

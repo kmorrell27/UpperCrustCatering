@@ -1,8 +1,12 @@
 ---
 layout: default
 ---
-<div class="hero un-wrapper">
-  <img src="http://placehold.it/980x380">
+<div class="hero">
+
+  <a href="">
+    <img src="{{ site.baseurl }}/images/wedding-packages.jpg">
+  </a>
+
 </div>
 
 <div class="home">
@@ -19,15 +23,6 @@ layout: default
     From simple to gourmet, all prepared with Chef Mitch's personal touch!
   </p>
 
-  <ul class="post-list">
-    {% assign menus = site.menus | sort: 'title' %}
-    {% for menu in menus %}
-      <li>
-        <h2>
-          <a class="post-link" href="{{ site.baseurl }}/menus/{{ menu.name }}">{{ menu.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
+  <p class="from-boxed">From Boxed Lunches to Buffets . . .</p>
+  <p class="its-finest">. . . off-site catering at its finest!</p>
 </div>
