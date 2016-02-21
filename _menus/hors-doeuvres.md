@@ -5,7 +5,7 @@ collection: menus
 order-by: 1
 ---
 
-« Each platter serves 20 »
+Party Platters are artfully arranged on black lacquer trays for an elegant presentation, appropriate for any occasion. Each platter serves 20.
 
 
 Hors d'oeuvres & Party Platters | Price

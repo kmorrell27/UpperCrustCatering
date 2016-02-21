@@ -16,19 +16,29 @@ Theme Menu package pricing is based on menu item selections and number of people
 
 ## Chuck Wagon Days
 
-Minimum 30 people
+*Minimum 30 people*
 
 ### Entrees
 
-(Select 2 or 3)
+**Select 2 or 3**
 
-Braised Beef Brisket  ~  BBQ Pulled Pork  ~  Fried Chicken  ~  Sloppy Joe's
+- Braised Beef Brisket
+- BBQ Pulled Pork
+- Fried Chicken
+- Sloppy Joe's
 
 ### Sides
 
-(Select 3 or 4)
+**Select 3 or 4**
 
-Tossed Mixed Greens with tomatoes & cucumber and 2 dressings  ~  American Fried Potatoes  ~  BBQ Baked Bean  ~  Corn O'Brien  ~ Macaroni Salad  ~  Cole Slaw  ~  Cornbread & Butter  OR Biscuits & Butter
+- Tossed Mixed Greens with tomatoes & cucumber and 2 dressings
+- American Fried Potatoes
+- BBQ Baked Bean
+- Corn O'Brien
+- Macaroni Salad
+- Cole Slaw
+- Cornbread & Butter
+- Biscuits & Butter
 
 ### Desserts
 
@@ -36,37 +46,68 @@ Apple Crisp  or  Bread Pudding
 
 * * *
 
-SUNDAY DINNER at GRANDMAS ... for the best in comfort food ...
+## Sunday Dinners at Grandmas
+*... for the best in comfort food ...*
 
-ENTREES ( Select 2 or 3)   Chicken Pot Pie  ~  Sliced Turkey & Gravy  ~  Fried Chicken
+### Entrees
 
-Yankee Pot Roast with Potatoes & Carrots  ~  Salisbury Steak with Mushroom Gravy
+**Select 2 or 3**
 
-SIDE DISHES (Select 3)  Tossed Mixed Greens with tomatoes & cucumbers and choice of 2 dressings                                                        Fresh Buttered Green Beans  ~ Corn  ~   Biscuits & Butter
+- Chicken Pot Pie
+- Sliced Turkey & Gravy
+- Fried Chicken
+- Yankee Pot Roast with Potatoes & Carrots
+- Salisbury Steak with Mushroom Gravy
 
-PLUS ... your choice of Mashed Potatoes  or  Au Gratins Potatoes
+### Sides
 
-DESSERT  Homemade Apple Pie or  Fresh Baked Cookies
+**Select 3**
+
+- Tossed Mixed Greens with tomatoes & cucumbers and choice of 2 dressings
+- Fresh Buttered Green Beans
+- Corn
+- Biscuits & Butter
+
+**PLUS** Your choice of Mashed Potatoes  or  Au Gratins Potatoes
+
+### Dessert
+
+Homemade Apple Pie or  Fresh Baked Cookies
 
 * * *
 
-Step back in time, once again, to the 50’s and the . . .
+*Step back in time, once again, to the 50’s and the . . .*
 
-SOCK HOP
+## Sock Hop
 
-(All condiments included!)
+*All condiments included!*
 
-ENTREES (Select 3)  Corn Dogs  ~  Chili Cheese Dogs  ~  Sliders  ~  Fried Chicken  ~  Spaghetti & Meatballs
+### Entrees
 
-SIDES  Tossed Salad with tomatoes, cucumbers plus 2 dressings  ~   Pasta Salad
+**Select 3**
 
-DESSERT  Brownies & Cookies
+- Corn Dogs
+- Chili Cheese Dogs
+- Sliders
+- Fried Chicken
+- Spaghetti & Meatballs
+
+### Sides
+
+- Tossed Salad with tomatoes, cucumbers plus 2 dressings
+- Pasta Salad
+
+### Dessert
+
+Brownies & Cookies
 
 * * *
 
-FIESTA TIME PARTY
+## Fiesta Time Party
 
-Two great options for a south of the border taste!                                                                                $10.95 per person  -  Minimum 30 people
+*Two great options for a south of the border taste!*
+
+**$10.95 per person**  -  Minimum 30 people
 
 APPETIZERS  (Select 2)  Mini Chicken Quesadillas  ~  7 Layer Taco Dip & Chips  ~                                               Tortilla Chips with choice of Black Bean & Corn Salsa, Chili Con Queso or Salsa
 

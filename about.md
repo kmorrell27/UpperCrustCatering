@@ -1,10 +1,9 @@
 ---
-layout: page
+layout: fancy-header
 title: About
 permalink: /about/
+headline: Welcome to Upper Crust Catering
 ---
-
-# Welcome to Upper Crust Catering
 
 Upper Crust Catering, in business since 2003, provides excellent homemade cuisine, prepared by Chef Mitch Morrell.
 
