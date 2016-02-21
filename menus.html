@@ -8,11 +8,11 @@ permalink: /menus/
   <h1 class="page-heading">Check out our menus</h1>
 
   <ul class="post-list">
-    {% assign menus = site.menus | sort: 'title' %}
+    {% assign menus = site.menus | sort: 'order-by' %}
     {% for menu in menus %}
       <li>
         <h2>
-          <a class="post-link" href="{{ site.baseurl }}/menus/{{ menu.name }}">{{ menu.title }}</a>
+          <a class="post-link" href="{{ site.baseurl }}{{ menu.url }}">{{ menu.title }}</a>
         </h2>
       </li>
     {% endfor %}

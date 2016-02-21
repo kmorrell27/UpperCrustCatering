@@ -2,6 +2,7 @@
 layout: page
 title:  "Elegant Buffets"
 collection: menus
+order-by: 2
 ---
 
 # Personalize Your Menu

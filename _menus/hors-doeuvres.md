@@ -2,6 +2,7 @@
 layout: page
 title:  "Hors d'oeuvres & Party Platters"
 collection: menus
+order-by: 1
 ---
 
 « Each platter serves 20 »

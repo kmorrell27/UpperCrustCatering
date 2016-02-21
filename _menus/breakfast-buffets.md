@@ -2,6 +2,7 @@
 layout: page
 title:  "Breakfast Buffets"
 collection: menus
+order-by: 3
 ---
 
 ## Basic Breakfast Buffet
