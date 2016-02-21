@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Check out our menus</h1>
+
+  <ul class="post-list">
+    {% assign menus = site.menu | sort: 'title' %}
+    {% for menu in menus %}
+      <li>
+        <h2>
+          <a class="post-link" href="{{ site.baseurl }}/menus/{{ menu.name }}">{{ menu.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>
