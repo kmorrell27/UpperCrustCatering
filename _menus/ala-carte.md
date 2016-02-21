@@ -2,6 +2,7 @@
 layout: page
 title:  "Ala Carte Selections"
 collection: menus
+order-by: 3
 ---
 
 Each of our ala carte selections and sides & salads serve 20 people
