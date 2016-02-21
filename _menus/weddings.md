@@ -22,8 +22,8 @@ set-up, break down and cake cutting are available.
 - Fresh Vegetable Crudité
 - Tropical Fruit Display 
 - Crabmeat Mousse with Assorted Crackers
-- Jumbo Shrimp Cocktail  *(add $1.00 per person)* 
-- Smoked Salmon Platter  *(add .75 per person)*
+- Jumbo Shrimp Cocktail  *(add $1 per person)* 
+- Smoked Salmon Platter  *(add 75¢ per person)*
 
 * * *
 
