@@ -1,23 +1,21 @@
 ---
-layout: default
+layout: fancy-header
 permalink: /menus/
 title: "Menus"
-long-title: "Check out our menus"
+headline: "Check out our menus"
 ---
 
-<div class="home">
+  <div class="menus">
 
-  <h1 class="page-heading">Check out our menus</h1>
+    <ul class="post-list">
+      {% assign menus = site.menus | sort: 'order-by' %}
+      {% for menu in menus %}
+        <li>
+          <h2 style="text-align: center">
+            <a class="post-link" href="{{ site.baseurl }}{{ menu.url }}">{{ menu.title }}</a>
+          </h2>
+        </li>
+      {% endfor %}
+    </ul>
 
-  <ul class="post-list">
-    {% assign menus = site.menus | sort: 'order-by' %}
-    {% for menu in menus %}
-      <li>
-        <h2>
-          <a class="post-link" href="{{ site.baseurl }}{{ menu.url }}">{{ menu.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-</div>
+  </div>

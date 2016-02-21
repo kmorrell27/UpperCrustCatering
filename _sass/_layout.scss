@@ -108,6 +108,9 @@
     background-size: cover;
     position: relative;
 
+    &__short {
+        height: 200px;
+    }
 
     .hero-headline {
         background: $grey-color-dark;
