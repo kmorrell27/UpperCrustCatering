@@ -2,15 +2,30 @@
 layout: page
 title: Themed Menus
 permalink: /themed-menus/
+custom-classes: themed-menus
 ---
 
-Themed menus are all the rage and it's no wonder ~  they're fun, delicious and add an air of excitement to any event.
+Themed menus are all the rage and it's no wonder
+- they're fun, delicious and add an air of excitement to any event.
 
 Whether you just "go theme" with the food or all the way with decorations, music, beverages and attire we're here to help you create a gathering everyone will remember.
 
 Our Theme Packages are tried & true but, definitely not a limit to the possibilities ~ take our ideas, add yours and together we'll create a menu that is uniquely yours
 
 Theme Menu package pricing is based on menu item selections and number of people and service requirements.  Minimums may apply.
+
+**Themes available**
+
+- [Chuck Wagon Days](#chuck-wagon-days)
+- [Sunday Dinners at Grandmas](#sunday-dinners-at-grandmas)
+- [Sock Hop](#sock-hop)
+- [Fiesta Time Party](#fiesta-time-party)
+- [Taco Bar](#taco-bar)
+- [Station to Station](#station-to-station)
+- [A Formal Affair](#a-formal-affair)
+- [Lunch on the light side](#lunch-on-the-light-side)
+- [Shower Package](#shower-package)
+- [The Islands](#the-islands)
 
 ***
 
@@ -31,7 +46,7 @@ Theme Menu package pricing is based on menu item selections and number of people
 
 **Select 3 or 4**
 
-- Tossed Mixed Greens with tomatoes & cucumber and 2 dressings
+- Tossed Mixed Greens *with tomatoes & cucumber and 2 dressings*
 - American Fried Potatoes
 - BBQ Baked Bean
 - Corn O'Brien
@@ -42,7 +57,7 @@ Theme Menu package pricing is based on menu item selections and number of people
 
 ### Desserts
 
-Apple Crisp  or  Bread Pudding
+Apple Crisp or Bread Pudding
 
 * * *
 
@@ -107,89 +122,257 @@ Brownies & Cookies
 
 *Two great options for a south of the border taste!*
 
-**$10.95 per person**  -  Minimum 30 people
+**$10.95 per person  -  Minimum 30 people**
 
-APPETIZERS  (Select 2)  Mini Chicken Quesadillas  ~  7 Layer Taco Dip & Chips  ~                                               Tortilla Chips with choice of Black Bean & Corn Salsa, Chili Con Queso or Salsa
+### Appetizers
 
-ENTREES (Select 2)  Baked Enchiladas  ~  Chicken Fajitas  ~  Steak Fajitas
+**Select 2**
 
+- Mini Chicken Quesadillas
+- 7 Layer Taco Dip & Chips
+- Tortilla Chips with choice of Black Bean & Corn Salsa, Chili Con Queso or Salsa
 
-SIDES (Select 3)  Re-fried Beans  ~  Mexican Corn  ~  Spanish Rice  ~  Cornbread & Butter
+### Entrees
 
-* * *
+**Select 2**
 
-TACO BAR  ... everything you need to build your own!                                                                     2/person - $9.95 ~ 3/person - $10.95  ~  Minimum 25 people
-
-Corn & Flour Tortilla  ~  Seasoned Chicken & Beef  ~  Onions  ~  Tomatoes  ~  Jalapenos  ~  Cheese  ~  Guacamole  ~  Sour Cream
-
-PLUS... Re-fried Beans  ~  Spanish Rice  ~  Tortilla Chips & Salsa
-
-* * *
-
-STATION to STATION
-
-Our Station to Station Buffet offer an elegant & relaxing dining experience.  Perfect for wedding receptions and large gatherings.                    Chafing dishes, sterno, carving station, butane stoves & serving utensils included.  Station to Station Buffets require service staff.  Minimum 100 people.
-
-APPETIZERS  (Select 4)  Crabmeat Stuffed Mushrooms  ~  Fresh Vegetable Crudite with dip  ~  Pinwheel Sandwiches  ~                                                     Teriyaki or Spicy Drummettes  ~  Bruschetta w/Garlic Toast Points  ~  Mini Chicken Quesadillas  ~                                                                      Smoked Salmon w/cream cheese & Party Rye  ~   Rumaki w/Waterchestnuts  ~  Proscuitto Wrapped Melon Wedges  ~                                                                     Jumbo Shrimp with Zesty Cocktail Sauce  ~  Cocktail Meatballs (Swedish, Italian, Sweet & Sour)  ~                                                                          Cheese & Cracker Display  ~   Spinach Dip served in a fresh homemade bread bowl
+- Baked Enchiladas
+- Chicken Fajitas
+- Steak Fajitas
 
 
-SALAD BAR (Select 3 or 4)  Garden Salad with tomatoes & cucumbers and 2 dressings  ~  Seasonal Fresh Fruit Display  ~                             Macaroni Salad  ~  Pesto Pasta Salad  ~ Bacon Ranch Pasta Salad
+### Sides
 
-CARVING STATION (Select 1 or 2)  Sandwiches are hot and carved on-site.  Sandwich rolls & condiments included.                                       Carved Sirloin  ~  Carved Roasted Turkey  ~  Honey Mustard Glazed Ham
+**Select 3**
 
-HOT PASTA STATION  Prepared upon your guests request  Penn/Bowtie Pasta  ~  Linguine  ~                                                                                                     Chicken  ~  Italian Sausage   ~  Broccoli  ~  Mushrooms  ~  Onions  ~                                                                                                                                         Fresh Basil  ~  Parmesan Cheese  ~                                                                                          ~  also available Shrimp & Scallops  ~
+- Refried Beans
+- Mexican Corn
+- Spanish Rice
+- Cornbread & Butter
 
 * * *
 
-A FORMAL AFFAIR
+## Taco Bar
+
+*... everything you need to build your own!*
+
+**2/person - $9.95 or 3/person - $10.95**
+
+Minimum 25 people
+
+### Standard Taco Bar Includes
+
+- Corn & Flour Tortillas
+- Seasoned Chicken & Beef
+- Onions
+- Tomatoes
+- Jalapenos
+- Cheese
+- Guacamole
+- Sour Cream
+
+### Plus
+
+- Refried Beans
+- Spanish Rice
+- Tortilla Chips & Salsa
+
+* * *
+
+## Station to Station
+
+Our Station to Station Buffet offer an elegant & relaxing dining experience.  Perfect for wedding receptions and large gatherings.
+
+Chafing dishes, sterno, carving station, butane stoves & serving utensils included.  Station to Station Buffets require service staff.  *Minimum 100 people.*
+
+### Appetizers
+
+**Select 4**
+
+- Crabmeat Stuffed Mushrooms
+- Fresh Vegetable Crudite with dip
+- Pinwheel Sandwiches
+- Teriyaki or Spicy Drummettes
+- Bruschetta with Garlic Toast Points
+- Mini Chicken Quesadillas
+- Smoked Salmon with cream cheese & Party Rye
+- Rumaki with waterchestnuts
+- Proscuitto Wrapped Melon Wedges
+- Jumbo Shrimp with Zesty Cocktail Sauce
+- Cocktail Meatballs (Swedish, Italian, Sweet & Sour)
+- Cheese & Cracker Display
+- Spinach Dip served in a fresh homemade bread bowl
+
+
+### Salad Bar
+
+**Select 3 or 4**
+
+- Garden Salad with tomatoes & cucumbers and 2 dressings
+- Seasonal Fresh Fruit Display
+- Macaroni Salad
+- Pesto Pasta Salad
+- Bacon Ranch Pasta Salad
+
+### Carving Station
+
+**Select 1 or 2**
+
+Sandwiches are hot and carved on-site.  Sandwich rolls & condiments included.
+
+- Carved Sirloin
+- Carved Roasted Turkey
+- Honey Mustard Glazed Ham
+
+### Hot Pasta Station
+
+Prepared upon your guests request
+
+- Penn/Bowtie Pasta
+- Linguine
+- Chicken
+- Italian Sausage
+- Broccoli
+- Mushrooms
+- Onions
+- Fresh Basil
+- Parmesan Cheese
+- Shrimp & Scallops also available
+
+* * *
+
+## A Formal Affair
+
 A plated meal for parties of 30 people and under.  Servers required.
 
-APPETIZERS (Select 3)  Assorted Cheese & Crackers  ~  Vegetable Crudite with dip  ~                                             Bruschetta with Garlic Toast Points  ~  Jumbo Shrimp with a Zesty Cocktail Sauce  ~ Crabmeat Mousse with Crackers
+### Appetizers
 
-SALADS  (Select 1)  Fresh Garden Greens with tomato & cucumber  or Baby Spinach Salad with Mandarin oranges, cherry tomatoes, Seasoned Croutons & Poppy-seed Dressing
+**Select 3**
 
-ENTREES (Select 1)  Roasted New York Strip Steak with Bearnaise Sauce  ~  Baked Alaskan Salmon with fresh herb sauce  ~               Sauteed Breast of Chicken with sage stuffing and Supreme sauce
+- Assorted Cheese & Crackers
+- Vegetable Crudite with dip
+- Bruschetta with Garlic Toast Points
+- Jumbo Shrimp with a Zesty Cocktail Sauce
+- Crabmeat Mousse with Crackers
 
-ACCOMPANIMENTS   Thyme Roasted Baby New Potatoes  ~  Fresh Asparagus Spears in a zucchini basket
+### Salads
 
-DESSERTS  (Select 1)   Coconut Cream Pie  ~                                                                              Chocolate Covered Strawberries drizzled with white almond bark & Lemon Bars (table plated)
+**Select 1**
+
+- Fresh Garden Greens with tomato & cucumber
+- Baby Spinach Salad with Mandarin oranges, cherry tomatoes, Seasoned Croutons & Poppy-seed Dressing
+
+### Entrees
+
+**Select 1**
+
+- Roasted New York Strip Steak with Bearnaise Sauce
+- Baked Alaskan Salmon with fresh herb sauce
+- Sauteed Breast of Chicken with sage stuffing and Supreme sauce
+
+### Accompaniments
+
+- Thyme Roasted Baby New Potatoes
+- Fresh Asparagus Spears in a zucchini basket
+
+### Desserts
+
+**Select 1**
+
+- Coconut Cream Pie
+- Chocolate Covered Strawberries drizzled with white almond bark & Lemon Bars (table plated)
 
 * * *
 
-LUNCH on the LIGHT SIDE                                                                                                      Perfect for Wedding & Bridal Showers or Business Meeting Lunches!  For parties of 30 & under desiring a plated meal.                      LUNCH on the LIGHT SIDE menu requires servers
+## Lunch on the light side
 
-STUFFED TOMATO                                                                                                                                                    Garden tomatoes filled with your choice of freshly made Chicken Salad or Tuna Salad.                      Choice of Vegetable Crudite  or Fresh Fruit.CHICKEN CAESAR WRAP   Romaine lettuce tossed with tomatoes, Caesar dressing & Parmesan cheese, with tender strips of chicken breasts all wrapped in a flour tortilla.  Fresh Fruit sideCHICKEN CAESAR WRAP  Romaine lettuce tossed with tomatoes, Caesar dressing & parmesan Cheese, with tender strips if chicken breast all wrapped in a flour tortilla.
+Perfect for Wedding & Bridal Showers or business meeting Lunches!  For parties of 30 & under desiring a plated meal. This menu requires servers.
 
-VEGETARIAN WRAP   Healthy & delicious - the perfect combination!  Layers of lettuce, tomatoes, cucumbers, bell peppers, mushrooms & thinly sliced onions with Swiss & cheddar cheeses and drizzled with Italian dressing.  Fresh Fruit side
-
-CROISSANT SANDWICH   Buttery fresh croissant with lettuce & tomato ~ Choice of freshly made Ham, Chicken, Egg or Tuna Salad.  With a side of our very own Poppyseed Bowtie Pasta.
-
+### Stuffed Tomato
+Garden tomatoes filled with your choice of freshly made Chicken Salad or Tuna Salad. Choice of Vegetable Crudite or Fresh Fruit.
 
 
-
-SHOWER PACKAGE    The excitement is growing and there’s so much to do - Let us help!  We’ve designed a Shower menu with you in mind.  $ 12.25 per person - 20 person minimum   -  Plates, napkins & silverware additional.
-
-CROISSANT SANDWICH PLATTER   Buttery, flakey croissants with your choice of three sandwich fillings, all  with lettuce & tomatoes     Tuna Salad  ~  Chicken Salad  ~  Ham Salad  ~  Egg Salad  ~  Turkey & Swiss  ~  Ham & Cheddar  ~  Roast Beef & Cheddar
+### Chicken Caesar Wrap
+Romaine lettuce tossed with tomatoes, Caesar dressing & parmesan cheese, with tender strips if chicken breast all wrapped in a flour tortilla.
 
 
-TROPICAL BOWTIE CEASAR SALAD  A crisp romaine salad with Mandarin Oranges, Strawberries, Bowtie pasta & Poppyseed dressing
+### Vegetarian Wrap
 
-PINWHEEL SANDWICHES   Ham, Turkey, Genoa Salami, tomatoes, lettuce, onions & cheeses rolled in a flour tortilla with our specially flavored cream cheese and sliced into flavorful bite sized pieces
-
-
-SPINACH DIP  Fresh baked bread bowl filled with our own Spinach Dip made with Baby Spinach & fresh veggies
+Healthy & delicious - the perfect combination!  Layers of lettuce, tomatoes, cucumbers, bell peppers, mushrooms & thinly sliced onions with Swiss & cheddar cheeses and drizzled with Italian dressing.  Fresh Fruit side.
 
 
-FRESH FRUIT DISPLAY  and  VEGETABLE CRUDITE with dip
+### Croissant Sandwich
+
+Buttery fresh croissant with lettuce & tomato ~ Choice of freshly made Ham, Chicken, Egg or Tuna Salad.  With a side of our very own Poppyseed Bowtie Pasta.
+
+* * *
+
+## Shower Package
+
+The excitement is growing and there’s so much to do - Let us help!  We’ve designed a Shower menu with you in mind. Plates, napkins & silverware additional.
+
+**$12.25 per person - 20 person minimum**
+
+### Croissant Sandwich Platter
+
+Buttery, flakey croissants with your choice of three sandwich fillings, all  with lettuce & tomatoes
+
+- Tuna Salad
+- Chicken Salad
+- Ham Salad
+- Egg Salad
+- Turkey & Swiss
+- Ham & Cheddar
+- Roast Beef & Cheddar
 
 
-Having a Couples Shower?  We'll  “beef” up the Ladies Lunch & keep everyone happy & full!  Substitute a Hero Sandwich Platter for the Croissants Sandwiches for $1.00/personSandwich Platters come with Mustard & Mayo sides
+### Tropical Bowtie Caesar Salad
+
+A crisp romaine salad with Mandarin Oranges, Strawberries, Bowtie pasta & Poppyseed dressing
 
 
-THE ISLANDS   Dreaming of the ideal get-a-way or remembering that perfect vacation?  Just close your eyes, feel the breeze in your hair and the sun on your face … Our taste of The Islands will bring you there. Minimums may apply.
+### Pinwheel Sandwiches
+
+Ham, Turkey, Genoa Salami, tomatoes, lettuce, onions & cheeses rolled in a flour tortilla with our specially flavored cream cheese and sliced into flavorful bite sized pieces
 
 
-ENTREES (Select 2 or 3)  Pineapple Glazed Ham  ~  Polynesian Grilled Mahi Mahi  ~  Sweet & Sour Chicken with Fresh Pineapple  ~  Huli Huli Chicken  ~  Teriyaki Roast Pork Tenderloinoin with Sausage Stuffing
+### Spinach Dip
 
-SIDE DISHES & DESSERT   Spinach Salad with Mandarin Oranges & Poppyseed dressing  ~  Lomi Lomi - a classic Island Salad with Salmon, Tomatoes & Sweet Onions  ~  Sauteed Green Beans with Red Bell Peppers & Toasted Almonds  ~  Carved Watermelon Basket filled with fresh seasonal fruit salad  ~  Fried Rice  ~  Hawaiian Bread  ~  Cocoanut Cream Pie
+Fresh baked bread bowl filled with our own Spinach Dip made with Baby Spinach & fresh veggies
+
+
+### Fresh Fruit Display and Vegetable Crudite with dip
+
+
+**Having a Couples Shower?**  We'll  “beef” up the Ladies Lunch & keep everyone happy & full!  Substitute a Hero Sandwich Platter for the Croissants Sandwiches for $1.00/person.
+
+Sandwich Platters come with Mustard & Mayo sides.
+
+* * *
+
+## The Islands
+
+Dreaming of the ideal get-a-way or remembering that perfect vacation?  Just close your eyes, feel the breeze in your hair and the sun on your face …
+
+Our taste of The Islands will bring you there. Minimums may apply.
+
+### Entrees
+
+**Select 2 or 3**
+
+- Pineapple Glazed Ham
+- Polynesian Grilled Mahi Mahi
+- Sweet & Sour Chicken with Fresh Pineapple
+- Huli Huli Chicken
+- Teriyaki Roast Pork Tenderloinoin with Sausage Stuffing
+
+### Sides & Dessert
+
+- Spinach Salad with Mandarin Oranges & Poppyseed dressing
+- Lomi Lomi - a classic Island Salad with Salmon, Tomatoes & Sweet Onions
+- Sauteed Green Beans with Red Bell Peppers & Toasted Almonds
+- Carved Watermelon Basket filled with fresh seasonal fruit salad
+- Fried Rice
+- Hawaiian Bread
+- Coconut Cream Pie
 

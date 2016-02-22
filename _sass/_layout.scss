@@ -291,3 +291,21 @@
 .its-finest {
     text-align: right;
 }
+
+
+.themed-menus {
+    ul {
+        margin-left: 0;
+        list-style-type: none;
+        -moz-column-count: 3;
+        -moz-column-gap: 20px;
+        -webkit-column-count: 3;
+        -webkit-column-gap: 20px;
+        column-count: 3;
+        column-gap: 20px;
+        widows: 1;
+    }
+    li {
+        margin-bottom: 5px;
+    }
+}
