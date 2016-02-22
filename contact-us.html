@@ -1,0 +1,34 @@
+---
+layout: page
+title: "Contact Us"
+permalink: /contact-us/
+---
+
+<form action="http://formspree.io/kmorrell827@gmail.com" method="POST">
+    <div class="form-group">
+      <label for="name">Name</label>
+      <input type="text" name="name" class="form-control" required>
+    </div>
+    <div class="form-group">
+      <label for="company">Company</label>
+      <input type="text" name="company" class="form-control">
+    </div>
+    <div class="form-group">
+      <label for="phone">Phone number</label>
+      <input type="tel" name="phone" class="form-control" required>
+    </div>
+    <div class="form-group">
+      <label for="email">Email address</label>
+      <input type="email" name="email" class="form-control">
+    </div>
+    <div class="form-group">
+      <label for="date">Event date</label>
+      <input type="date" name="date" class="form-control">
+    </div>
+    <div class="form-group">
+      <label for="describe">Describe your event</label>
+      <textarea name="describe" rows="4" class="form-control" required></textarea>
+    </div>
+  <input type="hidden" name="_next" value="thanks/">
+  <input type="submit" value="Submit">
+</form>
