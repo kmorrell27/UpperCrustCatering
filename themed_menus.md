@@ -2,7 +2,7 @@
 layout: page
 title: Themed Menus
 permalink: /themed-menus/
-custom-classes: themed-menus
+custom-classes: three-column-lists
 ---
 
 Themed menus are all the rage and it's no wonder

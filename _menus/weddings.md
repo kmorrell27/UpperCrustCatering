@@ -3,6 +3,7 @@ layout: page
 title:  "Weddings"
 collection: menus
 order-by: 7
+custom-classes: three-column-lists
 ---
 
 ## Wedding Package
@@ -20,9 +21,9 @@ set-up, break down and cake cutting are available.
 
 - Imported Cheese & Cracker Display
 - Fresh Vegetable Crudité
-- Tropical Fruit Display 
+- Tropical Fruit Display
 - Crabmeat Mousse with Assorted Crackers
-- Jumbo Shrimp Cocktail  *(add $1 per person)* 
+- Jumbo Shrimp Cocktail  *(add $1 per person)*
 - Smoked Salmon Platter  *(add 75¢ per person)*
 
 * * *

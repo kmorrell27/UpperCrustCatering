@@ -8,8 +8,6 @@ order-by: 6
 ## Dessert Selections
 « Each platter serves 20 »
 
-* * *
-
 -------------|----
 Chocolate Drizzled Mini Cream Puff - 50 ct | $30
 Assorted Home Baked Cookies - 40 ct | $35
@@ -21,9 +19,9 @@ Lemon Bars - 40 pcs | $40
 Homemade Apple Crisp - Small *(12-15 servings)* | $30
 Homemade Apple Crisp - Large *(32-36 servings)* | $50
 
-## Beverages
-
 * * *
+
+## Beverages
 
 -------------|----
 Soft Drinks & Bottled Water	| $1/person

@@ -3,6 +3,7 @@ layout: page
 title:  "Elegant Buffets"
 collection: menus
 order-by: 2
+custom-classes: three-column-lists
 ---
 
 # Personalize Your Menu
