@@ -1,9 +1,11 @@
 ---
-layout: page
+layout: fancy-header
 title:  "Elegant Buffets"
 collection: menus
 order-by: 2
 custom-classes: three-column-lists
+image-filename: buffet.jpg
+headline: Elegant Buffets
 ---
 
 # Personalize Your Menu

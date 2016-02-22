@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: fancy-header
 title:  "Breakfast Buffets"
 collection: menus
 order-by: 3
+headline: "Breakfast Buffets"
+image-filename: breakfast.jpg
 ---
 
 ## Basic Breakfast Buffet

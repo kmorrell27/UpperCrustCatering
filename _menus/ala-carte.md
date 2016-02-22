@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: fancy-header
 title:  "Ala Carte Selections"
 collection: menus
 order-by: 3
+headline: "Ala Carte Selections"
+image-filename: ala-carte.jpg
 ---
 
 Each of our ala carte selections and sides & salads serve 20 people

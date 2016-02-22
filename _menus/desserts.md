@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: fancy-header
 title:  "Desserts & Beverages"
 collection: menus
 order-by: 6
+headline: "Desserts & Beverages"
+image-filename: dessert.jpg
 ---
 
 ## Dessert Selections

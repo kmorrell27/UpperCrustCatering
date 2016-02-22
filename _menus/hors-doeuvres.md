@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: fancy-header
 title:  "Hors d'oeuvres & Party Platters"
 collection: menus
 order-by: 1
+image-filename: hors-doeuvres.jpg
+headline: "Hors d'oeuvres & Party Platters"
 ---
 
 Party Platters are artfully arranged on black lacquer trays for an elegant presentation, appropriate for any occasion. Each platter serves 20.

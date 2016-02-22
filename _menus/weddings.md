@@ -1,9 +1,11 @@
 ---
-layout: page
+layout: fancy-header
 title:  "Weddings"
 collection: menus
 order-by: 7
 custom-classes: three-column-lists
+image-filename: wedding.jpg
+headline: "Weddings"
 ---
 
 ## Wedding Package

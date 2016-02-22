@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: fancy-header
 title:  "Boxed Lunches"
 collection: menus
 order-by: 5
+headline: "Boxed Lunches"
+image-filename: boxed-lunch.jpg
 ---
 
 
