@@ -1,10 +1,11 @@
 ---
-layout: fancy-header
+layout: menu
 title:  "Breakfast Buffets"
 collection: menus
 order-by: 3
 headline: "Breakfast Buffets"
 image-filename: breakfast.jpg
+additional-options: ["Disposable plates, Reflections Silverware and napkins are available for 70¢  per person with Breakfast orders.", "Black 'Lacquer-look' serving tongs & spoons available for 60¢  each.", "Chafing dishes available for $10.00 per hot item."]
 ---
 
 ## Basic Breakfast Buffet

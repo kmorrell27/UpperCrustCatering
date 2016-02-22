@@ -11,4 +11,14 @@ layout: default
   <div class="post-content">
     {{ content }}
   </div>
+  {% if page.additional-options %}
+  <div class="grey-well">
+    <h2>Additional Options</h2>
+    <ul>
+    {% for opt in page.additional-options %}
+      <li>{{ opt }}</li>
+    {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
 </div>

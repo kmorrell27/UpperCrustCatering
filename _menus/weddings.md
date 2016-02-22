@@ -15,7 +15,7 @@ the worry out of your hands and make sure this is the most
 memorable day of your lives. Full wait staff, including
 set-up, break down and cake cutting are available.
 
-*from $19.50 per person*
+*From $19.50 per person*
 
 * * *
 

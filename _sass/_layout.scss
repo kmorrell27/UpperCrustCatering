@@ -132,6 +132,14 @@
     padding: $spacing-unit 0;
     background-color: $brand-color;
     color: white;
+    a {
+        color: white;
+        font-weight: bold;
+
+        &:visited {
+            color: darken($link-color, 15%);
+        }
+    }
 }
 
 .footer-heading {
@@ -308,5 +316,18 @@
     }
     li {
         margin-bottom: 5px;
+    }
+}
+
+.grey-well {
+    background-color: $grey-color-light;
+    border: 1px solid $grey-color-dark;
+    padding: $spacing-unit/2;
+    ul {
+        margin-left: 20px;
+        list-style-type: bullet;
+        -moz-column-count: 1;
+        -webkit-column-count: 1;
+        column-count: 1;
     }
 }
