@@ -1,5 +1,5 @@
 ---
-layout: fancy-header
+layout: menu
 title:  "Hors d'oeuvres & Party Platters"
 collection: menus
 order-by: 1

@@ -154,11 +154,9 @@ Brownies & Cookies
 
 ## Taco Bar
 
-*... everything you need to build your own!*
+*... everything you need to build your own taco bar. For parties of 25 or more.*
 
 **2/person - $9.95 or 3/person - $10.95**
-
-Minimum 25 people
 
 ### Standard Taco Bar Includes
 
@@ -183,7 +181,7 @@ Minimum 25 people
 
 Our Station to Station Buffet offer an elegant & relaxing dining experience.  Perfect for wedding receptions and large gatherings.
 
-Chafing dishes, sterno, carving station, butane stoves & serving utensils included.  Station to Station Buffets require service staff.  *Minimum 100 people.*
+Chafing dishes, sterno, carving station, butane stoves & serving utensils included.  Station to Station Buffets require service staff.  For parties of 100 or more.
 
 ### Appetizers
 
@@ -286,7 +284,9 @@ A plated meal for parties of 30 people and under.  Servers required.
 
 ## Lunch on the light side
 
-Perfect for Wedding & Bridal Showers or business meeting Lunches!  For parties of 30 & under desiring a plated meal. This menu requires servers.
+Perfect for Wedding & Bridal Showers or business meeting Lunches!
+
+For parties of 30 & under desiring a plated meal. This menu requires servers.
 
 ### Stuffed Tomato
 Garden tomatoes filled with your choice of freshly made Chicken Salad or Tuna Salad. Choice of Vegetable Crudite or Fresh Fruit.

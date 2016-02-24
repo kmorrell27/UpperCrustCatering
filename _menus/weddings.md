@@ -1,5 +1,5 @@
 ---
-layout: fancy-header
+layout: menu
 title:  "Weddings"
 collection: menus
 order-by: 7
