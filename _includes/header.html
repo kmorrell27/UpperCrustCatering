@@ -17,11 +17,9 @@
       </a>
 
       <div class="trigger">
-        {% for my_page in site.pages %}
-          {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-          {% endif %}
-        {% endfor %}
+          <a class="page-link" href="{{ site.baseurl }}/about/">About</a>
+          <a class="page-link" href="{{ site.baseurl }}/menus/">Menus</a>
+          <a class="page-link" href="{{ site.baseurl }}/themed-menus/">Themed Menus</a>
           <a class="page-link" href="{{ site.baseurl }}/contact-us/">Contact Us</a>
       </div>
     </nav>

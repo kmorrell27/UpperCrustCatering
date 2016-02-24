@@ -5,7 +5,7 @@ collection: menus
 order-by: 8
 custom-classes: three-column-lists
 headline: "Bar and Beverage Service"
-
+image-filename: bar.jpg
 ---
 
 For those clients of our who choose to add spirits to their event we gladly offer the following packages.
