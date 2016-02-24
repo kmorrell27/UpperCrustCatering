@@ -15,7 +15,7 @@ description: > # this means to ignore newlines until "baseurl:"
   selections from simple to gourmet, all prepared with Chef Mitch's
   personal touch!
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "UpperCrustCatering" # the subpath of your site, e.g. /blog
 url: "http://www.uppercrust-catering.net" # the base hostname & protocol for your site
 
 collections:
