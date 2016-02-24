@@ -1,5 +1,5 @@
 ---
-layout: fancy-header
+layout: menu
 title:  "Elegant Buffets"
 collection: menus
 order-by: 2

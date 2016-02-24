@@ -4,7 +4,9 @@ layout: default
 
 <header class="hero hero__short" {% if page.image-filename %}
   style="background-image:url({{ site.baseurl }}/images/{{ page.image-filename }})" {% endif %}>
-  <h1 class="hero-headline">{{ page.headline }}</h1>
+  <div class="hero-headline">
+    <h1 class="">{{ page.headline }}</h1>
+  </div>
 </header>
 
 <div class="wrapper">

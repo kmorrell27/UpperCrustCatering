@@ -6,16 +6,10 @@ headline: "Check out our menus"
 ---
 
   <div class="menus">
-
-    <ul class="post-list">
-      {% assign menus = site.menus | sort: 'order-by' %}
-      {% for menu in menus %}
-        <li>
-          <h2 style="text-align: center">
-            <a class="post-link" href="{{ site.baseurl }}{{ menu.url }}">{{ menu.title }}</a>
-          </h2>
-        </li>
-      {% endfor %}
-    </ul>
-
+    {% assign menus = site.menus | sort: 'order-by' %}
+    {% for menu in menus %}
+      <h2 style="text-align: center">
+        <a class="post-link" href="{{ site.baseurl }}{{ menu.url }}">{{ menu.title }}</a>
+      </h2>
+    {% endfor %}
   </div>

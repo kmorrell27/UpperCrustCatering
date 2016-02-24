@@ -1,5 +1,5 @@
 ---
-layout: fancy-header
+layout: menu
 title:  "Boxed Lunches"
 collection: menus
 order-by: 5

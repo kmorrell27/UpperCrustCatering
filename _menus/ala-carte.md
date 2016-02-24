@@ -1,5 +1,5 @@
 ---
-layout: fancy-header
+layout: menu
 title:  "Ala Carte Selections"
 collection: menus
 order-by: 3
@@ -9,7 +9,7 @@ image-filename: ala-carte.jpg
 
 Each of our ala carte selections and sides & salads serve 20 people
 Disposable chafing dishes and sternos are available for $10 each
-Quality disposable plates, napkins & Reflections™ Silverware are available for 70¢ per person 
+Quality disposable plates, napkins & Reflections™ Silverware are available for 70¢ per person
 Black "lacquer-look" serving utensils are available for 60¢ each
 
 
@@ -25,7 +25,7 @@ Baked Mostaccioli *Herb seasoned marinara, ricotta cheese, beef & Italian sausag
 Italian Beef au Jus *Made fresh and seasoned to perfection with sweet pepper rings & hot giardiniera* | $65
 Fresh baked French rolls (per dozen) | $5.95
 Homemade Baked Lasagna *Layers of lasagna noodles, rich savory meat sauce, ricotta & mozzarella cheeses* | $60
-*Prefer to go vegetarian? Just ask - no charge!* | 
+*Prefer to go vegetarian? Just ask - no charge!* |
 Sandwich Platter *An assortment of freshly made ham, smoked turkey & roast beef sandwiches, all with lettuce, tomato & cheese. Mustard, mayo & bistro sauce sides.* | $60
 Egg Plant Parmesan *Vegetarian!* | $65
 Chicken Oreganato *Gluten free!* | $45
@@ -38,11 +38,11 @@ Pan Fried Chicken *We hand bread with our seasoned bread crumbs, fry to a perfec
 *Have your sandwich or deli platter with croissants ~ add $5 per platter.*
 
 Barnaby's Famous Grilled Pork Chops
- 
+
 *Absolutely the best pork chop ever!*
 *Such incredible flavor and so juicy you'll wish you had ordered more!*
 
-Marinated & ready to cook $ 5.49 per lb. | Grilled by us $ 4.39 each 
+Marinated & ready to cook $ 5.49 per lb. | Grilled by us $ 4.39 each
 
 Ala Carte Sides & Salads | Price
 ---------|---------

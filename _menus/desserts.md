@@ -1,5 +1,5 @@
 ---
-layout: fancy-header
+layout: menu
 title:  "Desserts & Beverages"
 collection: menus
 order-by: 6
