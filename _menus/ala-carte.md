@@ -5,6 +5,8 @@ collection: menus
 order-by: 3
 headline: "Ala Carte Selections"
 image-filename: ala-carte.jpg
+redirect_from:
+- /Menus/AlaCarteEntrees.aspx
 ---
 
 Each of our ala carte selections and sides & salads serve 20 people
