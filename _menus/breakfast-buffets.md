@@ -14,11 +14,11 @@ additional-options: ["Disposable plates, Reflections Silverware and napkins are 
 
 - Seasonal Fresh Fruit
 - Home Fries
-- Scrambled Eggs
+- Scrambled Eggs*
 - Bacon and Sausage
 - Breakfast Sweet Breads
 
-Substitute Breakfast Stradas for an additional 50¢ per person
+\*Substitute Breakfast Stradas for an additional 50¢ per person
 
 * * *
 
