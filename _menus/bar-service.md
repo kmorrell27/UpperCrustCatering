@@ -13,7 +13,7 @@ For those clients of our who choose to add spirits to their event we gladly offe
 
 ## Deluxe Open Bar
 
-4 hour bar service $18.75/person
+4 hour bar service $18.95/person
 
 Each additional hour $3.00/person
 
@@ -21,23 +21,28 @@ Each additional hour $3.00/person
 - Tanqueray Gin
 - Bacardi Light Rum
 - Captain Morgan Spiced Rum
-
 - Jack Daniels
 - Jim Beam
 - Crown Royal
 - Chivas Regal
 - Jose Cuervo Gold
-- Amaretto
+- Bailey's
+- Amaretto Disaronno
 - Peach Schnapps
 
-- Miller
-- Miller Light
+* * *
+
+- Budweiser
+- Bud Light
 - Heineken/Sam Adams
 - O'Doul's
 - Chardonnay
 - Cabernet
 - Merlot
 - White Zinfandel
+- Muscato
+
+* * *
 
 - Coke
 - Diet Coke
@@ -49,15 +54,18 @@ Each additional hour $3.00/person
 - Cranberry Juice
 - Pineapple Juice
 
+* * *
+
 - Grenadine
 - Sweet & Sour
 - Sweet & Dry Vermouth
+- Bitters
 - Triple Sec
 
 
 ## Traditional Open Bar
 
-4 hour bar service $15.25/person
+4 hour bar service $15.95/person
 
 each additional hour $2.50/person
 
@@ -65,19 +73,25 @@ each additional hour $2.50/person
 - Skyy Vodka
 - Beefeaters Gin
 - Bacardi Light Rum
+- Captain Morgan Spiced
 - Canadian Club
-
 - Jim Beam
 - Dewar's
-- Sauza Tequila
+- Jose Cuervo Tequila
 - Peach Schnapps
+- Amaretto
 
-- Miller
-- Miller Light
+* * *
+
+- Budweiser
+- Bud Light
 - O'Doul's
 - Chardonnay
 - Cabernet
 - White Zinfandel
+- Muscato
+
+* * *
 
 - Coke
 - Diet Coke
@@ -92,31 +106,41 @@ each additional hour $2.50/person
 - Grenadine
 - Sweet & Sour
 - Sweet & Dry Vermouth
+- Bitters
 - Triple Sec
 
 
-##Budget Friendly Open Bar
+## Budget Friendly Open Bar
 
 4 hour bar service $14.25/person
 
-each additional hour $2.25/person
+Each additional hour $2.00/person
 
-- Smirnoff Vodka
-- Seagrams Gin
-- Ronrico Rum
-- Jim Beam
+- Potter's House Brand Vodka
+- Gin
+- Bourbon
+- Whiskey
+- Rum
+- Tequila
 
-- Miller
-- Miller Light
+* * *
+
+- Budweiser
+- Bud Light
 - O'Doul's
 - Chardonay
 - Cabernet
+- White Zinfandel
+- Muscato
+
+* * *
 
 - Coke
 - Diet Coke
 - Sprite
 - Club Soda
 - Tonic Water
+- Bloody Mary Mix
 - Orange Juice
 - Cranberry Juice
 
@@ -124,22 +148,22 @@ each additional hour $2.25/person
 
 ## Beer, Wine & Soda Open Bar
 
-4 hour bar service $13.25/person  -
-each additional hour $2.25/person
+4 hour bar service $13.55/person  -
+Each additional hour $2.25/person
 
-- Miller
-- Miller Light
+- Budweiser
+- Bud Light
 - O'Doul's
 - Chardonnay
 - Cabernet
+- White Zinfandel
+- Muscato
+
+* * *
 
 - Coke
 - Diet Coke
 - Sprite
-- Club Soda
-- Tonic Water
-- Orange Juice
-- Cranberry Juice
 
 
 
@@ -163,7 +187,7 @@ Now for the serious stuff . . .
 
 Package prices are for parties of 75 people and over.  Please call for pricing on smaller parties.
 
-Bartenders $25.00/hour - Service hours include set-up, bar time, dinner hour and tear-down
+Bartenders $25.00/hour - Service hours include set-up, bar time, dinner hour and tear-down - minimum alcohol service labor charge $100.00
 
 We provide one bartender for every 75 guests.
 
@@ -197,14 +221,13 @@ We at Upper Crust wish for you and your guests to safely enjoy yourselves - to h
 
 UPPER CRUST CATERING BARTENDERS/WAIT STAFF AND/OR MANAGEMENT RESERVE THE RIGHT TO REFUSE ALCOHOL SERVICE TO ANY PATRON.
 
+IT IS A POLICY OF UPPER CRUST CATERING THAT WE DO NOT SERVE SHOTS.
+
 
 * * *
 
 DEPOSIT– A 50% deposit is required on all Bar Service Packages 30 days prior to event date.
 
-A 15% gratuity will be applied if using glassware (vs. disposable) or if a tip jar is not allowed.
+A 18% gratuity will be applied if using glassware (vs. disposable) or if a tip jar is not allowed.
 
-All applicable taxes and a $35.00 minimum Bar Delivery fee will be applied to all Bar Service events.
-
-
-
+All applicable taxes and a $35 minimum Bar Delivery fee will be applied to all Bar Service events.

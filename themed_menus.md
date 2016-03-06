@@ -26,34 +26,35 @@ Theme Menu package pricing is based on menu item selections and number of people
 - [Lunch on the light side](#lunch-on-the-light-side)
 - [Shower Package](#shower-package)
 - [The Islands](#the-islands)
+- [Seafood Buffet](#seafood-buffet)
 
 ***
 
 ## Chuck Wagon Days
 
-*Minimum 30 people*
+*$12.45 per person - Minimum 20 people*
 
 ### Entrees
 
-**Select 2 or 3**
+**Select 2**
 
-- Braised Beef Brisket
-- BBQ Pulled Pork
+- Braised Beef Brisket (add $1.00 per person)
 - Fried Chicken
-- Sloppy Joe's
+- BBQ Pulled Pork (Sandwich rolls included)
+- Sloppy Joes (Sandwich buns included)
 
 ### Sides
 
-**Select 3 or 4**
+**Select 3**
 
 - Tossed Mixed Greens *with tomatoes & cucumber and 2 dressings*
+- Baked Macaroni & Cheese
 - American Fried Potatoes
-- BBQ Baked Bean
+- Macaroni Pasta Salad
 - Corn O'Brien
-- Macaroni Salad
+- Baked Beans
 - Cole Slaw
-- Cornbread & Butter
-- Biscuits & Butter
+- Cornbread & Butter or Biscuits & Butter
 
 ### Desserts
 
@@ -66,7 +67,7 @@ Apple Crisp or Bread Pudding
 
 ### Entrees
 
-**Select 2 or 3**
+*30 person minimum - 2 Entress $13.25  3 Entres $15.25*
 
 - Chicken Pot Pie
 - Sliced Turkey & Gravy
@@ -81,9 +82,10 @@ Apple Crisp or Bread Pudding
 - Tossed Mixed Greens with tomatoes & cucumbers and choice of 2 dressings
 - Fresh Buttered Green Beans
 - Corn
+- Dinner Rolls & Butter
 - Biscuits & Butter
 
-**PLUS** Your choice of Mashed Potatoes  or  Au Gratins Potatoes
+**PLUS** Your choice of Mashed Potatoes  or  Au Gratin Potatoes
 
 ### Dessert
 
@@ -99,12 +101,12 @@ Homemade Apple Pie or  Fresh Baked Cookies
 
 ### Entrees
 
-**Select 3**
+**20 person minimum - Select 3**
 
 - Corn Dogs
 - Chili Cheese Dogs
 - Sliders
-- Fried Chicken
+- Fried Chicken Wings
 - Spaghetti & Meatballs
 
 ### Sides
@@ -122,15 +124,16 @@ Brownies & Cookies
 
 *Two great options for a south of the border taste!*
 
-**$10.95 per person  -  Minimum 30 people**
+**$14.95 per person  -  Minimum 30 people**
 
 ### Appetizers
 
-**Select 2**
+**Select 3**
 
+- Guacamole Deviled Eggs
 - Mini Chicken Quesadillas
 - 7 Layer Taco Dip & Chips
-- Tortilla Chips with choice of Black Bean & Corn Salsa, Chili Con Queso or Salsa
+- Tortilla Chips with choice of Salsa
 
 ### Entrees
 
@@ -154,9 +157,9 @@ Brownies & Cookies
 
 ## Taco Bar
 
-*... everything you need to build your own taco bar. For parties of 25 or more.*
+*... everything you need to build your own taco bar. For parties of 30 or more.*
 
-**2/person - $9.95 or 3/person - $10.95**
+**2/person - $10.95 or 3/person - $11.95**
 
 ### Standard Taco Bar Includes
 
@@ -196,7 +199,7 @@ Chafing dishes, sterno, carving station, butane stoves & serving utensils includ
 - Smoked Salmon with cream cheese & Party Rye
 - Rumaki with waterchestnuts
 - Proscuitto Wrapped Melon Wedges
-- Jumbo Shrimp with Zesty Cocktail Sauce
+- Jumbo Shrimp with Cocktail Sauce
 - Cocktail Meatballs (Swedish, Italian, Sweet & Sour)
 - Cheese & Cracker Display
 - Spinach Dip served in a fresh homemade bread bowl
@@ -248,9 +251,9 @@ A plated meal for parties of 30 people and under.  Servers required.
 **Select 3**
 
 - Assorted Cheese & Crackers
-- Vegetable Crudite with dip
+- Vegetable Crudité with dip
 - Bruschetta with Garlic Toast Points
-- Jumbo Shrimp with a Zesty Cocktail Sauce
+- Jumbo Shrimp with Cocktail Sauce
 - Crabmeat Mousse with Crackers
 
 ### Salads
@@ -264,9 +267,9 @@ A plated meal for parties of 30 people and under.  Servers required.
 
 **Select 1**
 
-- Roasted New York Strip Steak with Bearnaise Sauce
-- Baked Alaskan Salmon with fresh herb sauce
-- Sauteed Breast of Chicken with sage stuffing and Supreme sauce
+- Roasted New York Strip Steak with Bearnaise Sauce - $29.95
+- Baked Alaskan Salmon with fresh herb sauce - $22.956
+- Sauteed Breast of Chicken with sage stuffing and Supreme sauce - $19.95
 
 ### Accompaniments
 
@@ -275,35 +278,40 @@ A plated meal for parties of 30 people and under.  Servers required.
 
 ### Desserts
 
-**Select 1**
-
-- Coconut Cream Pie
-- Chocolate Covered Strawberries drizzled with white almond bark & Lemon Bars (table plated)
+Chocolate Covered Strawberries drizzled with white almond bark & Lemon Bars
 
 * * *
 
 ## Lunch on the light side
+
+**Select up to 3 entrees - $12.95 per person**
 
 Perfect for Wedding & Bridal Showers or business meeting Lunches!
 
 For parties of 30 & under desiring a plated meal. This menu requires servers.
 
 ### Stuffed Tomato
-Garden tomatoes filled with your choice of freshly made Chicken Salad or Tuna Salad. Choice of Vegetable Crudite or Fresh Fruit.
+Garden tomatoes filled with your choice of freshly made Chicken Salad or Tuna Salad. Seasonal Fresh Fruit
 
 
 ### Chicken Caesar Wrap
-Romaine lettuce tossed with tomatoes, Caesar dressing & parmesan cheese, with tender strips if chicken breast all wrapped in a flour tortilla.
+Romaine lettuce tossed with tomatoes, Caesar dressing, parmesan cheese, surrounded by tender strips of moist chicken breast all wrapped in a flour tortilla.
+Seasonal Fresh Fruit
 
 
 ### Vegetarian Wrap
 
-Healthy & delicious - the perfect combination!  Layers of lettuce, tomatoes, cucumbers, bell peppers, mushrooms & thinly sliced onions with Swiss & cheddar cheeses and drizzled with Italian dressing.  Fresh Fruit side.
+Healthy & delicious - the perfect combination!  Layers of lettuce, tomatoes, cucumbers, bell peppers, mushrooms & thinly sliced onions with Swiss & cheddar cheeses and drizzled with a lightly sweet Balsamic Vinaigrette.
+Seasonal Fresh Fruit
 
 
 ### Croissant Sandwich
 
-Buttery fresh croissant with lettuce & tomato ~ Choice of freshly made Ham, Chicken, Egg or Tuna Salad.  With a side of our very own Poppyseed Bowtie Pasta.
+Buttery fresh croissant brimming with your choice of Ham, Chicken, Egg or Tuna Salad.
+
+### Dessert & Beverages
+Assorted Fresh Baked Cookies
+Iced Tea with Lemon
 
 * * *
 
@@ -311,7 +319,7 @@ Buttery fresh croissant with lettuce & tomato ~ Choice of freshly made Ham, Chic
 
 The excitement is growing and there’s so much to do - Let us help!  We’ve designed a Shower menu with you in mind. Plates, napkins & silverware additional.
 
-**$12.25 per person - 20 person minimum**
+**$13.25 per person - 20 person minimum**
 
 ### Croissant Sandwich Platter
 
@@ -333,10 +341,10 @@ A crisp romaine salad with Mandarin Oranges, Strawberries, Bowtie pasta & Poppys
 
 ### Pinwheel Sandwiches
 
-Ham, Turkey, Genoa Salami, tomatoes, lettuce, onions & cheeses rolled in a flour tortilla with our specially flavored cream cheese and sliced into flavorful bite sized pieces
+Ham, Turkey, Genoa Salami, tomatoes, lettuce, onions & cheeses rolled in a flour tortilla with our seasoned cream cheese and sliced into flavorful bite sized pieces
 
 
-### Spinach Dip
+### Spinach Bread Bowl
 
 Fresh baked bread bowl filled with our own Spinach Dip made with Baby Spinach & fresh veggies
 
@@ -376,3 +384,32 @@ Our taste of The Islands will bring you there. Minimums may apply.
 - Hawaiian Bread
 - Coconut Cream Pie
 
+## Seafood Buffet
+
+### Seafood options
+
+*50 person minimum ~ 2 entrees $13.95 ~ 3 entrees $15.95*
+
+- Fried Cod
+- Fresh Perch
+- Fried Catfish
+ 
+- Baked Salmon with Chardonnay Herb Sauce
+- Baked Stuffed Flounder
+
+All Entrees come with Homemade Tartar Sauce & Lemons
+
+### Side Options
+
+*Select 3*
+
+- Potato Pancakes with Applesauce & Sour Cream
+- Lyonnaise Potatoes
+- Corn on the Cob
+
+- Potatoes O'Brien
+- Cole Slaw
+- Baked Beans
+
+- Tossed Mixed Greens - Choice of 2 dressings
+- Homemade Bread or Dinner Rolls - with butter

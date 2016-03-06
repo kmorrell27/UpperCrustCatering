@@ -26,7 +26,6 @@ body {
 }
 
 
-
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
@@ -60,6 +59,16 @@ figcaption {
     font-size: $small-font-size;
 }
 
+/**
+ * Tables!
+ */
+table {
+  width: 100%;
+}
+
+td:nth-child(2) {
+  text-align: right;
+}
 
 
 /**

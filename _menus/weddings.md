@@ -3,7 +3,7 @@ layout: menu
 title:  "Weddings"
 collection: menus
 order-by: 7
-custom-classes: three-column-lists
+custom-classes: "three-column-lists"
 image-filename: wedding.jpg
 headline: "Weddings"
 ---
@@ -15,7 +15,7 @@ the worry out of your hands and make sure this is the most
 memorable day of your lives. Full wait staff, including
 set-up, break down and cake cutting are available.
 
-*From $19.50 per person*
+*From $21.95 per person*
 
 * * *
 
@@ -32,13 +32,14 @@ set-up, break down and cake cutting are available.
 
 **Entrees (Select Two)**
 
-- Carved Sirloin au jus
 - London Broil with Sauce Bordelaise
-- Baked Salmon with Fresh Herb Sauce
-- Roast Carved Turkey with Fresh Cranberries
+- Carved Sirloin au jus
+- Baked Salmon with Forentine Sauce
 - Herb Roasted Chicken
-- Chicken Francaise with Beurre Blanc
+- Stuffed Pork Loin with Apple Cider Sauce
 - Carved Chateau Briand with Portobello Cognac Sauce *available at market price*
+- Roast Carved Turkey with Fresh Cranberries
+- Chicken Francaise with Beurre Blanc
 
 * * *
 
@@ -63,12 +64,26 @@ set-up, break down and cake cutting are available.
 **Salads (Select Two)**
 
 - Classic Caesar Salad
-- Tossed Mixed Greens
 - Fresh Fruit Salad
 - Greek Salad with Feta, Black Olives, Tomatoes and Red Onions
+- Fresh Bibb & Romaine Tossed Greens
 
 * * *
 
 **Breads (Select One)**
 
 Fresh Baked Bread & Butter   *OR*   Dinner Rolls & Butter
+
+* * *
+
+**Included**
+
+- Coffee Service
+- Disposable plates, silverware, & napkins
+- Chafing dishes & serving utensils
+- Cake cutting services
+
+**Additional services**
+
+- Servers/Carver - $25/hr each
+- Rental arrangements

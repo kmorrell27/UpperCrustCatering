@@ -5,7 +5,7 @@ collection: menus
 order-by: 3
 headline: "Breakfast Buffets"
 image-filename: breakfast.jpg
-additional-options: ["Disposable plates, Reflections Silverware and napkins are available for 70¢  per person with Breakfast orders.", "Black 'Lacquer-look' serving tongs & spoons available for 60¢  each.", "Chafing dishes available for $10.00 per hot item."]
+additional-options: ["Disposable plates, Reflections Silverware and napkins are available for 70¢  per person with Breakfast orders.", "Black 'Lacquer-look' serving tongs & spoons available for 60¢  each.", "Chafing dishes available for $10 per hot item."]
 ---
 
 ## Basic Breakfast Buffet
@@ -14,10 +14,11 @@ additional-options: ["Disposable plates, Reflections Silverware and napkins are 
 
 - Seasonal Fresh Fruit
 - Home Fries
-- Scrambled Eggs *
+- Scrambled Eggs
 - Bacon and Sausage
 - Breakfast Sweet Breads
-* Substitute Breakfast Stradas for an additional 50¢ per person
+
+Substitute Breakfast Stradas for an additional 50¢ per person
 
 * * *
 
@@ -25,7 +26,10 @@ additional-options: ["Disposable plates, Reflections Silverware and napkins are 
 
 **$40.00 (serves 20 people)**
 
-Ham, Sausage, & Cheddar  ~  Bacon, Onion & Swiss  ~  Seafood  ~  Vegetarian
+- Ham, Sausage, & Cheddar
+- Bacon, Onion & Swiss
+- Seafood
+- Vegetarian
 
 * * *
 
@@ -33,9 +37,9 @@ Ham, Sausage, & Cheddar  ~  Bacon, Onion & Swiss  ~  Seafood  ~  Vegetarian
 
 **$5.50 per person**
 
-Seasonal Fruit Tray
+- Seasonal Fruit Tray
 
-Breakfast Sweet Breads
+- Breakfast Sweet Breads
 
 * * *
 
