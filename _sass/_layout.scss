@@ -317,6 +317,25 @@
     }
     li {
         margin-bottom: 5px;
+        display: inline-block
+    }
+}
+
+.two-column-lists {
+    ul {
+        margin-left: 0;
+        list-style-type: none;
+        -moz-column-count: 2;
+        -moz-column-gap: 20px;
+        -webkit-column-count: 2;
+        -webkit-column-gap: 20px;
+        column-count: 2;
+        column-gap: 20px;
+        widows: 1;
+    }
+    li {
+        margin-bottom: 5px;
+        display: inline-block
     }
 }
 
@@ -384,3 +403,4 @@ input[type="date"] {
         column-count: 1;
     }
 }
+
