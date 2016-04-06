@@ -10,7 +10,7 @@ additional-options: ["Disposable plates, Reflections Silverware and napkins are 
 
 ## Basic Breakfast Buffet
 
-**$8.75 per person**
+**$9.25  per person**
 
 - Seasonal Fresh Fruit
 - Home Fries
