@@ -30,3 +30,7 @@ full_rebuild: true
 
 # Build settings
 markdown: kramdown
+
+prose:
+  siteurl: "http://www.uppercrust-catering.net"
+  media: "images"
