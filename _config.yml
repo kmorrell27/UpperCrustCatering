@@ -34,3 +34,14 @@ markdown: kramdown
 prose:
   siteurl: "http://www.uppercrust-catering.net"
   media: "images"
+  ignore:
+    - /includes
+    - /layouts
+    - /posts
+    - /_sass
+    - /css
+    - .gitignore
+    - CNAME
+    - _config.yaml
+    - favicon.ico
+    - feed.xml
