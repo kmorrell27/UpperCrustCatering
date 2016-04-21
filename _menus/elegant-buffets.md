@@ -168,7 +168,7 @@ Servers/Carver available for $25/hr/server
 
 Black lacquer-look serving tongs & spoons are available 60¢ each.
 
-Chafing dishes and sterno available for $10.00 per hot selection.
+Chafing dishes and sterno available for $10 per hot selection.
 
 Disposable "Linen Look " table cloths available for $6.50 each.
 
