@@ -28,6 +28,7 @@
     }
 
     @include media-query($on-palm) {
+        float: left;
         max-width: 60%;
         padding: 5px;
     }
