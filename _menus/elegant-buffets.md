@@ -102,7 +102,7 @@ Roasted Prime Rib of Beef  ~  *available at Market Price*
 ### Salads
 
 - Baby Spinach Salad
-with Mandarin Oranges, Tomatoes
+with Mandarin Oranges, Tomatoes & Raspberry Vinaigarette Dressing
 - American Potato Salad
 - Creamy Cole Slaw
 - Bow Tie Caesar Salad
@@ -115,7 +115,6 @@ with peas and tomatoes
 with garden vegetables
 - Classic Caesar Salad
 with croutons & parmesan
-& Raspberry Vinaigarette Dressing
 - Tossed Mixed Greens (Romaine, Spinach & Iceberg Blend)
 with Tomatoes & Cucumbers
 plus choice of 2 Dressings
