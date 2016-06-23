@@ -66,7 +66,7 @@ Creamy Cole Slaw | $25
 Seasonal Fruit Display *A mouthwatering display of the season's best fruit* | $60
 Watermelon Fruit Basket *Beautiful presentation of fresh fruit in a carved watermelon basket* | $70
 Watermelon Wedge Platter *(Seasonal)* | $45
-Macaroni & Cheese | $35
+Macaroni & Cheese | $40
 Cheesy Hashbrown Casserole | $50
 Thyme Roasted New Potatoes | $35
 Scalloped Potatoes | $35
