@@ -1,0 +1,125 @@
+---
+layout: page
+title: Christmas Menus
+permalink: /specials/christmas/
+custom-classes: three-column-lists
+---
+
+The holidays are fast approaching!
+
+To help you celebrate we’ve put together some of our favorite selections for
+several delicious Christmas party menus
+
+***
+
+## White Christmas
+
+$36/person
+
+### Hors d'oeuvres
+- Assorted cheeses & fresh fruit display
+- Crabmeat mousse with assorted crackers
+- Brushetta with garlic toast points
+- Chilled shrimp with zesty cocktail sauce
+- Vegetable crudités with ranch dipping sauce
+
+### Entrees
+- Sautéed breast of chicken filled with sage stuffing served with a supreme
+sauce
+- Basked alaskan salmon finished with a fresh herb sauce
+
+### Accompaniments
+- Thyme roasted baby new potatoes
+- Fresh asparagus spears in a zucchini basket
+
+### Desserts
+Chocolate covered strawberries
+Assorted mini cheesecakes
+Christmas cookies
+
+*Minimum of 20 people - Servers $25 per hour each*
+
+* * *
+
+## Stocking Stuffers
+
+Heavy hors d'oeuvres dinner - $29 per person
+
+### Choose six selections from the following
+
+- Hand carved sirloin or pork loin with silver dollar rolls & apple horseradish
+sauce
+- Smoked salmon & cocktail rye with chopped eggs & onions garnished with cream
+cheese & capers
+- Hand carved turkey with cranberry mandarin orange sauce
+- Cocktail meatballs (Sweet & sour _or_ Swedish)
+- Pinwheel sandwiches - Ham, smoked turkey, salami, swiss, cheddar, lettuce,
+tomatoes & onions rolled in a flour tortilla with our uniquely seasoned cream
+cheese
+- Jumbo shrimp with zesty cocktail sauce
+- Assorted cheeses & fresh fruit display
+- Chicken drumettes (Spicy _or_ teriyaki)
+- Fresh vegetable crudités with dip
+- Crab & shrimp stuffed mushrooms
+- Holiday favorites dessert assortment
+
+*$25 per hour carver fee applies to carved sirloin, pork loin, or carved
+turkey selections*
+
+*Minimum of 20 people - Additional servers $25 per hour each*
+
+* * *
+
+## Santa Claus is Coming to Town
+
+*$17.45 per person*
+
+### Three Entrees
+
+- Roasted pork loin with apple cider sauce
+- Mostaccioli - Choice of meat _or_ meatless
+- Herb roasted chicken
+
+### Plus
+
+- Tossed mixed greens with choice of dressing
+- Gingered carrots
+- Thyme roasted baby new potatoes
+- Dinner rolls & butter
+- Assorted holiday dessert display
+
+*Minimum of 20 people - Servers and/or carver $25 per hour each*
+
+***
+
+## Christmas Eve Menu
+
+$13.95 per person for parties of 10 or larger
+
+$15.95 per person for parties fewer than 10
+
+### Your Choice of Two Entrees
+
+- Oven roasted turkey
+- Homemade lasagna
+- Honey mustard glazed baked ham
+
+### Plus
+
+- Sage stuffing with mashed potatoes & gravy
+- Green bean casserole
+- 7 layer salad
+- Dinner rolls & butter
+
+### Dessert
+
+- Raspberry cheesecake in a chocolate soufflé cup
+
+*Orders for Christmas Eve or Christmas Day need to be placed by Tuesday,
+December 20 for pick-up only by 3:00PM on December 24th*
+
+*We gladly provided printed heating instructions for all Christmas Eve Menu
+orders*
+
+*add plates, napkin, silverware & serving tongs and spoons for an additional
+70¢/person*
