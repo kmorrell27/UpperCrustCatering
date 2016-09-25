@@ -2,7 +2,7 @@
 layout: page
 title: Themed Menus
 permalink: /themed-menus/
-custom-classes: three-column-lists
+custom-classes: dotted-lists
 ---
 
 Themed menus are all the rage and it's no wonder
@@ -393,7 +393,6 @@ Our taste of The Islands will bring you there. Minimums may apply.
 - Fried Cod
 - Fresh Perch
 - Fried Catfish
- 
 - Baked Salmon with Chardonnay Herb Sauce
 - Baked Stuffed Flounder
 
@@ -406,10 +405,8 @@ All Entrees come with Homemade Tartar Sauce & Lemons
 - Potato Pancakes with Applesauce & Sour Cream
 - Lyonnaise Potatoes
 - Corn on the Cob
-
 - Potatoes O'Brien
 - Cole Slaw
 - Baked Beans
-
 - Tossed Mixed Greens - Choice of 2 dressings
 - Homemade Bread or Dinner Rolls - with butter

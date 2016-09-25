@@ -364,6 +364,23 @@
     }
 }
 
+.dotted-lists {
+  ul {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    margin-left: 0;
+  }
+  li {
+    margin: 5px 10px 5px 0;
+    display: inline-block;
+  }
+  li:not(:last-child):after{
+    content: " ●";
+    font-size: 1em;
+  }
+}
+
 .form-control {
   display: block;
   width: 100%;
@@ -428,4 +445,3 @@ input[type="date"] {
         column-count: 1;
     }
 }
-
