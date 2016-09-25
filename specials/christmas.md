@@ -90,7 +90,31 @@ turkey selections*
 
 *Minimum of 20 people - Servers and/or carver $25 per hour each*
 
-***
+* * *
+
+## Chestnuts Roasting
+
+$18.45 per person
+
+*Minimum of 25 people*
+
+### Two Entrees
+
+- Carved London broil with natural sauce
+- Carved roast turkey with giblet gravy & sage stuffing
+
+### Plus
+
+- Cranberry & Mandarin orange sauce
+- Tossed mixed greens with choice of two dressings
+- Sautéed green beans seasoned with fresh sage
+- Roasted garlic mashed potatoes
+- Dinner rolls & butter
+- Assorted holiday dessert display
+
+*Servers and/or carver $25 per hour each*
+
+* * *
 
 ## Christmas Eve Menu
 

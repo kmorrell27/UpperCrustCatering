@@ -8,6 +8,15 @@
 
     // Positioning context for the mobile navigation icon
     position: relative;
+
+    .wrapper {
+        max-width: -webkit-calc(928px - (30px * 2));
+        max-width: calc(928px - (30px * 2));
+        margin-right: auto;
+        margin-left: auto;
+        padding-right: 30px;
+        padding-left: 30px;
+    }
 }
 
 .site-title {
