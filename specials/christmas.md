@@ -26,7 +26,7 @@ $36/person
 ### Entrees
 - Sautéed breast of chicken filled with sage stuffing served with a supreme
 sauce
-- Basked alaskan salmon finished with a fresh herb sauce
+- Baked Alaskan salmon finished with a fresh herb sauce
 
 ### Accompaniments
 - Thyme roasted baby new potatoes
