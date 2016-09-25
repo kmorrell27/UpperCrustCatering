@@ -8,6 +8,15 @@
 
     // Positioning context for the mobile navigation icon
     position: relative;
+
+    .wrapper {
+        max-width: -webkit-calc(928px - (30px * 2));
+        max-width: calc(928px - (30px * 2));
+        margin-right: auto;
+        margin-left: auto;
+        padding-right: 30px;
+        padding-left: 30px;
+    }
 }
 
 .site-title {
@@ -321,16 +330,19 @@
         margin-left: 0;
         list-style-type: none;
         -moz-column-count: 3;
-        -moz-column-gap: 20px;
-        -webkit-column-count: 3;
+        -moz-columns: 20px;
+        -webkit-columns: 3;
         -webkit-column-gap: 20px;
-        column-count: 3;
+        columns: 3;
         column-gap: 20px;
+        column-fill: balance;
+        -moz-column-fill: balance;
+        list-style-position: inside;
         widows: 1;
     }
     li {
         margin-bottom: 5px;
-        display: inline-block
+        page-break-inside: avoid;
     }
 }
 

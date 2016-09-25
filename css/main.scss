@@ -29,7 +29,7 @@ $grey-color-dark:  darken($grey-color, 25%);
 $content-width:    863px;
 
 $on-palm:          600px;
-$on-laptop:        863px;
+$on-laptop:        942px;
 
 
 // Use media queries like this:
@@ -44,8 +44,6 @@ $on-laptop:        863px;
         @content;
     }
 }
-
-
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
