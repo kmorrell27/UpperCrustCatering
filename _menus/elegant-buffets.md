@@ -18,7 +18,7 @@ Easy and delicious!
 
 ## Buffet Selections ~ Menu 1
 
-$ 12.45 per person
+$ 12.75 per person
 
 **Select 2 Entrees**
 
@@ -45,7 +45,7 @@ $ 12.45 per person
 
 ## Buffet Selections ~ Menu 2
 
-$13.45 per person
+$13.75 per person
 
 **Select 2 Entrees**
 
@@ -69,7 +69,7 @@ $13.45 per person
 
 ## Buffet Selections ~ Menu 3
 
-$14.45 per person
+$14.75 per person
 
 **Select 2 Entrees**
 
@@ -83,12 +83,12 @@ $14.45 per person
 - Baked Cod Filet Milanese *topped with Herb Seasoned Bread Crumbs*
 
 - Roasted Prime Rib of Beef - *Gluten Free - Market Price*
-- Braised Beef Brisket - *braised with garlic, onion & tomatoes until mouth watering tender - $14.75 with 1 selection from Menu 3*
+- Braised Beef Brisket - *braised with garlic, onion & tomatoes until mouth watering tender - $14.95 with 1 selection from Menu 3*
 
 
-- Baked Salmon *with Fresh Herb Sauce along with 1 other Entree from Menu 3. . . $ 14.95 per person*
+- Baked Salmon *with Fresh Herb Sauce along with 1 other Entree from Menu 3. . . $ 15.25 per person*
 
-- Sauteed Orange Roughy *with Fresh Spinach Sauce along with 1 other Entree selection from Menu 3 . . . $15.95 per person*
+- Sauteed Orange Roughy *with Fresh Spinach Sauce along with 1 other Entree selection from Menu 3 . . . $16.25 per person*
 
 Roasted Prime Rib of Beef  ~  *available at Market Price*
 
@@ -163,12 +163,12 @@ All of our Elegant Buffet Menus include quality 3-compartment disposable dinner 
 
 Upgrade disposables, as well as, china, glassware and silver are available.  Please contact us for information & pricing.
 
-Servers/Carver available for $25/hr/server
+Servers/Carver available for $28/hr/server
 
 Black lacquer-look serving tongs & spoons are available 60¢ each.
 
 Chafing dishes and sterno available for $10 per hot selection.
 
-Disposable "Linen Look " table cloths available for $6.50 each.
+Disposable "Linen Look " table cloths available for $6.75 each.
 
 A 10% surcharge may be applied to parties fewer than 20 people.

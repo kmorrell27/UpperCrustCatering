@@ -11,11 +11,11 @@ image-filename: bar.jpg
 For those clients of our who choose to add spirits to their event we gladly offer the following packages.
 
 
-## Deluxe Open Bar
+## Top Shelf Open Bar
 
-4 hour bar service $18.95/person
+4 hour bar service $19.95/person
 
-Each additional hour $3.00/person
+Each additional hour $3/person
 
 - Absolut Vodka
 - Tanqueray Gin
@@ -26,7 +26,6 @@ Each additional hour $3.00/person
 - Crown Royal
 - Chivas Regal
 - Jose Cuervo Gold
-- Bailey's
 - Amaretto Disaronno
 - Peach Schnapps
 
@@ -34,12 +33,10 @@ Each additional hour $3.00/person
 
 - Budweiser
 - Bud Light
-- Heineken/Sam Adams
-- O'Doul's
+- Heineken
 - Chardonnay
 - Cabernet
 - Merlot
-- White Zinfandel
 - Muscato
 
 * * *
@@ -65,7 +62,7 @@ Each additional hour $3.00/person
 
 ## Traditional Open Bar
 
-4 hour bar service $15.95/person
+4 hour bar service $16.95/person
 
 each additional hour $2.50/person
 
@@ -85,10 +82,8 @@ each additional hour $2.50/person
 
 - Budweiser
 - Bud Light
-- O'Doul's
 - Chardonnay
 - Cabernet
-- White Zinfandel
 - Muscato
 
 * * *
@@ -114,23 +109,21 @@ each additional hour $2.50/person
 
 4 hour bar service $14.25/person
 
-Each additional hour $2.00/person
+Each additional hour $2.25/person
 
-- Potter's House Brand Vodka
 - Gin
 - Bourbon
 - Whiskey
 - Rum
 - Tequila
+- Amaretto
 
 * * *
 
 - Budweiser
 - Bud Light
-- O'Doul's
 - Chardonay
 - Cabernet
-- White Zinfandel
 - Muscato
 
 * * *
@@ -148,15 +141,13 @@ Each additional hour $2.00/person
 
 ## Beer, Wine & Soda Open Bar
 
-4 hour bar service $13.55/person  -
-Each additional hour $2.25/person
+4 hour bar service $13.50/person  -
+Each additional hour $2/person
 
 - Budweiser
 - Bud Light
-- O'Doul's
 - Chardonnay
 - Cabernet
-- White Zinfandel
 - Muscato
 
 * * *
@@ -172,13 +163,13 @@ Each additional hour $2.25/person
 
 4 hour bar service & 100 person minimum
 
-$1.00/person non-refundable deposit (for the cost of ice and fruit)
+$1/person non-refundable deposit (for the cost of ice and fruit)
 
-Deluxe Cocktails $5.00  -  Traditional Cocktails $4.00  -  Wine $4.00
+Deluxe Cocktails $5  -  Traditional Cocktails $4  -  Wine $4
 
-Imported Beer $4.00  -  Domestic Beer $3.00
+Imported Beer $4  -  Domestic Beer $3
 
-Soft Drinks $1.00  -  Bottled Water $ 2.00
+Soft Drinks $1  -  Bottled Water $ 2
 
 * * *
 
@@ -187,7 +178,9 @@ Now for the serious stuff . . .
 
 Package prices are for parties of 75 people and over.  Please call for pricing on smaller parties.
 
-Bartenders $25.00/hour - Service hours include set-up, bar time, dinner hour and tear-down - minimum alcohol service labor charge $100.00
+Bartenders $28/hour - Service hours include set-up, bar time, dinner hour and tear-down - minimum alcohol service labor charge $150.00
+
+We are happy to provide bartenders for those who wish to supply their own liquor, ice and supplies. A Liquor Licensing Fee of $1.50/person will be charged.
 
 We provide one bartender for every 75 guests.
 

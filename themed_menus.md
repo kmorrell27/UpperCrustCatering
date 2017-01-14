@@ -23,7 +23,6 @@ Theme Menu package pricing is based on menu item selections and number of people
 - [Taco Bar](#taco-bar)
 - [Station to Station](#station-to-station)
 - [A Formal Affair](#a-formal-affair)
-- [Lunch on the light side](#lunch-on-the-light-side)
 - [Shower Package](#shower-package)
 - [The Islands](#the-islands)
 - [Seafood Buffet](#seafood-buffet)
@@ -32,7 +31,7 @@ Theme Menu package pricing is based on menu item selections and number of people
 
 ## Chuck Wagon Days
 
-*$12.45 per person - Minimum 20 people*
+*$12.75 per person - Minimum 20 people*
 
 ### Entrees
 
@@ -67,7 +66,7 @@ Apple Crisp or Bread Pudding
 
 ### Entrees
 
-*30 person minimum - 2 Entress $13.25  3 Entres $15.25*
+*30 person minimum - 2 Entrees $13.60  3 Entrees $15.60*
 
 - Chicken Pot Pie
 - Sliced Turkey & Gravy
@@ -85,7 +84,7 @@ Apple Crisp or Bread Pudding
 - Dinner Rolls & Butter
 - Biscuits & Butter
 
-**PLUS** Your choice of Mashed Potatoes  or  Au Gratin Potatoes
+**PLUS** Your choice of Mashed Potatoes or Au Gratin Potatoes
 
 ### Dessert
 
@@ -99,9 +98,9 @@ Homemade Apple Pie or  Fresh Baked Cookies
 
 *All condiments included!*
 
-### Entrees
+*20 person minimum - Select 3 Entrees $12.25*
 
-**20 person minimum - Select 3**
+### Entrees
 
 - Corn Dogs
 - Chili Cheese Dogs
@@ -124,7 +123,7 @@ Brownies & Cookies
 
 *Two great options for a south of the border taste!*
 
-**$14.95 per person  -  Minimum 30 people**
+**$15.25 per person  -  Minimum 30 people**
 
 ### Appetizers
 
@@ -132,8 +131,10 @@ Brownies & Cookies
 
 - Guacamole Deviled Eggs
 - Mini Chicken Quesadillas
+- Black Bean & Corn Salsa with Tortilla Chips
 - 7 Layer Taco Dip & Chips
-- Tortilla Chips with choice of Salsa
+- Chile Con Queso Dip with Tortilla Chips
+- Hop Salsa with Tortilla Chips
 
 ### Entrees
 
@@ -159,7 +160,7 @@ Brownies & Cookies
 
 *... everything you need to build your own taco bar. For parties of 30 or more.*
 
-**2/person - $10.95 or 3/person - $11.95**
+**2/person - $11.25 or 3/person - $12.25**
 
 ### Standard Taco Bar Includes
 
@@ -246,6 +247,8 @@ Prepared upon your guests request
 
 A plated meal for parties of 30 people and under.  Servers required.
 
+*Servers $28/hour*
+
 ### Appetizers
 
 **Select 3**
@@ -282,44 +285,11 @@ Chocolate Covered Strawberries drizzled with white almond bark & Lemon Bars
 
 * * *
 
-## Lunch on the light side
-
-**Select up to 3 entrees - $12.95 per person**
-
-Perfect for Wedding & Bridal Showers or business meeting Lunches!
-
-For parties of 30 & under desiring a plated meal. This menu requires servers.
-
-### Stuffed Tomato
-Garden tomatoes filled with your choice of freshly made Chicken Salad or Tuna Salad. Seasonal Fresh Fruit
-
-
-### Chicken Caesar Wrap
-Romaine lettuce tossed with tomatoes, Caesar dressing, parmesan cheese, surrounded by tender strips of moist chicken breast all wrapped in a flour tortilla.
-Seasonal Fresh Fruit
-
-
-### Vegetarian Wrap
-
-Healthy & delicious - the perfect combination!  Layers of lettuce, tomatoes, cucumbers, bell peppers, mushrooms & thinly sliced onions with Swiss & cheddar cheeses and drizzled with a lightly sweet Balsamic Vinaigrette.
-Seasonal Fresh Fruit
-
-
-### Croissant Sandwich
-
-Buttery fresh croissant brimming with your choice of Ham, Chicken, Egg or Tuna Salad.
-
-### Dessert & Beverages
-Assorted Fresh Baked Cookies
-Iced Tea with Lemon
-
-* * *
-
 ## Shower Package
 
 The excitement is growing and there’s so much to do - Let us help!  We’ve designed a Shower menu with you in mind. Plates, napkins & silverware additional.
 
-**$13.25 per person - 20 person minimum**
+**$13.50 per person - 20 person minimum**
 
 ### Croissant Sandwich Platter
 
@@ -352,7 +322,7 @@ Fresh baked bread bowl filled with our own Spinach Dip made with Baby Spinach & 
 ### Fresh Fruit Display and Vegetable Crudite with dip
 
 
-**Having a Couples Shower?**  We'll  “beef” up the Ladies Lunch & keep everyone happy & full!  Substitute a Hero Sandwich Platter for the Croissants Sandwiches for $1.00/person.
+**Having a Couples Shower?**  We'll  “beef” up the Ladies Lunch & keep everyone happy & full!  Substitute a Hero Sandwich Platter for the Croissants Sandwiches for $1/person.
 
 Sandwich Platters come with Mustard & Mayo sides.
 

@@ -36,6 +36,7 @@ set-up, break down and cake cutting are available.
 - Carved Sirloin au jus
 - Baked Salmon with Forentine Sauce
 - Herb Roasted Chicken
+- Stuffed Breast of Chicken filled with Sage Dressing
 - Stuffed Pork Loin with Apple Cider Sauce
 - Carved Chateau Briand with Portobello Cognac Sauce *available at market price*
 - Roast Carved Turkey with Fresh Cranberries
@@ -82,8 +83,9 @@ Fresh Baked Bread & Butter   *OR*   Dinner Rolls & Butter
 - Disposable plates, silverware, & napkins
 - Chafing dishes & serving utensils
 - Cake cutting services
+- Fresh relish tray on each guest table
 
 **Additional services**
 
-- Servers/Carver - $25/hr each
+- Servers/Carver - $28/hr each
 - Rental arrangements
