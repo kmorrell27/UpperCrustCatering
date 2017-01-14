@@ -73,7 +73,7 @@ $13.25 per person
 
 - Roasted tom turkey with sage stuffing
 - Whipped potatoes with giblet gravy
-- Candied sweet potatoes
+- Sweet potato casserole
 - Green beans
 - Cranberry sauce
 - Dinner rolls & butter
