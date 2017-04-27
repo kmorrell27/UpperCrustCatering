@@ -20,6 +20,7 @@ additional-options: ["Disposable plates, Reflections Silverware and napkins are 
 
 \*Substitute Breakfast Stradas for an additional 50¢ per person
 
+Add carved glazed ham and biscuits and sausage gravy to make your breakfast heartier. Only $3 more per person!
 * * *
 
 ## Ala Carte ~ Breakfast Stradas
