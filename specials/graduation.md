@@ -13,7 +13,7 @@ To help you celebrate we’ve put together some of our favorite selections for t
 
 ## Cap & Gown Buffet
 
-$10.75/person
+$11.25/person
 
 *add plates, napkin, silverware & serving tongs and spoons for an additional 50¢/person*
 
@@ -47,7 +47,7 @@ Brownies or Cookies
 * * *
 
 ## School's Out Cookout
-*$9.45/person (minimum 40 people)*
+*$9.95/person (minimum 40 people)*
 *add plates, napkin, silverware & serving tongs and spoons for an additional 50¢/person*
 
 - Grilled Burgers and Brats *(with buns)*
@@ -58,4 +58,4 @@ Brownies or Cookies
 
 ***
 
-Congratulations to all 2016 graduates from all of us at Upper Crust Catering!
+Congratulations to all 2017 graduates from all of us at Upper Crust Catering!
