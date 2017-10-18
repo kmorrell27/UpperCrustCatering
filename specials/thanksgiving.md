@@ -1,0 +1,27 @@
+---
+layout: page
+title: Thanksgiving Menu
+permalink: /specials/thanksgiving/
+custom-classes: three-column-lists
+---
+
+Celebrate Thanksgiving with Upper Crust Catering!
+
+***
+
+## Thanksgiving Feast
+
+$13.60 per person
+
+- Roasted tom turkey with sage stuffing
+- Whipped potatoes with giblet gravy
+- Sweet potato casserole
+- Green beans
+- Cranberry sauce
+- Dinner rolls & butter
+- Pumpkin bars for dessert
+
+Add homemade pumpkin pies for $9 per pie!
+
+*add plates, napkin, silverware & serving tongs and spoons for an additional
+70¢/person*
