@@ -16,10 +16,10 @@ $13.60 per person
 - Roasted tom turkey with sage stuffing
 - Whipped potatoes with giblet gravy
 - Sweet potato casserole
+- Pumpkin bars for dessert
 - Green beans
 - Cranberry sauce
 - Dinner rolls & butter
-- Pumpkin bars for dessert
 
 Add homemade pumpkin pies for $9 per pie!
 
