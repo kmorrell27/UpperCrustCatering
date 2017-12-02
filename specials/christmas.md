@@ -12,6 +12,40 @@ several delicious Christmas party menus
 
 ***
 
+## Christmas Eve "Jingle Bells" Menu
+
+$14.25 per person for parties of 10 or larger
+
+$16.25 per person for parties fewer than 10
+
+### Your Choice of Two Entrees
+
+- Oven roasted turkey
+- Homemade lasagna
+- Honey mustard glazed baked ham
+
+### Plus
+
+- Sage stuffing with mashed potatoes & gravy
+- Green bean casserole
+- 7 layer salad
+- Dinner rolls & butter
+
+### Dessert
+
+- Chocolate covered strawberries drizzled with almond bark
+
+*Orders for Christmas Eve or Christmas Day need to be placed by Wednesday,
+December 20 for pick-up only by 2:00PM on December 24th*
+
+*We gladly provided printed heating instructions for all Christmas Eve Menu
+orders*
+
+*add plates, napkin, silverware & serving tongs and spoons for an additional
+70¢/person*
+
+* * *
+
 ## White Christmas
 
 $36/person
@@ -116,34 +150,4 @@ $18.95 per person
 
 * * *
 
-## Christmas Eve Menu
-
-$14.25 per person for parties of 10 or larger
-
-$16.25 per person for parties fewer than 10
-
-### Your Choice of Two Entrees
-
-- Oven roasted turkey
-- Homemade lasagna
-- Honey mustard glazed baked ham
-
-### Plus
-
-- Sage stuffing with mashed potatoes & gravy
-- Green bean casserole
-- 7 layer salad
-- Dinner rolls & butter
-
-### Dessert
-
-- Chocolate covered strawberries drizzled with almond bark
-
-*Orders for Christmas Eve or Christmas Day need to be placed by Wednesday,
-December 20 for pick-up only by 2:00PM on December 24th*
-
-*We gladly provided printed heating instructions for all Christmas Eve Menu
-orders*
-
-*add plates, napkin, silverware & serving tongs and spoons for an additional
-70¢/person*
+We also have all of our other buffet menus available year-round!
