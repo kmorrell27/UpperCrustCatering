@@ -37,7 +37,7 @@ Chocolate covered strawberries
 Assorted mini cheesecakes
 Christmas cookies
 
-*Minimum of 20 people - Servers $25 per hour each*
+*Minimum of 20 people - Servers $28 per hour each*
 
 * * *
 
@@ -63,16 +63,16 @@ cheese
 - Crab & shrimp stuffed mushrooms
 - Holiday favorites dessert assortment
 
-*$25 per hour carver fee applies to carved sirloin, pork loin, or carved
+*$28 per hour carver fee applies to carved sirloin, pork loin, or carved
 turkey selections*
 
-*Minimum of 20 people - Additional servers $25 per hour each*
+*Minimum of 20 people - Additional servers $28 per hour each*
 
 * * *
 
 ## Santa Claus is Coming to Town
 
-*$17.45 per person*
+*$17.75 per person*
 
 ### Three Entrees
 
@@ -82,19 +82,19 @@ turkey selections*
 
 ### Plus
 
-- Tossed mixed greens with choice of dressing
+- Tossed mixed greens with choice of two dressings
 - Gingered carrots
 - Thyme roasted baby new potatoes
 - Dinner rolls & butter
 - Assorted holiday dessert display
 
-*Minimum of 20 people - Servers and/or carver $25 per hour each*
+*Minimum of 20 people - Servers and/or carver $28 per hour each*
 
 * * *
 
 ## Chestnuts Roasting
 
-$18.45 per person
+$18.95 per person
 
 *Minimum of 25 people*
 
@@ -112,15 +112,15 @@ $18.45 per person
 - Dinner rolls & butter
 - Assorted holiday dessert display
 
-*Servers and/or carver $25 per hour each*
+*Servers and/or carver $28 per hour each*
 
 * * *
 
 ## Christmas Eve Menu
 
-$13.95 per person for parties of 10 or larger
+$14.25 per person for parties of 10 or larger
 
-$15.95 per person for parties fewer than 10
+$16.25 per person for parties fewer than 10
 
 ### Your Choice of Two Entrees
 
@@ -137,10 +137,10 @@ $15.95 per person for parties fewer than 10
 
 ### Dessert
 
-- Raspberry cheesecake in a chocolate soufflé cup
+- Chocolate covered strawberries drizzled with almond bark
 
-*Orders for Christmas Eve or Christmas Day need to be placed by Tuesday,
-December 20 for pick-up only by 3:00PM on December 24th*
+*Orders for Christmas Eve or Christmas Day need to be placed by Wednesday,
+December 20 for pick-up only by 2:00PM on December 24th*
 
 *We gladly provided printed heating instructions for all Christmas Eve Menu
 orders*
