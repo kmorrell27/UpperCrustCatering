@@ -9,13 +9,13 @@ image-filename: boxed-lunch.jpg
 
 ## Executive Boxed Lunches
 
-**$9.50 each ‡**
+**$10.45 each ‡**
 
 Our Executive Boxed Lunches include Chef's choice of fruit; your choice of Potato Salad or Cole Slaw; your choice of Brownie or Cookie; Chips and Condiments.
 
 **Ham & Cheddar**
 
-Deli fresh ham with cheddar cheese, lettuce & tomatoes Dijon mustard & mayo sides.
+Deli fresh ham with cheddar cheese, lettuce & tomatoes with mustard & mayo sides.
 
 
 **Smoked Turkey**
@@ -30,7 +30,7 @@ Roast Beef with cheddar cheese, lettuce, tomatoes & our homemade Creamed Horsera
 
 **Dagwood**
 
-Layers of ham, turkey, roast beef, cheddar cheese, lettuce & tomatoes on a Hoagie roll ~ mustard & mayo sides.
+Layers of ham, turkey, roast beef, cheddar cheese, lettuce & tomatoes ~ mustard & mayo sides.
 
 
 **Combo**
@@ -43,19 +43,19 @@ Ham, turkey, Genoa salami, onions, pickles, lettuce & tomatoes drizzled with Ita
 Freshly made tuna salad with lettuce & tomatoes.
 
 
-**Tuna Club**
+**Tuna BLT**
 
 Tuna salad with bacon, lettuce & tomatoes.
 
 
-**Turkey Club**
+**Turkey BLT**
 
 Turkey with bacon, lettuce & tomatoes. Mayo on the side.
 
 
 **Tuscan Turkey**
 
-Smoked Turkey with Monterey Jack cheese, pesto, sliced olives, lettuce and tomatoes. Mustard and mayo on the side.
+Smoked Turkey with Monterey Jack cheese, sliced olives, paper-thin red onions, lettuce and tomatoes with our delicate pesto spread.
 
 
 **Vegetarian**
@@ -65,7 +65,7 @@ Layers of lettuce, tomatoes, cucumbers, bell peppers, mushrooms, thinly sliced o
 
 **Chicken Caesar Wrap**
 
-Chicken, tomatoes & lettuce tossed with Caesar dressing,sprinkled with Parmesan cheese & wrapped in a flour tortilla.
+Romaine tossed with tomatoes, Caesar dressing and parmesan cheese topped with tender strips of chicken breasts all wrapped up in a flour tortilla.
 
 
 **Turkey BLT Wrap**
@@ -75,13 +75,13 @@ Bacon, lettuce, tomato & slices of smoked turkey wrapped in a flour tortilla wit
 
 **Chef's Salad**
 
-Mixed greens with tomatoes, cucumbers, ham, turkey, swiss, cheddar, mushrooms, eggs & croutons. Choice of Ranch, Italian or 1,000 Island French, Bleu Cheese or Poppyseed dressing.
+Mixed greens with tomatoes, cucumbers, ham, turkey, swiss, cheddar, mushrooms, eggs & croutons. Please specify choice of Ranch, Italian, 1000 Island, French, Poppyseed dressing, Balsamic Vinaigrette, or Raspberry Vinaigrette Dressing.
 
 * * *
 
 ## Basic Boxed Lunches
 
-**$8.25 ‡**
+**$9.25 ‡**
 
 Our Basic Boxed Lunches include Cookie, Chips & Condiments.
 
@@ -90,19 +90,19 @@ Our Basic Boxed Lunches include Cookie, Chips & Condiments.
 Served with sliced tomatoes, crispy lettuce leaves and mayonnaise.
 
 
-**Turkey Club**
+**Turkey BLT**
 
 Thin sliced turkey, crispy bacon, lettuce, tomatoes and mayonnaise.
 
 
 **Ham and Cheddar**
 
-Served with dijon mustard, lettuce and tomatoes.
+Generous serving of deli fresh ham with cheddar cheese, lettuce and tomatoes, and mustard and mayo sides.
 
 
 **Smoked Turkey**
 
-Thin sliced turkey layered with Swiss cheese, lettuce and tomatoes.
+Thin sliced turkey layered with Swiss cheese, lettuce and tomatoes, and mustard and mayo sides.
 
 
 **Combo Sandwich**
@@ -117,7 +117,7 @@ Served with lettuce, tomato, cheddar cheese and creamed horseradish.
 
 **Chicken Caesar Wrap**
 
-Strips of sauteed breast of chicken served with Caesar salad and sliced tomatoes, all wrapped in a flour tortilla shell.
+Romaine tossed with tomatoes, Caesar dressing and parmesan cheese topped with tender strips of chicken breasts all wrapped up in a flour tortilla.
 
 
 **Vegetarian**
@@ -126,6 +126,6 @@ Lettuce, tomatoes, cucumbers, mushrooms, bell peppers, thinly sliced onions, Swi
 
 * * *
 
-‡ To avoid an additional charge, please limit sandwich selections to 3 options for orders of 20 or less & to 4 options for orders over 20
+‡ To avoid an additional charge, please limit sandwich selections to 3 options for orders of 20 people or fewer & to 4 options for orders over 20 people. A surcharge will be applied to orders with split sides, dressings, and/or desserts.
 
 Soft Drinks & Bottled Water $1 each.

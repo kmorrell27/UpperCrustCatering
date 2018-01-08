@@ -18,13 +18,14 @@ Easy and delicious!
 
 ## Buffet Selections ~ Menu 1
 
-$ 12.75 per person
+$ 13.25 per person
 
 **Select 2 Entrees**
 
 - Herb Roasted Chicken
 - Chicken Oreganato - *gluten free*
 - Chicken Primavera *with Penne Pasta*
+- Garden Vegetable Primavera - *vegetarian*
 - BBQ Chicken
 - Chicken Alfredo *with Bow Tie Pasta*
 - Pan Fried Chicken
@@ -33,19 +34,20 @@ $ 12.75 per person
 - BBQ Pulled Pork *includes sandwich buns as bread option*
 - Stuffed Green Peppers
 - Baked Mostaccioli
+- Stuffed Manicotti Shells
 - Meatless Mostaccioli - *vegetarian!*
 - Braised Swiss Steak *topped with Tomato Sauce*
 - Baked Ham *with Honey Mustard Glaze*
 - Baked Lasagna *with Meat Sauce*
 - Baked Lasagna *with Spinach - vegetarian!*
-- Linguine with Meatballs & Italian sausage
+- Cheese Tortellini with Meatballs & Italian sausage
 - Pork Schnitzel *with Cinnamon Apples*
 - Polish Sausage & Sauerkraut
 
 
 ## Buffet Selections ~ Menu 2
 
-$13.75 per person
+$14.25 per person
 
 **Select 2 Entrees**
 
@@ -55,7 +57,6 @@ $13.75 per person
 - Cranberry Glazed Chicken *with Stuffing*
 - Chicken Saltimbocca *with Prosciutto & Provolone*
 - Chicken Francaise *in a Lemon Caper Sauce*
-- Teriyaki Chicken *with Pineapple Rings & Teriyaki Glaze*
 - Yankee Pot Roast
 - Barnaby's Famous Pork Chops
 - Roasted Pork Loin *with Apple Cider Sauce*
@@ -69,28 +70,24 @@ $13.75 per person
 
 ## Buffet Selections ~ Menu 3
 
-$14.75 per person
+$15.25 per person
 
 **Select 2 Entrees**
 
 
 - Chicken Cordon Bleu *with Ham & Swiss Cheese*
-- Sirloin Tips Stroganoff
 - Carved London Broil *with Port Wine Sauce - Gluten Free*
 - Carved Sirloin *with Natural Jus*
-- Shrimp Creole over Rice
 - Baked Stuffed Flounder *with Champagne Sauce*
 - Baked Cod Filet Milanese *topped with Herb Seasoned Bread Crumbs*
 
-- Roasted Prime Rib of Beef - *Gluten Free - Market Price*
-- Braised Beef Brisket - *braised with garlic, onion & tomatoes until mouth watering tender - $14.95 with 1 selection from Menu 3*
+- Braised Beef Brisket - *braised with garlic, onion & tomatoes until mouth watering tender - $15.45 with 1 selection from Menu 3*
 
+- Baked Salmon *with Fresh Herb Sauce along with 1 other Entree from Menu 3. . . $ 15.75 per person*
 
-- Baked Salmon *with Fresh Herb Sauce along with 1 other Entree from Menu 3. . . $ 15.25 per person*
+- Sauteed Orange Roughy *with Fresh Spinach Sauce along with 1 other Entree selection from Menu 3 . . . $16.75 per person*
 
-- Sauteed Orange Roughy *with Fresh Spinach Sauce along with 1 other Entree selection from Menu 3 . . . $16.25 per person*
-
-Roasted Prime Rib of Beef  ~  *available at Market Price*
+- Roasted Prime Rib of Beef  ~  *available at Market Price*
 
 
 ## Side Selections
@@ -109,15 +106,15 @@ with Mandarin Oranges, Tomatoes & Raspberry Vinaigarette Dressing
 - Broccoli Raisin Salad
 with Matchstick Carrots & Bacon *(Vegetarian? Ask us to omit the bacon)*
 - Macaroni Salad
-with peas and tomatoes
-- Cucumber & Tomato Salad
+with peas and chopped tomatoes, Genoa salami and cheddar cheese
+- Cucumber & Tomato Salad with a creamy homemade dill dressing
 - Pesto Pasta Salad
 with garden vegetables
 - Classic Caesar Salad
 with croutons & parmesan
 - Tossed Mixed Greens (Romaine, Spinach & Iceberg Blend)
 with Tomatoes & Cucumbers
-plus choice of 2 Dressings
+plus choice of 2 Dressings *Ranch, Fat Free Italian, French, 1000 Island, Balsamic Vinaigrette, Poppyseed, or Raspberry Vinaigrette*
 
 ### Vegetables
 
@@ -143,10 +140,9 @@ plus choice of 2 Dressings
 - Wild Rice Blend
 - Red Beans & Rice *with Andouille Sausage*
 - BBQ Baked Beans
-- Bow Tie Pasta *with Garlic & Basil*
+- Garlic Bow Tie Pasta *with Pesto, Tomatoes, & Parmesan Cheese*
 - Buttered Noodles
-- Macaroni & Cheese
-- Garlic Bowtie Pasta *with Pesto*
+- Baked Macaroni & Cheese
 
 
 ## Breads
@@ -163,12 +159,18 @@ All of our Elegant Buffet Menus include quality 3-compartment disposable dinner 
 
 Upgrade disposables, as well as, china, glassware and silver are available.  Please contact us for information & pricing.
 
-Servers/Carver available for $28/hr/server
+Servers/Carver available for $29/hr/server
 
-Black lacquer-look serving tongs & spoons are available 60¢ each.
+Black lacquer-look serving tongs & spoons are available 75¢ each.
 
-Chafing dishes and sterno available for $10 per hot selection.
+Chafing dish packages (reusable, no return, wire frame chafer, 2 sternos, and a water pan) are available for $12 per hot selection.
 
 Disposable "Linen Look " table cloths available for $6.75 each.
 
 A 10% surcharge may be applied to parties fewer than 20 people.
+
+On-site carving is available for $75
+
+# On-site waitstaff
+
+We do the work while you relax and enjoy the company of your family and friends. Ask us about services and fees!

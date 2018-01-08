@@ -5,32 +5,32 @@ collection: menus
 order-by: 3
 headline: "Breakfast Buffets"
 image-filename: breakfast.jpg
-additional-options: ["Disposable plates, Reflections Silverware and napkins are available for 70¢  per person with Breakfast orders.", "Black 'Lacquer-look' serving tongs & spoons available for 70¢  each.", "Chafing dishes available for $10 per hot item."]
+additional-options: ["Disposable plates, Reflections Silverware and napkins are available for 75¢  per person with Breakfast orders.", "Black 'Lacquer-look' serving tongs & spoons available for 70¢ each.", "Chafing dishes available for $12 per hot item."]
 ---
 
 ## Basic Breakfast Buffet
 
-**$10.25  per person**
+**$10.50  per person**
 
 - Seasonal Fresh Fruit
 - Home Fries
-- Scrambled Eggs*
-- Bacon and Sausage
+- Scrambled Eggs
+- Bacon (2 pcs) and Sausage (1 pc)*
 - Breakfast Sweet Breads
 
-\*Substitute Breakfast Stradas for an additional 50¢ per person
+\*Extra bacon for 50¢/slice and extra sausage for $1/link
 
-Add carved glazed ham and biscuits and sausage gravy to make your breakfast heartier. Only $3 more per person!
+Add ham steaks, biscuits and sausage gravy to make your breakfast heartier. Only $3.50 more per person!
 * * *
 
-## Ala Carte ~ Breakfast Stradas
+## Ala Carte ~ Breakfast Stratas
 
-**$40.00 (serves 20 people)**
+**Serves 20 people**
 
-- Ham, Sausage, & Cheddar
-- Bacon, Onion & Swiss
-- Seafood
-- Vegetarian
+--------------|------
+Ham, Sausage, & Cheddar | $50
+Bacon, Onion & Swiss | $50
+Vegetarian | $40
 
 * * *
 
