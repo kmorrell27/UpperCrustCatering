@@ -23,7 +23,6 @@ Theme Menu package pricing is based on menu item selections and number of people
 - [Taco Bar](#taco-bar)
 - [Shower Package](#shower-package)
 - [The Islands](#the-islands)
-- [Seafood Buffet](#seafood-buffet)
 
 ***
 
@@ -35,7 +34,7 @@ Theme Menu package pricing is based on menu item selections and number of people
 
 **Select 2**
 
-- Braised Beef Brisket (add $1.00 per person)
+- Braised Beef Brisket (add $1 per person)
 - Fried Chicken
 - BBQ Pulled Pork (Sandwich rolls included)
 - Sloppy Joes (Sandwich buns included)
@@ -55,16 +54,18 @@ Theme Menu package pricing is based on menu item selections and number of people
 
 ### Desserts
 
+Add dessert for 50¢ more per person
+
 Apple Crisp or Bread Pudding
 
 * * *
 
-## Sunday Dinners at Grandmas
+## Sunday Dinners at Grandma's
 *... for the best in comfort food ...*
 
 ### Entrees
 
-*30 person minimum - 2 Entrees $13.60  3 Entrees $15.60*
+*30 person minimum - $13.75 with dessert, $13.25 without dessert*
 
 - Chicken Pot Pie
 - Sliced Turkey & Gravy
@@ -94,17 +95,17 @@ Homemade Apple Pie or  Fresh Baked Cookies
 
 ## Sock Hop
 
-*All condiments included!*
-
-*20 person minimum - Select 3 Entrees $12.25*
+*20 person minimum - Select 3 Entrees $12.75*
 
 ### Entrees
 
 - Corn Dogs
 - Chili Cheese Dogs
 - Sliders
-- Fried Chicken Wings
 - Spaghetti & Meatballs
+- Chicken Tenders
+
+All condiments included
 
 ### Sides
 
@@ -121,18 +122,7 @@ Brownies & Cookies
 
 *Two great options for a south of the border taste!*
 
-**$15.25 per person  -  Minimum 30 people**
-
-### Appetizers
-
-**Select 3**
-
-- Guacamole Deviled Eggs
-- Mini Chicken Quesadillas
-- Black Bean & Corn Salsa with Tortilla Chips
-- 7 Layer Taco Dip & Chips
-- Chile Con Queso Dip with Tortilla Chips
-- Hop Salsa with Tortilla Chips
+**$14.25 per person  -  Minimum 30 people**
 
 ### Entrees
 
@@ -140,7 +130,8 @@ Brownies & Cookies
 
 - Baked Enchiladas
 - Chicken Fajitas
-- Steak Fajitas
+- Pork & Salsa Verde (hot or mild)
+- Steak Fajitas (Add $1/person)
 
 
 ### Sides
@@ -151,6 +142,9 @@ Brownies & Cookies
 - Mexican Corn
 - Spanish Rice
 - Cornbread & Butter
+- Chilaquiles
+
+Plus - Tortilla Chips & your choice of freshmade pico de gallo or black bean & corn salsa
 
 * * *
 
@@ -183,7 +177,7 @@ Brownies & Cookies
 
 The excitement is growing and there’s so much to do - Let us help!  We’ve designed a Shower menu with you in mind. Plates, napkins & silverware additional.
 
-**$13.50 per person - 20 person minimum**
+**$13.95 per person - 20 person minimum**
 
 ### Croissant Sandwich Platter
 
@@ -216,7 +210,7 @@ Fresh baked bread bowl filled with our own Spinach Dip made with Baby Spinach & 
 ### Fresh Fruit Display and Vegetable Crudite with dip
 
 
-**Having a Couples Shower?**  We'll  “beef” up the Ladies Lunch & keep everyone happy & full!  Substitute a Hero Sandwich Platter for the Croissants Sandwiches for $1/person.
+**Having a Couples Shower?**  We'll  “beef” up the Ladies Lunch & keep everyone happy & full!  Substitute a Hero Sandwich Platter for the Croissants Sandwiches for $1.25/person.
 
 Sandwich Platters come with Mustard & Mayo sides.
 
@@ -237,6 +231,7 @@ Our taste of The Islands will bring you there. Minimums may apply.
 - Sweet & Sour Chicken with Fresh Pineapple
 - Huli Huli Chicken
 - Teriyaki Roast Pork Tenderloinoin with Sausage Stuffing
+- Teriyaki Chicken Breast with Glazed Pineapple Rings
 
 ### Sides & Dessert
 
@@ -245,32 +240,5 @@ Our taste of The Islands will bring you there. Minimums may apply.
 - Sauteed Green Beans with Red Bell Peppers & Toasted Almonds
 - Carved Watermelon Basket filled with fresh seasonal fruit salad
 - Fried Rice
-- Hawaiian Bread
-- Coconut Cream Pie
 
-## Seafood Buffet
-
-### Seafood options
-
-*50 person minimum ~ 2 entrees $13.95 ~ 3 entrees $15.95*
-
-- Fried Cod
-- Fresh Perch
-- Fried Catfish
-- Baked Salmon with Chardonnay Herb Sauce
-- Baked Stuffed Flounder
-
-All Entrees come with Homemade Tartar Sauce & Lemons
-
-### Side Options
-
-*Select 3*
-
-- Potato Pancakes with Applesauce & Sour Cream
-- Lyonnaise Potatoes
-- Corn on the Cob
-- Potatoes O'Brien
-- Cole Slaw
-- Baked Beans
-- Tossed Mixed Greens - Choice of 2 dressings
-- Homemade Bread or Dinner Rolls - with butter
+Hawaiian Bread Rolls & Butter included

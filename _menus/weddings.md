@@ -12,10 +12,11 @@ headline: "Weddings"
 
 Let us help you plan for your very special day! We'll take
 the worry out of your hands and make sure this is the most
-memorable day of your lives. Full wait staff, including
-set-up, break down and cake cutting are available.
+memorable day of your lives. Our wedding package is perfect
+for your special day, but don't forget to check out our [Elegant Buffet](/menus/elegant-buffets)
+menu options as well.
 
-*From $21.95 per person*
+*From $22.45 per person*
 
 * * *
 
@@ -41,6 +42,7 @@ set-up, break down and cake cutting are available.
 - Carved Chateau Briand with Portobello Cognac Sauce *available at market price*
 - Roast Carved Turkey with Fresh Cranberries
 - Chicken Francaise with Beurre Blanc
+- Teriyaki Chicken - Marinated Chicken Breast with Glazed Pineapple Rings
 
 * * *
 
@@ -84,8 +86,66 @@ Fresh Baked Bread & Butter   *OR*   Dinner Rolls & Butter
 - Chafing dishes & serving utensils
 - Cake cutting services
 - Fresh relish tray on each guest table
+- On-site Carving Service
 
 **Additional services**
 
-- Servers/Carver - $28/hr each
+- Servers - $29/hr each
 - Rental arrangements
+
+* * *
+
+## The Wedding Ball
+
+Indulge your guests with an elegant ongoing presentation of satisfying hors d'euvres.
+Our appetizers are homemade and artfully displayed to please the eye and your palate.
+Hot and cold hors d'euvres are passed among your guests for a trip through culinary
+pleasures while you and your guests have the opportunity to mingle. Selections of cold
+appetizers are presented on a self-serve buffet. "Dinner" typically lasts 1 to 1½ hours.
+Price includes disposable plates & napkins. Wait staff required.
+
+**Act 1 ~ Select 6**
+
+- Rumaki *Bacon wrapped water chestnuts. A "go-to" classic appetizer*
+- Cocktail Meatballs *Swedish, Sweet & Sour, or Italian flavored*
+- Crabmeat Mousse *Mild yet flavorful - you'll want it by the spoonful! Served on assorted crackers*
+- Mini Chicken Quesadillas *Chicken strips, salsa & cheddar combined for a south of the border taste*
+- Spanakopita *A savory favorite Greek appetizer with spinach & feta cheese*
+- Boneless Wings *Spicy for some heat or teriyaki for the timid*
+- Bruschetta *We chop, dice, then add garlic and the perfect amount of fresh basil for a classic that leaves you wanting just one more bite!*
+- Buffalo Chicken Wedges *Hand shredded chicken combined with our own hot sauce, cheeses & onions*
+- Stuffed Jalapeño Pepper Poppers *Plenty of spicy flavor but easy on the heat*
+- Stuffed Cucumber Towers *A refreshing time tested appetizer with a creamy herb topping*
+- Bacon & Pimento Cheese Balls *Rolled in bacon bits and chopped pecans - the challenge is to eat only one!*
+
+**Act 2 ~ Select 4**
+
+- Pinwheels *Delicious bite sized bursts of flavor*
+- Italian Sausage Kabobs with Peppers & Onions *Delicious flavor combo - no need for the bun!*
+- Open Faced Mini Reubens *All the ingredients of the classic sandwich*
+- Antipasto Kabobs *Cheese tortellini, black olives, salami & cherry tomatoes marinated in balsamic vinaigrette*
+- Stuffed Mushrooms *Choice of crabmeat stuffing or Italian sausage stuffing*
+- Grilled BBQ Sausage & Pineapple Kabobs *Marinated then grilled, adding a light smoky flavor*
+- Pulled Pork Sliders *An Upper Crust signature sandwich. Rich, smooth flavor - not too sweet*
+- Pork Tenderloin Sliders *Mouth-watering tender medallions with a bourbon apple glaze*
+- Mini Pizza Party Ryes *The great flavor of one of our all time favor snack foods in bite sized portion! Perfectly seasoned and topped with plenty of gooey cheese*
+- Chicken Cordon Bleu Tenders *A delightful snack sized version of an entrée favorite! Hand breaded chicken tenders topped with a dip featuring Swiss cheese and ham*
+- Mini Burritos *A mini version of what you love! Topped with a dollop of sour cream and guacamole or pico de gallo*
+
+**Act 3 ~ Select 3**
+
+**Cold Hors D'euvres Buffet**
+
+- Seasonal Fresh Fuit *Beautifully displayed in assorted fruit bowls*
+- Fresh Vegetable Crudités *with choice of dip - Ranch, Dill, or Onion*
+- Prosciutto Wrapped Asparagus Spears *Roasted & garnished with fresh shaved parmesan*
+- Cheese & Sausage Display *with assorted crackers*
+
+Add Jumbo Shrimp with Cocktail Sauce *or* Smoked Salmon Platter for an additional $2.50/person
+
+**Encore ~ Dessert Buffet**
+
+Chocolate Fountain ~ $75 base rental and chocolate
+
+
+Indulgent Dippers ~ $5.50/person *Strawberries, pineapple, granola bar bites, krispie bars, pretzels, Oreos*
