@@ -152,7 +152,7 @@ Plus - Tortilla Chips & your choice of freshmade pico de gallo or black bean & c
 
 *... everything you need to build your own taco bar. For parties of 30 or more.*
 
-**2/person - $11.25 or 3/person - $12.25**
+**2/person - $11.95 or 3/person - $12.95**
 
 ### Standard Taco Bar Includes
 
