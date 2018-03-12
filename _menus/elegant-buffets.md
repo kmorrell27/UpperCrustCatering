@@ -121,7 +121,7 @@ plus choice of 2 Dressings *Ranch, Fat Free Italian, French, 1000 Island, Balsam
 - Buttered Green Beans
 - Buttered Peas & Carrots
 - Corn O'Brian *with fresh Bell Peppers*
-- Gingered Carrost
+- Gingered Carrots
 - Garden Vegetable Medley
 - Braised Red Cabbage
 - Corn on the Cob *(seasonal)*
