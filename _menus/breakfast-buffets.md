@@ -5,7 +5,7 @@ collection: menus
 order-by: 3
 headline: "Breakfast Buffets"
 image-filename: breakfast.jpg
-additional-options: ["Disposable plates, Reflections Silverware and napkins are available for 75¢  per person with Breakfast orders.", "Black 'Lacquer-look' serving tongs & spoons available for 70¢ each.", "Chafing dishes available for $12 per hot item."]
+additional-options: ["Disposable plates, Reflections Silverware and napkins are available for 75¢  per person with Breakfast orders.", "Black 'Lacquer-look' serving tongs & spoons available for 75¢ each.", "Chafing dishes available for $12 per hot item."]
 ---
 
 ## Basic Breakfast Buffet
@@ -36,7 +36,7 @@ Vegetarian | $40
 
 ## Continental Breakfast
 
-**$5.75 per person**
+**$5.95 per person**
 
 - Seasonal Fruit Tray
 
@@ -48,6 +48,6 @@ Vegetarian | $40
 
 Add Coffee & Orange Juice to your Breakfast Buffet or Continental Breakfast - including sugars, creamers & cups
 
-*$ 1 each per person*
+*$1 per person for Orange Juice	~ 50¢ per person for Coffee*
 
 *A pick up fee may apply for thermos coffee urn*

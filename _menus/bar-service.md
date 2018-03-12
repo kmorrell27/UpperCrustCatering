@@ -11,71 +11,18 @@ image-filename: bar.jpg
 For those clients of our who choose to add spirits to their event we gladly offer the following packages.
 
 
-## Top Shelf Open Bar
-
-4 hour bar service $19.95/person
-
-Each additional hour $3/person
-
-- Absolut Vodka
-- Tanqueray Gin
-- Bacardi Light Rum
-- Captain Morgan Spiced Rum
-- Jack Daniels
-- Jim Beam
-- Crown Royal
-- Chivas Regal
-- Jose Cuervo Gold
-- Amaretto Disaronno
-- Peach Schnapps
-
-* * *
-
-- Budweiser
-- Bud Light
-- Heineken
-- Chardonnay
-- Cabernet
-- Merlot
-- Muscato
-
-* * *
-
-- Coke
-- Diet Coke
-- Sprite
-- Club Soda
-- Tonic Water
-- Bloody Mary Mix
-- Orange Juice
-- Cranberry Juice
-- Pineapple Juice
-
-* * *
-
-- Grenadine
-- Sweet & Sour
-- Sweet & Dry Vermouth
-- Bitters
-- Triple Sec
-
-
 ## Traditional Open Bar
 
-4 hour bar service $16.95/person
+4 hour bar service $18.50/person ~ 5 hour bar service $21/person ~ 6 hour bar service $23.50/person
 
-each additional hour $2.50/person
-
-
-- Skyy Vodka
+- Smirnoff Vodka
 - Beefeaters Gin
 - Bacardi Light Rum
-- Captain Morgan Spiced
-- Canadian Club
-- Jim Beam
-- Dewar's
-- Jose Cuervo Tequila
-- Peach Schnapps
+- Captain Morgan Spiced Rum
+- Canadian Mist
+- Jim Beam Bourbon
+- Dewar's Scotch
+- Sauza Tequila
 - Amaretto
 
 * * *
@@ -96,7 +43,8 @@ each additional hour $2.50/person
 - Bloody Mary Mix
 - Orange Juice
 - Cranberry Juice
-- Pineapple Juice
+
+* * *
 
 - Grenadine
 - Sweet & Sour
@@ -105,18 +53,44 @@ each additional hour $2.50/person
 - Triple Sec
 
 
-## Budget Friendly Open Bar
+## Standard Open Bar
 
-4 hour bar service $14.25/person
+4 hour bar service $15.75/person ~ 5 hour bar service $18.25/person ~ 6 hour bar service $20.75/person
 
-Each additional hour $2.25/person
 
-- Gin
-- Bourbon
-- Whiskey
-- Rum
-- Tequila
-- Amaretto
+- House Brand Vodka
+- House Brand Gin
+- House Brand Bourbon
+- House Brand Whiskey
+- House Brand Rum
+- House Brand Tequila
+
+* * *
+
+- Budweiser
+- Bud Light
+- Chardonnay
+- Cabernet
+
+* * *
+
+- Coke
+- Diet Coke
+- Sprite
+- Club Soda
+- Tonic Water
+- Bloody Mary Mix
+- Orange Juice
+- Cranberry Juice
+
+
+## The Basics Open Bar
+
+4 hour bar service $15.75/person ~ 5 hour bar service $18.25/person ~ 6 hour bar service $20.75/person
+
+- House Brand Vodka
+- House Brand Whiskey
+- House Brand Rum
 
 * * *
 
@@ -124,7 +98,6 @@ Each additional hour $2.25/person
 - Bud Light
 - Chardonay
 - Cabernet
-- Muscato
 
 * * *
 
@@ -138,10 +111,10 @@ Each additional hour $2.25/person
 - Cranberry Juice
 
 
-
 ## Beer, Wine & Soda Open Bar
 
-4 hour bar service $13.50/person  -
+4 hour bar service $13.50/person
+
 Each additional hour $2/person
 
 - Budweiser
@@ -157,70 +130,81 @@ Each additional hour $2/person
 - Sprite
 
 
-
-
 ## Cash Bar (limited liquor options)
 
 4 hour bar service & 100 person minimum
 
-$1/person non-refundable deposit (for the cost of ice and fruit)
+$3.50/person non-refundable deposit (for the cost of ice, fruit, and & stock prepping)
 
-Deluxe Cocktails $5  -  Traditional Cocktails $4  -  Wine $4
+Deluxe Cocktails $6  -  Traditional Cocktails $5  -  Wine $5
 
 Imported Beer $4  -  Domestic Beer $3
 
-Soft Drinks $1  -  Bottled Water $ 2
+Soft Drinks $1  -  Bottled Water $2
+
+
+## Bartenders Only Service
+
+We are happy to provider bartender service for those who wish to supply their own liquor, mixers, ice,
+coolers, fruits, napkins, straws, glassware, etc.
+
+Our bartenders will provide their own openers, ice scoop, and bus tub (for drink ice _only_)
+
+A Liquor License fee of $3.50/person will be charged ($250 minimum fee)
+
+Service hour charges will apply
 
 * * *
 
-Now for the serious stuff . . .
+Packages are priced for parties of 75 people and over.
 
+Upper Crust will provide a minimum of one bartender for every 75 guests. 
+ 
+All Bar Packages include disposable glassware, beverage napkins, stir stix, ice, serving
+equipment & Dram Shop Insurance and all required liquor licenses  
+ 
+Upper Crust Catering reserves the right to substitute any liquor, beer, wine or
+mixer with a comparable quality product due to availability or popular trends. 
+ 
+While Upper Crust Catering will provide adequate volume of product for your event,
+we cannot be held responsible for excess consumption of any particular item.   All
+unconsumed product provided by us is the property of Upper Crust Catering and will be
+removed at the end of the event. 
+ 
+We at Upper Crust wish for you and your guests to safely enjoy yourselves at your event.
+To this end we will abide by these following rules for both your protection and ours. . .  
+ 
+Upper Crust Catering staff will adhere to the rules & regulations
+set forth by the Illinois Liquor Control Commission. 
+ 
+No one under the age of 21 is be served alcoholic beverages.  Upper Crust staff 
+may request identification of anyone appearing to be under 21 years of age.   
+ 
+ANYONE UNABLE TO PRODUCE PROPER ID WILL NOT BE SERVED. 
+ 
+Upper Crust Catering Bartenders/Wait staff and/or management
+reserve the right to refuse alcohol service to any patron. 
+ 
+It is policy of Upper Crust Catering that we DO NOT serve shots. 
+ 
+Uniformed BASSET trained Bartenders are $29/hour each. Minimum Service Hour charges
+for 4, 5 or 6 hour Open Bar packages includes set-up, open bar service, no "dinner service"
+time (if applicable) and tear-down time.  
+ 
+2 or 3 hour Open Bar service packages are priced at 25¢ less per person $175 Minimum Service
+Hours Charge 
+ 
+Special requests and revisions to Bar Packages can be accommodated
+and may alter final package pricing. 
+ 
+Our Reservation & Payment Schedule is as follows. . .
 
-Package prices are for parties of 75 people and over.  Please call for pricing on smaller parties.
-
-Bartenders $28/hour - Service hours include set-up, bar time, dinner hour and tear-down - minimum alcohol service labor charge $150.00
-
-We are happy to provide bartenders for those who wish to supply their own liquor, ice and supplies. A Liquor Licensing Fee of $1.50/person will be charged.
-
-We provide one bartender for every 75 guests.
-
-Open Bar Service Packages include disposable glassware, beverage napkins, stir stix, ice and serving equipment.
-
-Cash Bar Package requires a non-refundable fee for ice and fruit.
-
-
-Upper Crust Catering reserves the right to substitute any liquor, beer, wine or mixer with a comparable quality product, due to availability or current trending.
-
-Some venues have restrictions regarding the serving of glass bottles - we will honor all venues requirements
-
-Special requests and revisions to Bar Packages can be accommodated and may alter final package pricing.
-
-
-While Upper Crust Catering will provide more than adequate volume of product for your event, we cannot be held responsible for excess consumption of any particular item.
-
-All unconsumed product supplied by us is the property of Upper Crust Catering and will be removed at the end of the event.
-
-
-**Upper Crust Catering is fully licensed and insured in accordance with the State of Illinois and will adhere to the rules & regulations set forth by the Illinois Liquor Control Commission.**
-
-We at Upper Crust wish for you and your guests to safely enjoy yourselves - to help ensure this, we will abide by these rules for both your protection and ours. . .
-
-## NO ONE UNDER THE AGE OF 21 IS BE SERVED ALCOHOLIC BEVERAGES.
-
-## UPPER CRUST STAFF MAY REQUEST IDENTIFICATION OF ANYONE APPEARING TO BE UNDER 21 YEARS OF AGE.
-
-## ANYONE UNABLE TO PRODUCE PROPER ID WILL NOT BE SERVED.
-
-
-UPPER CRUST CATERING BARTENDERS/WAIT STAFF AND/OR MANAGEMENT RESERVE THE RIGHT TO REFUSE ALCOHOL SERVICE TO ANY PATRON.
-
-IT IS A POLICY OF UPPER CRUST CATERING THAT WE DO NOT SERVE SHOTS.
-
-
-* * *
-
-DEPOSIT– A 50% deposit is required on all Bar Service Packages 30 days prior to event date.
-
-A 18% gratuity will be applied if using glassware (vs. disposable) or if a tip jar is not allowed.
-
-All applicable taxes and a $35 minimum Bar Delivery fee will be applied to all Bar Service events.
+1. A 10% Reservation Fee - based on initial proposal- is required to hold the date Non-refundable after 7 days 
+2. 50% of the most current Invoice is due 10 weeks out 
+3. Invoice balance, along with Guaranteed Minimum Guest Count is due 3 weeks prior to Event date.   
+4. After final payment has been met, payment for any additions to guest count or Service Hours will
+be due at the time of Staff departure on the day of your event 
+ 
+An 18% pre-paid gratuity will be applied if a tip jar is not allowed. 
+ 
+All applicable taxes and a Bar Delivery/Travel fee will be applied to all Bar Service events. 
