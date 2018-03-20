@@ -97,6 +97,8 @@ Fresh Baked Bread & Butter   *OR*   Dinner Rolls & Butter
 
 ## The Wedding Ball
 
+$25.45 per person
+
 Indulge your guests with an elegant ongoing presentation of satisfying hors d'euvres.
 Our appetizers are homemade and artfully displayed to please the eye and your palate.
 Hot and cold hors d'euvres are passed among your guests for a trip through culinary

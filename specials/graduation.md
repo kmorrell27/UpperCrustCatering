@@ -2,7 +2,6 @@
 layout: page
 title: Graduation Menus
 permalink: /specials/graduation/
-custom-classes: three-column-lists
 ---
 
 Graduation time is fast approaching!
@@ -13,49 +12,41 @@ To help you celebrate we’ve put together some of our favorite selections for t
 
 ## Cap & Gown Buffet
 
-$11.25/person
+$11.75/person
 
-*add plates, napkin, silverware & serving tongs and spoons for an additional 50¢/person*
+*add plates, napkin, silverware & serving tongs and spoons for an additional 75¢/person*
 
 ### Entrees
 
 **Select 2**
 
-- Fried Chicken
 - Herb Roasted Chicken
-- Lasagna
+- Homemade Lasagna
 - BBQ Pulled Pork *(Sandwich Buns & French Rolls included)*
-- Italian Beef *(Sandwich Buns & French Rolls included)*
+- Italian Beef with hot & sweet peppers *(Sandwich Buns & French Rolls included)*
 
 ### Sides
 
-**Select 3**
+**Select 1**
 
 - Seasonal Fresh Fruit
 - Potato Salad
-- Cole Slaw
-- Tossed Mixed Greens with choice of 2 dressings
-- Bacon Ranch Tri Color Rotini Pasta Salad
+- Creamy Cole Slaw
+
+**Select 1**
+
+- Bacon Ranch Pasta Salad
 - Macaroni Pasta Salad
+
+**Select 1**
+
 - Baked Beans
-- Baked Macaroni & Cheese
+- Baked Macaroni & Cheese *(Ask for jalapeño mac & cheese for 25¢ more/person)*
 
 ### Desserts
 
 Brownies or Cookies
 
-* * *
-
-## School's Out Cookout
-*$9.95/person (minimum 40 people)*
-*add plates, napkin, silverware & serving tongs and spoons for an additional 50¢/person*
-
-- Grilled Burgers and Brats *(with buns)*
-- Baked Beans
-- Macaroni Pasta Salad *or* Bacon Ranch Tri Color Rotini Pasta Salad
-- Potato Salad *or* Cole Slaw
-- Condiments Tray – includes lettuce, tomatoes, onions, Swiss & cheddar cheeses, pickles, sauerkraut, ketchup, mustard & mayo
-
 ***
 
-Congratulations to all 2017 graduates from all of us at Upper Crust Catering!
+Congratulations to all 2018 graduates from all of us at Upper Crust Catering!
