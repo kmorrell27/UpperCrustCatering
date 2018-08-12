@@ -5,10 +5,10 @@ permalink: /specials/fall/
 custom-classes: three-column-lists
 ---
 
-Celebrate October and Thanksgiving with Upper Crust Catering!
+Celebrate October with Upper Crust Catering!
 
 To help you celebrate we’ve put together some of our favorite selections for
-several delicious Christmas party menus
+several delicious party menus
 
 ***
 
@@ -16,7 +16,7 @@ several delicious Christmas party menus
 
 ### Braised Sauerbraten
 
-$10.95 per person
+$11.95 per person
 
 - Homemade potato pancakes with sour cream & applesauce
 - Carrots
@@ -26,7 +26,7 @@ $10.95 per person
 
 ### Bratwurst-Knockwurst Buffet
 
-$10.50 per person
+$11.50 per person
 
 - Sauerkraut
 - Bavarian baked beans
@@ -36,7 +36,7 @@ $10.50 per person
 
 ### Braised Beef Rouladen
 
-$10.95 per person
+$11.95 per person
 
 - Buttered noodles
 - Braised red cabbage
@@ -46,7 +46,7 @@ $10.95 per person
 
 ### Chicken & Dumplings
 
-$10.95 per person
+$11.95 per person
 
 - Tossed salad with tomatoes & cucumbers and your choice of two dressings
 - Peas & carrots
@@ -55,29 +55,17 @@ $10.95 per person
 
 ### Bavarian Pot Roast
 
-$10.95 per person
+$11.95 per person
 
 - Carrots & potatoes
 - Applesauce
 - Biscuits & butter
 - Peach cobbler
 
+* * *
+
 *Oktoberfest menus have a 25 person minimum - please call for individual
 package pricing*
 
-* * *
-
-## Thanksgiving Feast
-
-$13.25 per person
-
-- Roasted tom turkey with sage stuffing
-- Whipped potatoes with giblet gravy
-- Sweet potato casserole
-- Green beans
-- Cranberry sauce
-- Dinner rolls & butter
-- Pumpkin bars for dessert
-
 *add plates, napkin, silverware & serving tongs and spoons for an additional
-70¢/person*
+75¢/person*

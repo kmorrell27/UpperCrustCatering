@@ -11,7 +11,7 @@ Celebrate Thanksgiving with Upper Crust Catering!
 
 ## Thanksgiving Feast
 
-$13.60 per person
+$13.95 per person
 
 - Roasted tom turkey with sage stuffing
 - Whipped potatoes with giblet gravy
@@ -21,7 +21,7 @@ $13.60 per person
 - Cranberry sauce
 - Dinner rolls & butter
 
-Add homemade pumpkin pies for $9 per pie!
+Add homemade pumpkin pies for $10 per pie!
 
 *add plates, napkin, silverware & serving tongs and spoons for an additional
-70¢/person*
+75¢/person*
