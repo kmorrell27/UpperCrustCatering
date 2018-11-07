@@ -33,10 +33,10 @@ $16.75 per person for parties fewer than 10
 
 ### Dessert
 
-- Chocolate covered strawberries drizzled with almond bark
+- Hot fudge platter
 
-*Orders for Christmas Eve or Christmas Day need to be placed by Wednesday,
-December 20 for pick-up only by 2:00PM on December 24th*
+*Orders for Christmas Eve or Christmas Day need to be placed by Friday, December 21
+for pick-up only by 2:00PM on December 24th*
 
 *We gladly provided printed heating instructions for all Christmas Eve Menu
 orders*
