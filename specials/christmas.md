@@ -33,7 +33,7 @@ $16.75 per person for parties fewer than 10
 
 ### Dessert
 
-- Hot fudge platter
+- Holiday fudge platter
 
 *Orders for Christmas Eve or Christmas Day need to be placed by Friday, December 21
 for pick-up only by 2:00PM on December 24th*
