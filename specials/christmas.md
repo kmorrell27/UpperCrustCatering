@@ -71,7 +71,7 @@ Chocolate covered strawberries
 Assorted mini cheesecakes
 Christmas cookies
 
-*Minimum of 20 people - Servers $29 per hour each*
+*Minimum of 20 people - Servers $30 per hour each*
 
 * * *
 
@@ -100,7 +100,7 @@ cheese
 *$28.50 per hour carver fee applies to carved sirloin, pork loin, or carved
 turkey selections*
 
-*Minimum of 20 people - Additional servers $29 per hour each*
+*Minimum of 20 people - Additional servers $30 per hour each*
 
 * * *
 
@@ -122,7 +122,7 @@ turkey selections*
 - Dinner rolls & butter
 - Assorted holiday dessert display
 
-*Minimum of 20 people - Servers and/or carver $29 per hour each*
+*Minimum of 20 people - Servers and/or carver $30 per hour each*
 
 * * *
 
@@ -146,7 +146,7 @@ $19.45 per person
 - Dinner rolls & butter
 - Assorted holiday dessert display
 
-*Servers and/or carver $29 per hour each*
+*Servers and/or carver $30 per hour each*
 
 * * *
 

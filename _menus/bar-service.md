@@ -187,7 +187,7 @@ reserve the right to refuse alcohol service to any patron.
  
 It is policy of Upper Crust Catering that we DO NOT serve shots. 
  
-Uniformed BASSET trained Bartenders are $29/hour each. Minimum Service Hour charges
+Uniformed BASSET trained Bartenders are $30/hour each. Minimum Service Hour charges
 for 4, 5 or 6 hour Open Bar packages includes set-up, open bar service, no "dinner service"
 time (if applicable) and tear-down time.  
  

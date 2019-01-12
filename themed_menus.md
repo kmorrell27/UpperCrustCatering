@@ -177,7 +177,7 @@ Plus - Tortilla Chips & your choice of freshmade pico de gallo or black bean & c
 
 The excitement is growing and there’s so much to do - Let us help!  We’ve designed a Shower menu with you in mind. Plates, napkins & silverware additional.
 
-**$13.95 per person - 20 person minimum**
+**$14.45 per person - 20 person minimum**
 
 ### Croissant Sandwich Platter
 

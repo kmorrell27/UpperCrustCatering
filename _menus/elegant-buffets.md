@@ -18,7 +18,7 @@ Easy and delicious!
 
 ## Buffet Selections ~ Menu 1
 
-$ 13.25 per person
+$ 13.95 per person
 
 **Select 2 Entrees**
 
@@ -47,7 +47,7 @@ $ 13.25 per person
 
 ## Buffet Selections ~ Menu 2
 
-$14.25 per person
+$14.95 per person
 
 **Select 2 Entrees**
 
@@ -70,7 +70,7 @@ $14.25 per person
 
 ## Buffet Selections ~ Menu 3
 
-$15.25 per person
+$15.95 per person
 
 **Select 2 Entrees**
 
@@ -159,7 +159,7 @@ All of our Elegant Buffet Menus include quality 3-compartment disposable dinner 
 
 Upgrade disposables, as well as, china, glassware and silver are available.  Please contact us for information & pricing.
 
-Servers/Carver available for $29/hr/server
+Servers/Carver available for $30/hr/server
 
 Black lacquer-look serving tongs & spoons are available 75¢ each.
 

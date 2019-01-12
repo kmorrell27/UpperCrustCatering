@@ -90,7 +90,7 @@ Fresh Baked Bread & Butter   *OR*   Dinner Rolls & Butter
 
 **Additional services**
 
-- Servers - $29/hr each
+- Servers - $30/hr each
 - Rental arrangements
 
 * * *
