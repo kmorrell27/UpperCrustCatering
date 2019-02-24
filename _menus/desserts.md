@@ -21,16 +21,16 @@ Bread Pudding with an Old-Fashioned Bourbon Glaze (20 pcs) | $42
 Chocolate Covered Strawberries - 35-40 ct | $45
 Homemade Apple Crisp - Small *(12-15 servings)* | $33
 Homemade Apple Crisp - Large *(32-36 servings)* | $53
-Homemade Black Forest Cake - Serves 16 to 24 | $45
 Fruit Strudel - 35 pcs | $45
+Coconut Macaroons Hand Dipped in Chocolate (50 pcs) | $40
 
 * * *
 
 ## Beverages
 
 -------------|----
-Soft Drinks & Bottled Water	| $1/person
-Iced Tea, Punch or Lemonade ~ 100 6oz servings *(includes cups)* | $60
-Coffee ~ Regular or Decaf ~ 100 6oz servings *(includes cups, sugar, non-dairy creamer, and stirrers) | $60
+Soft Drinks & Bottled Water	| $1.25/person
+Iced Tea, Punch or Lemonade ~ 100 6oz servings *(includes cups)* | $70
+Coffee ~ Regular or Decaf ~ 100 6oz servings *(includes cups, sugar, non-dairy creamer, and stirrers) | $70
 
 *A pick-up fee may apply for thermos coffee urn*

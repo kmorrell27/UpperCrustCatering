@@ -16,7 +16,9 @@ memorable day of your lives. Our wedding package is perfect
 for your special day, but don't forget to check out our [Elegant Buffet](/menus/elegant-buffets)
 menu options as well.
 
-*From $22.45 per person*
+**Any one of our menu packages are available for weddings**
+
+*From $23.95 per person*
 
 * * *
 
@@ -70,6 +72,7 @@ menu options as well.
 - Fresh Fruit Salad
 - Greek Salad with Feta, Black Olives, Tomatoes and Red Onions
 - Fresh Bibb & Romaine Tossed Greens
+- Tossed Mixed Greens with Tomatoes & Cucumbers
 
 * * *
 
@@ -81,8 +84,10 @@ Fresh Baked Bread & Butter   *OR*   Dinner Rolls & Butter
 
 **Included**
 
+
+<!-- TODO: Is that pnkf line right? -->
 - Coffee Service
-- Disposable plates, silverware, & napkins
+- Appetizer, Dinner & Dessert Disposable Plates, Napkins & Silverware
 - Chafing dishes & serving utensils
 - Cake cutting services
 - Fresh relish tray on each guest table
@@ -130,8 +135,6 @@ Price includes disposable plates & napkins. Wait staff required.
 - Grilled BBQ Sausage & Pineapple Kabobs *Marinated then grilled, adding a light smoky flavor*
 - Pulled Pork Sliders *An Upper Crust signature sandwich. Rich, smooth flavor - not too sweet*
 - Pork Tenderloin Sliders *Mouth-watering tender medallions with a bourbon apple glaze*
-- Mini Pizza Party Ryes *The great flavor of one of our all time favor snack foods in bite sized portion! Perfectly seasoned and topped with plenty of gooey cheese*
-- Chicken Cordon Bleu Tenders *A delightful snack sized version of an entrée favorite! Hand breaded chicken tenders topped with a dip featuring Swiss cheese and ham*
 - Mini Burritos *A mini version of what you love! Topped with a dollop of sour cream and guacamole or pico de gallo*
 
 **Act 3 ~ Select 3**
@@ -151,3 +154,47 @@ Chocolate Fountain ~ $75 base rental and chocolate
 
 
 Indulgent Dippers ~ $5.50/person *Strawberries, pineapple, granola bar bites, krispie bars, pretzels, Oreos*
+
+* * *
+
+## Shower Package
+
+The excitement is growing and there’s so much to do - Let us help!  We’ve designed a Shower menu with you in mind. Plates, napkins & silverware additional.
+
+**$14.45 per person - 20 person minimum**
+
+### Croissant Sandwich Platter
+
+Buttery, flakey croissants with your choice of three sandwich fillings, all  with lettuce & tomatoes
+
+- Tuna Salad
+- Chicken Salad
+- Ham Salad
+- Egg Salad
+- Turkey & Swiss
+- Ham & Cheddar
+- Roast Beef & Cheddar
+
+
+### Tropical Bowtie Caesar Salad
+
+A crisp romaine salad with Mandarin Oranges, Strawberries, Bowtie pasta & Poppyseed dressing
+
+
+### Pinwheel Sandwiches
+
+Ham, Turkey, Genoa Salami, tomatoes, lettuce, onions & cheeses rolled in a flour tortilla with our seasoned cream cheese and sliced into flavorful bite sized pieces
+
+
+### Spinach Bread Bowl
+
+Fresh baked bread bowl filled with our own Spinach Dip made with Baby Spinach & fresh veggies
+
+
+### Fresh Fruit Display and Vegetable Crudite with dip
+
+
+**Having a Couples Shower?**  We'll  “beef” up the Ladies Lunch & keep everyone happy & full!  Substitute a Hero Sandwich Platter for the Croissants Sandwiches for $1.25/person.
+
+Sandwich Platters come with Mustard & Mayo sides.
+

@@ -18,19 +18,28 @@ Black "lacquer-look" serving utensils are available for 75¢ each.
 Ala Carte Entree Selections | Price
 ----------|-----------
 Italian Beef au Jus *Made fresh and seasoned to perfection with sweet pepper rings & hot giardiniera* | $75
+
 Fresh baked French rolls (20 count) | $11
+&nbsp;&nbsp;&nbsp;&nbsp;Half Order | $40
 Beef Brisket *Braised with garlic, onions, and tomatoes* | $87
+&nbsp;&nbsp;&nbsp;&nbsp;Half Order | $45
 Fresh baked French rolls (20 count) | $11
 BBQ Pulled Pork *Braised in our signature BBQ sauce - full of flavor and not too sweet* | $60
 Slider sandwich buns (30 count) | $9.75
-Yankee Pot Roast *An all time favorite - rich flavor & oh so tender! With cooked in potatoes & carrots for a complete one-dish meal* | $80
-Herb Roasted Chicken *Marinated in our herb rub blend and oven roasted until moist & tender. Breasts, legs, wings & thighs ~ 25 pcs.* | $45
-Pan Fried Chicken *We hand bread with our seasoned bread crumbs, fry to a perfect crisp then oven roast until tender. Breasts, legs, wings & thighs ~ 25 pcs.* | $55
-Chicken Oreganato *Gluten free!* | $45
-Baked Mostaccioli *Herb seasoned marinara, ricotta cheese, beef & Italian sausage topped with mozzarella cheese* | $60
-Meatless Mostaccioli *Great vegetarian option!* | $55
-Homemade Baked Lasagna *Layers of lasagna noodles, rich savory meat sauce, ricotta & topped with parmesan cheese* | $65
-Vegetarian Baked Lasagna *Made with fresh spinach* | $60
+Yankee Pot Roast *An all time favorite - rich flavor & oh so tender! | $80
+*Add cooked in potatoes & carrots for a complete one-dish meal* | $110
+Herb Roasted Chicken *Marinated in our herb rub blend and oven roasted until moist & tender. Breasts, legs, wings & thighs ~ 25 pcs.* | $50
+Pan Fried Chicken *We hand bread with our seasoned bread crumbs, fry to a perfect crisp then oven roast until tender. Breasts, legs, wings & thighs ~ 25 pcs.* | $60
+Chicken Oreganato *Gluten free!* | $50
+Homemade Black Bean Chili *Delicious & satisfying all year round! A full 12oz serving per person* | $58
+Baked Mostaccioli *Herb seasoned marinara, ricotta cheese, beef & Italian sausage topped with mozzarella cheese* | $62
+&nbsp;&nbsp;&nbsp;&nbsp;Half Order | $33
+Meatless Mostaccioli *Great vegetarian option!* | $57
+&nbsp;&nbsp;&nbsp;&nbsp;Half Order | $30
+Homemade Baked Lasagna *Layers of lasagna noodles, rich savory meat sauce, ricotta & topped with parmesan cheese* | $67
+&nbsp;&nbsp;&nbsp;&nbsp;Half Order | $35
+Vegetarian Baked Lasagna *Made with fresh spinach* | $62
+&nbsp;&nbsp;&nbsp;&nbsp;Half Order | $33
 Egg Plant Parmesan *Vegetarian* | $75
 Sandwich Platter *An assortment of freshly made ham, smoked turkey & roast beef sandwiches, all with lettuce, tomato & cheese. Mustard, mayo & bistro sauce sides.* | $62
 Deli Platter *An appetizing arrangement of deli meats and cheeses with lettuce, tomatoes, onions, pickles & olives. Mustard, mayo, bistro sauce & sandwich buns included* | $75
@@ -61,6 +70,7 @@ Macaroni Pasta Salad *Pasta, diced tomatoes, genoa salami & cheddar cheese* | $4
 Pesto Pasta Salad *Chopped fresh vegetables with tomatoes & pesto* | $40
 Mediterranean Pasta Salad *Sliced black olives, fresh diced tomatoes & feta* | $50
 Bacon Ranch Pasta Salad | $45
+7 Layer Salad *A Southern Classic ~ We layer chopped greens, sweet peas, onions, cheddar cheese, bacon, tomatoes & sweet dressing* | $75
 Potato Salad | $30
 Creamy Cole Slaw | $25
 Seasonal Fruit Display *A mouthwatering display of the season's best fruit* | $60
@@ -75,3 +85,6 @@ BBQ Baked Beans | $25
 Garlic Bread (24 pcs) | $8.95
 Fresh Homemade Bread (Serves 20 people) | $8.75
 Buttered Fresh Green Beans |$40
+Dinner Rolls & Butter | $4.25/dozen
+
+<!--TODO: What is the note above buttered green beans -->

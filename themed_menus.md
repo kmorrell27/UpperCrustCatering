@@ -28,7 +28,7 @@ Theme Menu package pricing is based on menu item selections and number of people
 
 ## Chuck Wagon Days
 
-*$12.75 per person - Minimum 20 people*
+*$13.45 per person - Minimum 20 people - Includes plates, napkins, & silverware*
 
 ### Entrees
 
@@ -63,9 +63,12 @@ Apple Crisp or Bread Pudding
 ## Sunday Dinners at Grandma's
 *... for the best in comfort food ...*
 
+*30 person minimum - $13.25 - Includes plates, napkins, & silverware*
+
 ### Entrees
 
-*30 person minimum - $13.75 with dessert, $13.25 without dessert*
+
+**Select 2**
 
 - Chicken Pot Pie
 - Sliced Turkey & Gravy
@@ -82,10 +85,13 @@ Apple Crisp or Bread Pudding
 - Corn
 - Dinner Rolls & Butter
 - Biscuits & Butter
-
-**PLUS** Your choice of Mashed Potatoes or Au Gratin Potatoes
+- Au Gratin Potatoes
+- Mashed Potatoes
+- Buttered Peas & Carrots
 
 ### Dessert
+
+Add Dessert for 25¢ per person
 
 Homemade Apple Pie or  Fresh Baked Cookies
 
@@ -95,9 +101,11 @@ Homemade Apple Pie or  Fresh Baked Cookies
 
 ## Sock Hop
 
-*20 person minimum - Select 3 Entrees $12.75*
+*20 person minimum - Select 3 Entrees $13.50 - includes plates, napkins & silverware*
 
 ### Entrees
+
+**Select 3**
 
 - Corn Dogs
 - Chili Cheese Dogs
@@ -122,15 +130,16 @@ Brownies & Cookies
 
 *Two great options for a south of the border taste!*
 
-**$14.25 per person  -  Minimum 30 people**
+**$14.95 per person - Minimum 30 people - Includes plates, napkins & silverware**
 
 ### Entrees
 
 **Select 2**
 
 - Baked Enchiladas
+- Chicken Enchiladas
 - Chicken Fajitas
-- Pork & Salsa Verde (hot or mild)
+- Text-Mex Lasagna
 - Steak Fajitas (Add $1/person)
 
 
@@ -142,7 +151,7 @@ Brownies & Cookies
 - Mexican Corn
 - Spanish Rice
 - Cornbread & Butter
-- Chilaquiles
+- Roasted Potato Salad with Chilies
 
 Plus - Tortilla Chips & your choice of freshmade pico de gallo or black bean & corn salsa
 

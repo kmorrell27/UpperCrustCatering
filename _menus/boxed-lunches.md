@@ -9,7 +9,7 @@ image-filename: boxed-lunch.jpg
 
 ## Executive Boxed Lunches
 
-**$10.45 each ‡**
+**$10.95 each ‡**
 
 Our Executive Boxed Lunches include Chef's choice of fruit; your choice of Potato Salad or Cole Slaw; your choice of Brownie or Cookie; Chips and Condiments.
 
@@ -81,7 +81,7 @@ Mixed greens with tomatoes, cucumbers, ham, turkey, swiss, cheddar, mushrooms, e
 
 ## Basic Boxed Lunches
 
-**$9.25 ‡**
+**$9.75 ‡**
 
 Our Basic Boxed Lunches include Cookie, Chips & Condiments.
 
@@ -126,6 +126,6 @@ Lettuce, tomatoes, cucumbers, mushrooms, bell peppers, thinly sliced onions, Swi
 
 * * *
 
-‡ To avoid an additional charge, please limit sandwich selections to 3 options for orders of 20 people or fewer & to 4 options for orders over 20 people. A surcharge will be applied to orders with split sides, dressings, and/or desserts.
+‡ To avoid an additional 10% charge, please limit sandwich selections to 3 options for orders of 20 people or fewer & to 4 options for orders over 20 people. A surcharge will be applied to orders with split sides, dressings, and/or desserts.
 
-Soft Drinks & Bottled Water $1 each.
+Soft Drinks & Bottled Water $1.25 each.

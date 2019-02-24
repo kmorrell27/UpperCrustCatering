@@ -10,7 +10,7 @@ additional-options: ["Disposable plates, Reflections Silverware and napkins are 
 
 ## Basic Breakfast Buffet
 
-**$10.50  per person**
+**$10.95  per person**
 
 - Seasonal Fresh Fruit
 - Home Fries
@@ -20,7 +20,7 @@ additional-options: ["Disposable plates, Reflections Silverware and napkins are 
 
 \*Extra bacon for 50¢/slice and extra sausage for $1/link
 
-Add ham steaks, biscuits and sausage gravy to make your breakfast heartier. Only $3.50 more per person!
+For a heartier breakfast, add ham steaks with biscuits and sausage gravy for $3.95 per person!
 * * *
 
 ## Ala Carte ~ Breakfast Stratas
@@ -31,12 +31,13 @@ Add ham steaks, biscuits and sausage gravy to make your breakfast heartier. Only
 Ham, Sausage, & Cheddar | $50
 Bacon, Onion & Swiss | $50
 Vegetarian | $40
+Half Orders of any of the above | $30
 
 * * *
 
 ## Continental Breakfast
 
-**$5.95 per person**
+**$6.25 per person**
 
 - Seasonal Fruit Tray
 

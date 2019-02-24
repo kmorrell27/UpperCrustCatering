@@ -29,7 +29,7 @@ $ 13.95 per person
 - BBQ Chicken
 - Chicken Alfredo *with Bow Tie Pasta*
 - Pan Fried Chicken
-- Baked Meat Loaf
+- Baked Meat Loaf *with Gravy*
 - Hungarian Style Beef Tips
 - BBQ Pulled Pork *includes sandwich buns as bread option*
 - Stuffed Green Peppers
@@ -40,7 +40,7 @@ $ 13.95 per person
 - Baked Ham *with Honey Mustard Glaze*
 - Baked Lasagna *with Meat Sauce*
 - Baked Lasagna *with Spinach - vegetarian!*
-- Cheese Tortellini with Meatballs & Italian sausage
+- Three Cheese Stuffed Sheels *with Marinara*
 - Pork Schnitzel *with Cinnamon Apples*
 - Polish Sausage & Sauerkraut
 
@@ -63,7 +63,7 @@ $14.95 per person
 - Baked Stuffed Pork Chops *with Sausage Dressing*
 - Sautéed Pork Tenderloin with Peppers & Onions
 - Sliced Roast Turkey *with Sage Stuffing & Gravy*
-- Sautéed Turkey Schnitzel *in a Lemon Caper Sauce*
+- Sautéed Pork Schnitzel *with Cinnamon Apples*
 - Sautéed Turkey Tips *in a Mushroom Cream Sauce over rice*
 - Eggplant Parmesan *Vegetarian*
 
@@ -78,14 +78,14 @@ $15.95 per person
 - Chicken Cordon Bleu *with Ham & Swiss Cheese*
 - Carved London Broil *with Port Wine Sauce - Gluten Free*
 - Carved Sirloin *with Natural Jus*
-- Baked Stuffed Flounder *with Champagne Sauce*
-- Baked Cod Filet Milanese *topped with Herb Seasoned Bread Crumbs*
+- Baked Tilapia *with a Panko Breading & Parmesan Crust and a Lemon Beurre Blacn*
+- Baked Filet of Cod *topped with Herb Seasoned Bread Crumbs*
 
-- Braised Beef Brisket - *braised with garlic, onion & tomatoes until mouth watering tender - $15.45 with 1 selection from Menu 3*
+- Braised Beef Brisket - *braised with garlic, onion & tomatoes until mouth watering tender - $16.25 with 1 selection from Menu 3*
 
-- Baked Salmon *with Fresh Herb Sauce along with 1 other Entree from Menu 3. . . $ 15.75 per person*
+- Baked Salmon *with Fresh Herb Sauce along with 1 other Entree from Menu 3. . . $16.50 per person*
 
-- Sauteed Orange Roughy *with Fresh Spinach Sauce along with 1 other Entree selection from Menu 3 . . . $16.75 per person*
+- Sauteed Orange Roughy *with Fresh Spinach Sauce along with 1 other Entree selection from Menu 3 . . . $17.50 per person*
 
 - Roasted Prime Rib of Beef  ~  *available at Market Price*
 
@@ -104,7 +104,7 @@ with Mandarin Oranges, Tomatoes & Raspberry Vinaigarette Dressing
 - Creamy Cole Slaw
 - Bow Tie Caesar Salad
 - Broccoli Raisin Salad
-with Matchstick Carrots & Bacon *(Vegetarian? Ask us to omit the bacon)*
+with Matchstick Carrots & Bacon *Add 50¢ per person (Vegetarian? Ask us to omit the bacon)*
 - Macaroni Salad
 with peas and chopped tomatoes, Genoa salami and cheddar cheese
 - Cucumber & Tomato Salad with a creamy homemade dill dressing
@@ -126,7 +126,7 @@ plus choice of 2 Dressings *Ranch, Fat Free Italian, French, 1000 Island, Balsam
 - Braised Red Cabbage
 - Corn on the Cob *(seasonal)*
 - Fresh Asparagus Spears
-- Roasted Fresh Brussel Sprouts *(seasonal) Add 50¢ per person*
+- Roasted Fresh Brussel Sprouts *(seasonal) Add 75¢ per person*
 
 
 ### Starches
@@ -138,7 +138,7 @@ plus choice of 2 Dressings *Ranch, Fat Free Italian, French, 1000 Island, Balsam
 - Mashed Potatoes
 - Rice Pilaf
 - Wild Rice Blend
-- Red Beans & Rice *with Andouille Sausage*
+- Spanish Rice
 - BBQ Baked Beans
 - Garlic Bow Tie Pasta *with Pesto, Tomatoes, & Parmesan Cheese*
 - Buttered Noodles
@@ -167,9 +167,9 @@ Chafing dish packages (reusable, no return, wire frame chafer, 2 sternos, and a 
 
 Disposable "Linen Look " table cloths available for $6.75 each.
 
-A 10% surcharge may be applied to parties fewer than 20 people.
+A 10% surcharge will be applied to parties fewer than 20 people.
 
-On-site carving is available for $75
+On-site carving is available for $95
 
 # On-site waitstaff
 

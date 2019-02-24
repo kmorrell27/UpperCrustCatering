@@ -205,6 +205,6 @@ Our Reservation & Payment Schedule is as follows. . .
 4. After final payment has been met, payment for any additions to guest count or Service Hours will
 be due at the time of Staff departure on the day of your event 
  
-An 18% pre-paid gratuity will be applied if a tip jar is not allowed. 
+A 20% pre-paid gratuity will be applied if a tip jar is not allowed. 
  
 All applicable taxes and a Bar Delivery/Travel fee will be applied to all Bar Service events. 

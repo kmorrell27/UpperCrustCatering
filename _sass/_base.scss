@@ -64,10 +64,15 @@ figcaption {
  */
 table {
   width: 100%;
+  border-collapse: collapse;
 }
 
 td:nth-child(2) {
   text-align: right;
+}
+
+tr {
+    border-bottom: dotted 1px;
 }
 
 
