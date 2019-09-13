@@ -16,7 +16,7 @@ several delicious party menus
 
 ### Braised Sauerbraten
 
-$11.95 per person
+$12.25 per person
 
 - Homemade potato pancakes with sour cream & applesauce
 - Carrots
@@ -26,7 +26,7 @@ $11.95 per person
 
 ### Bratwurst-Knockwurst Buffet
 
-$11.50 per person
+$11.75 per person
 
 - Sauerkraut
 - Bavarian baked beans
@@ -36,7 +36,7 @@ $11.50 per person
 
 ### Braised Beef Rouladen
 
-$11.95 per person
+$12.25 per person
 
 - Buttered noodles
 - Braised red cabbage
