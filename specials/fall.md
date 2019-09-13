@@ -22,7 +22,6 @@ $12.25 per person
 - Carrots
 - Rye bread & butter
 - Black forest cake
-- Kielbasa
 
 ### Bratwurst-Knockwurst Buffet
 
