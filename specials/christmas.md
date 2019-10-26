@@ -14,9 +14,9 @@ several delicious Christmas party menus
 
 ## Christmas Eve "Jingle Bells" Menu
 
-$14.75 per person for parties of 10 or larger
+$15.25 per person for parties of 10 or larger
 
-$16.75 per person for parties fewer than 10
+$17.25 per person for parties fewer than 10
 
 ### Your Choice of Two Entrees
 
@@ -35,20 +35,20 @@ $16.75 per person for parties fewer than 10
 
 - Holiday fudge platter
 
-*Orders for Christmas Eve or Christmas Day need to be placed by Friday, December 21
+*Orders for Christmas Eve or Christmas Day need to be placed by Saturday, December 21
 for pick-up only by 2:00PM on December 24th*
 
 *We gladly provided printed heating instructions for all Christmas Eve Menu
 orders*
 
 *add plates, napkin, silverware & serving tongs and spoons for an additional
-70¢/person*
+75¢/person*
 
 * * *
 
 ## White Christmas
 
-$36.50/person
+$37/person
 
 ### Hors d'oeuvres
 - Assorted cheeses & fresh fruit display
@@ -77,7 +77,7 @@ Christmas cookies
 
 ## Stocking Stuffers
 
-Heavy hors d'oeuvres dinner - $29.50 per person
+Heavy hors d'oeuvres dinner - $30 per person
 
 ### Choose six selections from the following
 
@@ -97,7 +97,7 @@ cheese
 - Crab & shrimp stuffed mushrooms
 - Holiday favorites dessert assortment
 
-*$28.50 per hour carver fee applies to carved sirloin, pork loin, or carved
+*$30 per hour carver fee applies to carved sirloin, pork loin, or carved
 turkey selections*
 
 *Minimum of 20 people - Additional servers $30 per hour each*
@@ -106,7 +106,7 @@ turkey selections*
 
 ## Santa Claus is Coming to Town
 
-*$18.25 per person*
+*$18.75 per person*
 
 ### Three Entrees
 
@@ -128,7 +128,7 @@ turkey selections*
 
 ## Chestnuts Roasting
 
-$19.45 per person
+$19.95 per person
 
 *Minimum of 25 people*
 

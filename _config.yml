@@ -23,7 +23,7 @@ collections:
     permalink: /menus/:path/
     output: true
 
-plugins:
+plugins_dir:
   - jekyll-redirect-from
 
 full_rebuild: true
