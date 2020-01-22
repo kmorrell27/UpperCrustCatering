@@ -12,7 +12,7 @@ To help you celebrate we’ve put together some of our favorite selections for t
 
 ## Cap & Gown Buffet
 
-$11.95/person
+$12.95/person
 
 *add plates, napkin, silverware & serving tongs and spoons for an additional 75¢/person*
 

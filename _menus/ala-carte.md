@@ -86,5 +86,3 @@ Garlic Bread (24 pcs) | $8.95
 Fresh Homemade Bread (Serves 20 people) | $8.75
 Buttered Fresh Green Beans |$40
 Dinner Rolls & Butter | $4.25/dozen
-
-<!--TODO: What is the note above buttered green beans -->

@@ -14,9 +14,9 @@ several delicious Christmas party menus
 
 ## Christmas Eve "Jingle Bells" Menu
 
-$15.25 per person for parties of 10 or larger
+$16.25 per person for parties of 10 or larger
 
-$17.25 per person for parties fewer than 10
+$18.25 per person for parties fewer than 10
 
 ### Your Choice of Two Entrees
 
@@ -48,7 +48,7 @@ orders*
 
 ## White Christmas
 
-$37/person
+$38/person
 
 ### Hors d'oeuvres
 - Assorted cheeses & fresh fruit display
@@ -77,7 +77,7 @@ Christmas cookies
 
 ## Stocking Stuffers
 
-Heavy hors d'oeuvres dinner - $30 per person
+Heavy hors d'oeuvres dinner - $31 per person
 
 ### Choose six selections from the following
 
@@ -106,7 +106,7 @@ turkey selections*
 
 ## Santa Claus is Coming to Town
 
-*$18.75 per person*
+*$19.75 per person*
 
 ### Three Entrees
 
@@ -128,7 +128,7 @@ turkey selections*
 
 ## Chestnuts Roasting
 
-$19.95 per person
+$20.95 per person
 
 *Minimum of 25 people*
 

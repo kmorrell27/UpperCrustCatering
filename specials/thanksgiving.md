@@ -12,7 +12,7 @@ November 27. We'll include everything you need plus heating instructions.
 
 ## Thanksgiving Feast
 
-$14.15 per person
+$15.15 per person
 
 - Roasted tom turkey with sage stuffing
 - Whipped potatoes with giblet gravy

@@ -18,7 +18,7 @@ menu options as well.
 
 **Any one of our menu packages are available for weddings**
 
-*From $23.95 per person*
+*From $24.95 per person*
 
 * * *
 
@@ -102,7 +102,7 @@ Fresh Baked Bread & Butter   *OR*   Dinner Rolls & Butter
 
 ## The Wedding Ball
 
-$25.45 per person
+$26.45 per person
 
 Indulge your guests with an elegant ongoing presentation of satisfying hors d'euvres.
 Our appetizers are homemade and artfully displayed to please the eye and your palate.
@@ -161,7 +161,7 @@ Indulgent Dippers ~ $5.50/person *Strawberries, pineapple, granola bar bites, kr
 
 The excitement is growing and there’s so much to do - Let us help!  We’ve designed a Shower menu with you in mind. Plates, napkins & silverware additional.
 
-**$14.45 per person - 20 person minimum**
+**$15.45 per person - 20 person minimum**
 
 ### Croissant Sandwich Platter
 

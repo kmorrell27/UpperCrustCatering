@@ -18,7 +18,7 @@ Easy and delicious!
 
 ## Buffet Selections ~ Menu 1
 
-$ 13.95 per person
+$14.95 per person
 
 **Select 2 Entrees**
 
@@ -47,7 +47,7 @@ $ 13.95 per person
 
 ## Buffet Selections ~ Menu 2
 
-$14.95 per person
+$15.95 per person
 
 **Select 2 Entrees**
 
@@ -70,7 +70,7 @@ $14.95 per person
 
 ## Buffet Selections ~ Menu 3
 
-$15.95 per person
+$16.95 per person
 
 **Select 2 Entrees**
 
@@ -81,11 +81,11 @@ $15.95 per person
 - Baked Tilapia *with a Panko Breading & Parmesan Crust and a Lemon Beurre Blacn*
 - Baked Filet of Cod *topped with Herb Seasoned Bread Crumbs*
 
-- Braised Beef Brisket - *braised with garlic, onion & tomatoes until mouth watering tender - $16.25 with 1 selection from Menu 3*
+- Braised Beef Brisket - *braised with garlic, onion & tomatoes until mouth watering tender - $17.25 with 1 selection from Menu 3*
 
-- Baked Salmon *with Fresh Herb Sauce along with 1 other Entree from Menu 3. . . $16.50 per person*
+- Baked Salmon *with Fresh Herb Sauce along with 1 other Entree from Menu 3. . . $17.50 per person*
 
-- Sauteed Orange Roughy *with Fresh Spinach Sauce along with 1 other Entree selection from Menu 3 . . . $17.50 per person*
+- Sauteed Orange Roughy *with Fresh Spinach Sauce along with 1 other Entree selection from Menu 3 . . . $18.50 per person*
 
 - Roasted Prime Rib of Beef  ~  *available at Market Price*
 
