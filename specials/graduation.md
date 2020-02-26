@@ -12,7 +12,7 @@ To help you celebrate we’ve put together some of our favorite selections for t
 
 ## Cap & Gown Buffet
 
-$12.95/person
+$13.70/person
 
 *add plates, napkin, silverware & serving tongs and spoons for an additional 75¢/person*
 
@@ -50,4 +50,4 @@ Brownies or Cookies
 
 ***
 
-Congratulations to all 2019 graduates from all of us at Upper Crust Catering!
+Congratulations to all 2020 graduates from all of us at Upper Crust Catering!
