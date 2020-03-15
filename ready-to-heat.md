@@ -8,38 +8,22 @@ image-filename: boxed-lunch.jpg
 
 ## Ready to Heat Meals
 
-Each meal serves 8 people and can easily be reheated throughout the week. Add a hot meal for $40 more.
+With the current situatation in Illinois, Upper Crust is happy to offer delicious home-cooked meals that can easily be reheated throughout the week.
 
-Choose from the options below. $40 for one selection, $60 for two, $80 for three
+Each meal serves a family of 4 people and can easily be reheated throughout the week. Add a hot meal for $40 more.
 
-**Lasagna**
+Choose from the options below. $35 for each selection. All dishes include reheating instructions.
 
-Reheat instructions here
+- Lasagna with Garlic Bread and Caesar Salad
+- Basked Mostaccioli with Garlic Bread and Caesar Salad
+- Italian Beef with Rolls with Mac and Cheese and Baked Beans on the side
+- BBQ Pulled Pork with Rolls with Mac and Cheese and Baked Beans on the side
+- Pot Roast with Baby New Potatoes and Carrots
+- Meatloaf with Mashed Potatoes, Gravy and Green Beans
+- Baked Chicken with Rice Pilaf and Vegetable Medley
 
-
-**Boneless Chicken Wings**
-
-Reheat instructions here
-
-
-**Italian Beef with Rolls**
-
-Reheat instructions here
+Also check out our [boxed lunch options](/menus/boxed-lunches/)!
 
 
-**BBQ Pulled Pork with Rolls**
 
-Reheat instructions here
-
-
-**Basked Mostaccioli**
-
-Reheat instructions here
-
-## Hot options
-
-Add on tonight's hot menu selection for $30 more!
-
-Monday & Wednesday | Tuesday & Thursday | Friday
-----------|-----------|--------------
-Spaghetti & Meatballs | Sliders | Fried Fish Dinner
+Pick-up available. Delivery available starting at $15 depending on distance from our Yorkville kitchen.
