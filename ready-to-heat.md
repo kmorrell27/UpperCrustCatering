@@ -11,7 +11,7 @@ image-filename: boxed-lunch.jpg
 
 With the current situatation in Illinois, Upper Crust is happy to offer delicious home-cooked meals that can easily be reheated throughout the week.
 
-Each meal serves a family of 4 people and can easily be reheated throughout the week. Add a hot meal for $40 more.
+Each meal serves a family of 4 people and can easily be reheated throughout the week.
 
 Choose from the options below. $35 for each selection. All dishes include reheating instructions.
 
