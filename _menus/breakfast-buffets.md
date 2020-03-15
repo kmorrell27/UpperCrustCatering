@@ -5,12 +5,12 @@ collection: menus
 order-by: 3
 headline: "Breakfast Buffets"
 image-filename: breakfast.jpg
-additional-options: ["Disposable plates, Reflections Silverware and napkins are available for 75¢  per person with Breakfast orders.", "Black 'Lacquer-look' serving tongs & spoons available for 75¢ each.", "Chafing dishes available for $12 per hot item."]
+additional-options: ["Black 'Lacquer-look' serving tongs & spoons available for 75¢ each.", "Chafing dishes available for $12 per hot item."]
 ---
 
 ## Basic Breakfast Buffet
 
-**$10.95  per person**
+**$11.75  per person - includes plates, napkins & silverware**
 
 - Seasonal Fresh Fruit
 - Home Fries
@@ -28,16 +28,16 @@ For a heartier breakfast, add ham steaks with biscuits and sausage gravy for $3.
 **Serves 20 people**
 
 --------------|------
-Ham, Sausage, & Cheddar | $50
-Bacon, Onion & Swiss | $50
-Vegetarian | $40
+Ham, Sausage, & Cheddar | $55
+Bacon, Onion & Swiss | $55
+Vegetarian | $55
 Half Orders of any of the above | $30
 
 * * *
 
 ## Continental Breakfast
 
-**$6.25 per person**
+**$6.75 per person - Includes plates, napkins & silverware**
 
 - Seasonal Fruit Tray
 

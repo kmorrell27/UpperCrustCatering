@@ -34,14 +34,12 @@ $14.95 per person
 - BBQ Pulled Pork *includes sandwich buns as bread option*
 - Stuffed Green Peppers
 - Baked Mostaccioli
-- Stuffed Manicotti Shells
+- Three Cheese Stuffed Shells with Marinara
 - Meatless Mostaccioli - *vegetarian!*
-- Braised Swiss Steak *topped with Tomato Sauce*
+- Braised Swiss Steak *topped with a rich tomato sauce*
 - Baked Ham *with Honey Mustard Glaze*
 - Baked Lasagna *with Meat Sauce*
-- Baked Lasagna *with Spinach - vegetarian!*
-- Three Cheese Stuffed Sheels *with Marinara*
-- Pork Schnitzel *with Cinnamon Apples*
+- Spinach Lasagna *vegetarian!*
 - Polish Sausage & Sauerkraut
 
 
@@ -64,7 +62,6 @@ $15.95 per person
 - Sautéed Pork Tenderloin with Peppers & Onions
 - Sliced Roast Turkey *with Sage Stuffing & Gravy*
 - Sautéed Pork Schnitzel *with Cinnamon Apples*
-- Sautéed Turkey Tips *in a Mushroom Cream Sauce over rice*
 - Eggplant Parmesan *Vegetarian*
 
 
@@ -78,7 +75,7 @@ $16.95 per person
 - Chicken Cordon Bleu *with Ham & Swiss Cheese*
 - Carved London Broil *with Port Wine Sauce - Gluten Free*
 - Carved Sirloin *with Natural Jus*
-- Baked Tilapia *with a Panko Breading & Parmesan Crust and a Lemon Beurre Blacn*
+- Baked Tilapia *with a Panko Breading & Parmesan Crust and a Lemon Beurre Blanc*
 - Baked Filet of Cod *topped with Herb Seasoned Bread Crumbs*
 
 - Braised Beef Brisket - *braised with garlic, onion & tomatoes until mouth watering tender - $17.25 with 1 selection from Menu 3*
@@ -108,8 +105,6 @@ with Matchstick Carrots & Bacon *Add 50¢ per person (Vegetarian? Ask us to omit
 - Macaroni Salad
 with peas and chopped tomatoes, Genoa salami and cheddar cheese
 - Cucumber & Tomato Salad with a creamy homemade dill dressing
-- Pesto Pasta Salad
-with garden vegetables
 - Classic Caesar Salad
 with croutons & parmesan
 - Tossed Mixed Greens (Romaine, Spinach & Iceberg Blend)

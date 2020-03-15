@@ -18,7 +18,7 @@ menu options as well.
 
 **Any one of our menu packages are available for weddings**
 
-*From $24.95 per person*
+*$24.95 per person for Buffet Service Style - Upcharges & some menu adjustments will apply to Family Style, Combo and Plated Service*
 
 * * *
 
@@ -37,9 +37,9 @@ menu options as well.
 
 - London Broil with Sauce Bordelaise
 - Carved Sirloin au jus
-- Baked Salmon with Forentine Sauce
+- Baked Salmon with Florentine Sauce
 - Herb Roasted Chicken
-- Stuffed Breast of Chicken filled with Sage Dressing
+- Spinach & Cheese Stuffed Chicken Breast atop a layer of rich Supreme Sauce
 - Stuffed Pork Loin with Apple Cider Sauce
 - Carved Chateau Briand with Portobello Cognac Sauce *available at market price*
 - Roast Carved Turkey with Fresh Cranberries
@@ -102,7 +102,7 @@ Fresh Baked Bread & Butter   *OR*   Dinner Rolls & Butter
 
 ## The Wedding Ball
 
-$26.45 per person
+$25.95 per person
 
 Indulge your guests with an elegant ongoing presentation of satisfying hors d'euvres.
 Our appetizers are homemade and artfully displayed to please the eye and your palate.
@@ -121,7 +121,7 @@ Price includes disposable plates & napkins. Wait staff required.
 - Boneless Wings *Spicy for some heat or teriyaki for the timid*
 - Bruschetta *We chop, dice, then add garlic and the perfect amount of fresh basil for a classic that leaves you wanting just one more bite!*
 - Buffalo Chicken Wedges *Hand shredded chicken combined with our own hot sauce, cheeses & onions*
-- Stuffed Jalapeño Pepper Poppers *Plenty of spicy flavor but easy on the heat*
+- Pepper Poppers Stuffed with Jalapeño Cheese *Plenty of spicy flavor but easy on the heat*
 - Stuffed Cucumber Towers *A refreshing time tested appetizer with a creamy herb topping*
 - Bacon & Pimento Cheese Balls *Rolled in bacon bits and chopped pecans - the challenge is to eat only one!*
 
@@ -159,9 +159,9 @@ Indulgent Dippers ~ $5.50/person *Strawberries, pineapple, granola bar bites, kr
 
 ## Shower Package
 
-The excitement is growing and there’s so much to do - Let us help!  We’ve designed a Shower menu with you in mind. Plates, napkins & silverware additional.
+The excitement is growing and there’s so much to do - Let us help!  We’ve designed a Shower menu with you in mind. Plates, napkins & silverware available for 90¢ per person.
 
-**$15.45 per person - 20 person minimum**
+**$15.45 per person**
 
 ### Croissant Sandwich Platter
 

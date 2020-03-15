@@ -7,13 +7,13 @@ image-filename: hors-doeuvres.jpg
 headline: "Hors d'oeuvres & Party Platters"
 ---
 
-Party Platters are artfully arranged on black lacquer trays for an elegant presentation, appropriate for any occasion. Each platter serves 20.
+Party Platters are artfully arranged on black lacquer trays for an elegant presentation, appropriate for any occasion.
 
 
 Cool & Refreshing |
 -------------| --------
 Assorted Cheese Tray with Crackers ~Small with 60 pieces ~ Large with 120 pieces | $30/$55
-Cheese & Sausage Tray with Crackers ~Small with 60 pieces ~ Large with 120 pieces | $35/$65
+Cheese & Sausage Tray with Crackers ~Small with 60 pieces ~ Large with 120 pieces | $35/$70
 Fresh Vegetable Crudités ~ Small serves 14-20 ~ Large serves 25-30 | $30/45
 Bruschetta with Garlic Toast Points (60 pcs) | $33
 Assorted Finger Sandwiches ~Small with 30 pcs ~ Large with 60 pcs | $35/$67
@@ -40,7 +40,12 @@ Open Faced Mini Grilled Ruebens (28 pcs) | $50
 Stuffed Mushrooms - Crabmeat or Italian Stuffing | $55
 Rumaki - Bacon wrapped Water Chestnuts (60 pcs) | $55
 Bacon wrapped Dates (40 pcs) | $65
-Mini Chicken Quesadillas (60 pcs) | $50
+Spanakopita (45 pcs) | $65
+Mini Chicken Quesadillas (60 pcs) | $55
+Mini Beef Burritos (40 pcs) | $60
+Pepper Poppers stuffed with Jalapeño Cheese & Bacon (45 - 50 pcs) | $55
+&nbsp;&nbsp;&nbsp;&nbsp;Bleu Cheese Dip | $6
+&nbsp;&nbsp;&nbsp;&nbsp;Cool Ranch Dip | $3
 Toasted Crostinis with Roasted Red Peppers and topped with Fresh Shaved Parmesan (40 pcs) | $53
 Fresh Tomato & Herb Crostinis with melted Feta Cheese (40 pcs) | $53
 Mini Italian Sausage Kabobs with Bell Peppers & Onions (60 pcs) | $55
@@ -48,7 +53,7 @@ Grilled Teriyaki Pineapple Sausage Kebabs with Bell Peppers and Onions | $58
 
 * * *
 
-* Disposable appetizer plates & napkins are available for 40¢ per person (2 pcs per guest), upgrade plates available
+* Disposable appetizer plates & napkins are available for 40¢ per person (1½ pcs per guest), upgrade plates available
 
 * Serving tongs & spoons - 75¢ each
 

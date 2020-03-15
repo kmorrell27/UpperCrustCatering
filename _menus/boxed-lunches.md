@@ -9,9 +9,9 @@ image-filename: boxed-lunch.jpg
 
 ## Executive Boxed Lunches
 
-**$11.95 each ‡**
+**$11.50 each ‡**
 
-Our Executive Boxed Lunches include Chef's choice of fruit; your choice of Potato Salad or Cole Slaw; your choice of Brownie or Cookie; Chips and Condiments.
+Our Executive Boxed Lunches are prepared on fresh baked French Rolls & include Chef's choice of fruit; your choice of Potato Salad or Cole Slaw; your choice of Brownie or Cookie; Chips and Condiments.
 
 **Ham & Cheddar**
 
@@ -23,9 +23,9 @@ Deli fresh ham with cheddar cheese, lettuce & tomatoes with mustard & mayo sides
 Thinly sliced smoked turkey layered with Swiss cheese, lettuce & tomatoes with mustard & mayo sides.
 
 
-**Roast Beef**
+**Roast Beef and Cheddar**
 
-Roast Beef with cheddar cheese, lettuce, tomatoes & our homemade Creamed Horseradish sauce.
+Roast Beef with cheddar cheese, lettuce, tomatoes & a side of our homemade Bistro Sauce.
 
 
 **Dagwood**
@@ -73,7 +73,7 @@ Romaine tossed with tomatoes, Caesar dressing and parmesan cheese topped with te
 Bacon, lettuce, tomato & slices of smoked turkey wrapped in a flour tortilla with a side of mayo.
 
 
-**Chef's Salad**
+**Chef's Chopped Salad (Add $1)**
 
 Mixed greens with tomatoes, cucumbers, ham, turkey, swiss, cheddar, mushrooms, eggs & croutons. Please specify choice of Ranch, Italian, 1000 Island, French, Poppyseed dressing, Balsamic Vinaigrette, or Raspberry Vinaigrette Dressing.
 
@@ -81,13 +81,13 @@ Mixed greens with tomatoes, cucumbers, ham, turkey, swiss, cheddar, mushrooms, e
 
 ## Basic Boxed Lunches
 
-**$10.75 ‡**
+**$9.75 ‡**
 
-Our Basic Boxed Lunches include Cookie, Chips & Condiments.
+Our Basic Boxed Lunches are prepared on fresh baked French rolls & include Cookie, Chips & Condiments.
 
 **Tuna Salad Sandwich**
 
-Served with sliced tomatoes, crispy lettuce leaves and mayonnaise.
+Fresh homemade tuna salad with lettuce & tomatoes.
 
 
 **Turkey BLT**
@@ -107,12 +107,12 @@ Thin sliced turkey layered with Swiss cheese, lettuce and tomatoes, and mustard 
 
 **Combo Sandwich**
 
-Ham, turkey, and genoa salami with sliced onion, tomatoes, lettuce, pickles, and Italian Dressing.
+Ham, turkey, and genoa salami with sliced onion, tomatoes, lettuce, pickles, drizzled with Italian Dressing. Mustard & Mayo on the side.
 
 
-**Shaved Roast Beef Sandwich**
+**Shaved Roast Beef and Cheddar Sandwich**
 
-Served with lettuce, tomato, cheddar cheese and creamed horseradish.
+Served with lettuce, tomato, cheddar cheese and a side of our homemade Bistro Sauce.
 
 
 **Chicken Caesar Wrap**

@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Themed Menus
-permalink: /themed-menus/
+category: menus
 custom-classes: dotted-lists
+order-by: 8
 ---
 
-Themed menus are all the rage and it's no wonder
-- they're fun, delicious and add an air of excitement to any event.
+Themed menus are all the rage and it's no wonder - they're fun, delicious and add an air of excitement to any event.
 
 Whether you just "go theme" with the food or all the way with decorations, music, beverages and attire we're here to help you create a gathering everyone will remember.
 
@@ -28,7 +28,7 @@ Theme Menu package pricing is based on menu item selections and number of people
 
 ## Chuck Wagon Days
 
-*$13.45 per person - Minimum 20 people - Includes plates, napkins, & silverware*
+*$14.45 per person - Minimum 20 people - Includes plates, napkins, & silverware*
 
 ### Entrees
 
@@ -63,7 +63,7 @@ Apple Crisp or Bread Pudding
 ## Sunday Dinners at Grandma's
 *... for the best in comfort food ...*
 
-*30 person minimum - $13.25 - Includes plates, napkins, & silverware*
+*30 person minimum - $14.75 - Includes plates, napkins, & silverware*
 
 ### Entrees
 
@@ -91,9 +91,9 @@ Apple Crisp or Bread Pudding
 
 ### Dessert
 
-Add Dessert for 25¢ per person
+Add Dessert for 50¢ per person
 
-Homemade Apple Pie or  Fresh Baked Cookies
+Homemade Apple Cobbler or Fresh Baked Cookies
 
 * * *
 
@@ -101,7 +101,7 @@ Homemade Apple Pie or  Fresh Baked Cookies
 
 ## Sock Hop
 
-*20 person minimum - Select 3 Entrees $13.50 - includes plates, napkins & silverware*
+*20 person minimum - Select 3 Entrees $14.50 - includes plates, napkins & silverware*
 
 ### Entrees
 
@@ -130,7 +130,7 @@ Brownies & Cookies
 
 *Two great options for a south of the border taste!*
 
-**$14.95 per person - Minimum 30 people - Includes plates, napkins & silverware**
+**$15.95 per person - Minimum 30 people - Includes plates, napkins & silverware**
 
 ### Entrees
 
@@ -157,19 +157,19 @@ Plus - Tortilla Chips & your choice of freshmade pico de gallo or black bean & c
 
 * * *
 
-## Taco Bar
+## Build Your Own Taco Bar
 
 *... everything you need to build your own taco bar. For parties of 30 or more.*
 
-**2/person - $11.95 or 3/person - $12.95**
+**2/person - $12.95 or 3/person - $13.95**
 
-### Standard Taco Bar Includes
+### Includes
 
 - Corn & Flour Tortillas
 - Seasoned Chicken & Beef
 - Onions
 - Tomatoes
-- Jalapenos
+- Jalapeños
 - Cheese
 - Guacamole
 - Sour Cream
@@ -229,11 +229,11 @@ Sandwich Platters come with Mustard & Mayo sides.
 
 Dreaming of the ideal get-a-way or remembering that perfect vacation?  Just close your eyes, feel the breeze in your hair and the sun on your face …
 
-Our taste of The Islands will bring you there. Minimums may apply.
+Price is based on number of guests and menu selections. Please call for pricing. Minimums may apply. Plates, napkins, silverware, & serving tongs and spoons available.
 
 ### Entrees
 
-**Select 2 or 3**
+**Select 2**
 
 - Pineapple Glazed Ham
 - Polynesian Grilled Mahi Mahi
@@ -244,10 +244,13 @@ Our taste of The Islands will bring you there. Minimums may apply.
 
 ### Sides & Dessert
 
+**Select 3 or 4**
+
 - Spinach Salad with Mandarin Oranges & Poppyseed dressing
 - Lomi Lomi - a classic Island Salad with Salmon, Tomatoes & Sweet Onions
 - Sauteed Green Beans with Red Bell Peppers & Toasted Almonds
 - Carved Watermelon Basket filled with fresh seasonal fruit salad
 - Fried Rice
+- Ambrosia Fruit Salad
 
 Hawaiian Bread Rolls & Butter included
