@@ -235,10 +235,14 @@ hr {
   border-radius: 12px;
   color: black;
   font-size: 18px;
-  padding: 15px 32px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
+  padding: 15px 32px;
+
+  @include media-query($on-laptop) {
+    padding: 15px 16px;
+  }
 }
 
 .button:visited {
