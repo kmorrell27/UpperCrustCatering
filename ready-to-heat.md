@@ -3,7 +3,7 @@ layout: menu
 title:  "Ready to Heat Meals"
 headline: "Ready to Heat Meals"
 custom-classes: "ready-to-heat"
-permalink: /ready-to-heat/
+permalink: /ready-to-heat-2/
 image-filename: boxed-lunch.jpg
 ---
 
@@ -28,3 +28,8 @@ Also check out our [boxed lunch options](/menus/boxed-lunches/)!
 
 
 Pick-up available. Delivery available starting at $15 depending on distance from our Yorkville kitchen.
+
+<div class="buttonContainer">
+	<a class="button" href="https://uppercrustcatering.wufoo.com/forms/z1ulr3tr1kev45s/">Order online</a>
+	<a class="button" href="tel:16305539533">Call us at 630-553-9533</a>
+</div>
