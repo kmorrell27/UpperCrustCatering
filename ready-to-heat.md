@@ -3,7 +3,7 @@ layout: menu
 title:  "Ready to Heat Meals"
 headline: "Ready to Heat Meals"
 custom-classes: "ready-to-heat"
-permalink: /ready-to-heat-2/
+permalink: /ready-to-heat/
 image-filename: boxed-lunch.jpg
 ---
 
