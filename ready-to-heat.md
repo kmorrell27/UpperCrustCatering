@@ -7,7 +7,7 @@ permalink: /ready-to-heat/
 image-filename: boxed-lunch.jpg
 ---
 
-## Ready to Heat Meals
+## Curbside Pickup Ready to Heat Meals
 
 With the current situatation in Illinois, Upper Crust is happy to offer delicious home-cooked meals that can easily be reheated throughout the week.
 
@@ -15,21 +15,20 @@ Each meal serves a family of 4 people and can easily be reheated throughout the 
 
 Choose from the options below. $35 for each selection. All dishes include reheating instructions.
 
-- Lasagna with Garlic Bread and Caesar Salad
-- Basked Mostaccioli with Garlic Bread and Caesar Salad
-- Italian Beef with Rolls with Mac and Cheese and Baked Beans on the side
-- BBQ Pulled Pork with Rolls with Mac and Cheese and Baked Beans on the side
-- Pot Roast with Baby New Potatoes and Carrots
-- Meatloaf with Mashed Potatoes, Gravy and Green Beans
-- Baked Chicken with Rice Pilaf and Vegetable Medley
+1) Lasagna w/Meat sauce or Vegetarian  
+2) Mostaccoli w/beef & Italian Sausage or Vegetarian  
+3) Italian Beef comes with hot & sweet peppers  
+4) Pot Roast - includes dinner rolls & butter  
+5) Hungarian Beef Tips over Rice  
+6) Braised Beef Brisket - French Rolls available for additional $ 2.00
+
+All meals above are made to freeze and reheat well!
 
 Also check out our [boxed lunch options](/menus/boxed-lunches/)!
 
-
-
-Pick-up available. Delivery available starting at $15 depending on distance from our Yorkville kitchen.
+Pickup curbside Service only - Credit/Debit cards only - no cash accepted at this time
 
 <div class="buttonContainer">
 	<a class="button" href="https://uppercrustcatering.wufoo.com/forms/z1ulr3tr1kev45s/">Order online</a>
-	<a class="button" href="tel:16305539533">Call us at 630-553-9533</a>
+	<a class="button" href="tel:16305250396">Call us at 630-525-0396</a>
 </div>
