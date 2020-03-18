@@ -1,7 +1,7 @@
 ---
 layout: menu
-title:  "Ready to Heat Meals"
-headline: "Ready to Heat Meals"
+title:  "Curbside Pickup Ready to Heat Meals"
+headline: "Curbside Pickup Ready to Heat Meals"
 custom-classes: "ready-to-heat"
 permalink: /ready-to-heat/
 image-filename: boxed-lunch.jpg
