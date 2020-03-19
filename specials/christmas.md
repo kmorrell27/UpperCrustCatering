@@ -10,13 +10,13 @@ The holidays are fast approaching!
 To help you celebrate we’ve put together some of our favorite selections for
 several delicious Christmas party menus
 
-***
+---
 
 ## Christmas Eve "Jingle Bells" Menu
 
-$16.25 per person for parties of 10 or larger
+\$16.25 per person for parties of 10 or larger
 
-$18.25 per person for parties fewer than 10
+\$18.25 per person for parties fewer than 10
 
 ### Your Choice of Two Entrees
 
@@ -35,22 +35,23 @@ $18.25 per person for parties fewer than 10
 
 - Holiday fudge platter
 
-*Orders for Christmas Eve or Christmas Day need to be placed by Saturday, December 21
-for pick-up only by 2:00PM on December 24th*
+_Orders for Christmas Eve or Christmas Day need to be placed by Saturday,
+December 21 for pick-up only by 2:00PM on December 24th_
 
-*We gladly provided printed heating instructions for all Christmas Eve Menu
-orders*
+_We gladly provided printed heating instructions for all Christmas Eve Menu
+orders_
 
-*add plates, napkin, silverware & serving tongs and spoons for an additional
-75¢/person*
+_add plates, napkin, silverware & serving tongs and spoons for an additional
+75¢/person_
 
-* * *
+---
 
 ## White Christmas
 
-$38/person
+\$38/person
 
 ### Hors d'oeuvres
+
 - Assorted cheeses & fresh fruit display
 - Crabmeat mousse with assorted crackers
 - Brushetta with garlic toast points
@@ -58,38 +59,39 @@ $38/person
 - Vegetable crudités with ranch dipping sauce
 
 ### Entrees
+
 - Sautéed breast of chicken filled with sage stuffing served with a supreme
-sauce
+  sauce
 - Baked Alaskan salmon finished with a fresh herb sauce
 
 ### Accompaniments
+
 - Thyme roasted baby new potatoes
 - Fresh asparagus spears in a zucchini basket
 
 ### Desserts
-Chocolate covered strawberries
-Assorted mini cheesecakes
-Christmas cookies
 
-*Minimum of 20 people - Servers $30 per hour each*
+Chocolate covered strawberries Assorted mini cheesecakes Christmas cookies
 
-* * *
+_Minimum of 20 people - Servers \$30 per hour each_
+
+---
 
 ## Stocking Stuffers
 
-Heavy hors d'oeuvres dinner - $31 per person
+Heavy hors d'oeuvres dinner - \$31 per person
 
 ### Choose six selections from the following
 
 - Hand carved sirloin or pork loin with silver dollar rolls & apple horseradish
-sauce
+  sauce
 - Smoked salmon & cocktail rye with chopped eggs & onions garnished with cream
-cheese & capers
+  cheese & capers
 - Hand carved turkey with cranberry mandarin orange sauce
 - Cocktail meatballs (Sweet & sour _or_ Swedish)
 - Pinwheel sandwiches - Ham, smoked turkey, salami, swiss, cheddar, lettuce,
-tomatoes & onions rolled in a flour tortilla with our uniquely seasoned cream
-cheese
+  tomatoes & onions rolled in a flour tortilla with our uniquely seasoned cream
+  cheese
 - Jumbo shrimp with zesty cocktail sauce
 - Assorted cheeses & fresh fruit display
 - Chicken drumettes (Spicy _or_ teriyaki)
@@ -97,16 +99,16 @@ cheese
 - Crab & shrimp stuffed mushrooms
 - Holiday favorites dessert assortment
 
-*$30 per hour carver fee applies to carved sirloin, pork loin, or carved
-turkey selections*
+_\$30 per hour carver fee applies to carved sirloin, pork loin, or carved turkey
+selections_
 
-*Minimum of 20 people - Additional servers $30 per hour each*
+_Minimum of 20 people - Additional servers \$30 per hour each_
 
-* * *
+---
 
 ## Santa Claus is Coming to Town
 
-*$19.75 per person*
+_\$19.75 per person_
 
 ### Three Entrees
 
@@ -122,15 +124,15 @@ turkey selections*
 - Dinner rolls & butter
 - Assorted holiday dessert display
 
-*Minimum of 20 people - Servers and/or carver $30 per hour each*
+_Minimum of 20 people - Servers and/or carver \$30 per hour each_
 
-* * *
+---
 
 ## Chestnuts Roasting
 
-$20.95 per person
+\$20.95 per person
 
-*Minimum of 25 people*
+_Minimum of 25 people_
 
 ### Two Entrees
 
@@ -146,8 +148,8 @@ $20.95 per person
 - Dinner rolls & butter
 - Assorted holiday dessert display
 
-*Servers and/or carver $30 per hour each*
+_Servers and/or carver \$30 per hour each_
 
-* * *
+---
 
 We also have all of our other buffet menus available year-round!

@@ -2,8 +2,17 @@
 layout: default
 ---
 
-<header class="hero hero__short" {% if page.image-filename %}
-  style="background-image:url({{ site.baseurl }}/images/{{ page.image-filename }})" {% endif %}>
+<header
+  class="hero hero__short"
+  {%
+  if
+  page.image-filename
+  %}
+  style="background-image:url({{ site.baseurl }}/images/{{ page.image-filename }})"
+  {%
+  endif
+  %}
+>
   <div class="hero-headline">
     <h1 class="">{{ page.headline }}</h1>
   </div>
@@ -17,9 +26,9 @@ layout: default
   <div class="grey-well">
     <h2>Additional Options</h2>
     <ul>
-    {% for opt in page.additional-options %}
+      {% for opt in page.additional-options %}
       <li>{{ opt }}</li>
-    {% endfor %}
+      {% endfor %}
     </ul>
   </div>
   {% endif %}

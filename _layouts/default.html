@@ -1,27 +1,22 @@
 <!DOCTYPE html>
 <html>
-
   {% include head.html %}
 
   <body>
-
     {% include header.html %}
 
     <div class="page-content">
-
-        {{ content }}
-
+      {{ content }}
     </div>
 
     {% include footer.html %}
-  <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
-  <script>
-    WebFont.load({
-      google: {
-        families: ['Alegreya Sans:400,400italic,800:latin']
-      }
-    });
-  </script>
+    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+    <script>
+      WebFont.load({
+        google: {
+          families: ['Alegreya Sans:400,400italic,800:latin'],
+        },
+      });
+    </script>
   </body>
-
 </html>

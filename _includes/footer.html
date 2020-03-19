@@ -1,7 +1,5 @@
 <footer class="site-footer">
-
   <div class="wrapper">
-
     <h2 class="footer-heading">{{ site.title }}</h2>
 
     <div class="footer-col-wrapper">
@@ -24,9 +22,7 @@
           <li>
             {% include icon-github.html username=site.github_username %}
           </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
+          {% endif %} {% if site.twitter_username %}
           <li>
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
@@ -35,13 +31,13 @@
       </div>
 
       <div class="footer-col footer-col-3">
-
-        <p>Delivery charges ($20 minimum) are based on mileage and complexity of setup.</p>
+        <p>
+          Delivery charges ($20 minimum) are based on mileage and complexity of
+          setup.
+        </p>
 
         <p>All prices subject to change without notice.</p>
       </div>
     </div>
-
   </div>
-
 </footer>

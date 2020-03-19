@@ -1,16 +1,17 @@
 ---
 layout: fancy-header
 permalink: /menus/
-title: "Menus"
-headline: "Check out our menus"
+title: 'Menus'
+headline: 'Check out our menus'
 image-filename: menus.jpg
 ---
 
-  <div class="menus">
-    {% assign menus = site.menus | sort: 'order-by' %}
-    {% for menu in menus %}
-      <h2 style="text-align: center">
-        <a class="post-link" href="{{ site.baseurl }}{{ menu.url }}">{{ menu.title }}</a>
-      </h2>
-    {% endfor %}
-  </div>
+<div class="menus">
+  {% assign menus = site.menus | sort: 'order-by' %} {% for menu in menus %}
+  <h2 style="text-align: center">
+    <a class="post-link" href="{{ site.baseurl }}{{ menu.url }}">
+      {{ menu.title }}
+    </a>
+  </h2>
+  {% endfor %}
+</div>

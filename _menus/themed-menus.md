@@ -6,13 +6,19 @@ custom-classes: dotted-lists
 order-by: 8
 ---
 
-Themed menus are all the rage and it's no wonder - they're fun, delicious and add an air of excitement to any event.
+Themed menus are all the rage and it's no wonder - they're fun, delicious and
+add an air of excitement to any event.
 
-Whether you just "go theme" with the food or all the way with decorations, music, beverages and attire we're here to help you create a gathering everyone will remember.
+Whether you just "go theme" with the food or all the way with decorations,
+music, beverages and attire we're here to help you create a gathering everyone
+will remember.
 
-Our Theme Packages are tried & true but, definitely not a limit to the possibilities ~ take our ideas, add yours and together we'll create a menu that is uniquely yours
+Our Theme Packages are tried & true but, definitely not a limit to the
+possibilities ~ take our ideas, add yours and together we'll create a menu that
+is uniquely yours
 
-Theme Menu package pricing is based on menu item selections and number of people and service requirements.  Minimums may apply.
+Theme Menu package pricing is based on menu item selections and number of people
+and service requirements. Minimums may apply.
 
 **Themes available**
 
@@ -24,17 +30,18 @@ Theme Menu package pricing is based on menu item selections and number of people
 - [Shower Package](#shower-package)
 - [The Islands](#the-islands)
 
-***
+---
 
 ## Chuck Wagon Days
 
-*$14.45 per person - Minimum 20 people - Includes plates, napkins, & silverware*
+_\$14.45 per person - Minimum 20 people - Includes plates, napkins, &
+silverware_
 
 ### Entrees
 
 **Select 2**
 
-- Braised Beef Brisket (add $1 per person)
+- Braised Beef Brisket (add \$1 per person)
 - Fried Chicken
 - BBQ Pulled Pork (Sandwich rolls included)
 - Sloppy Joes (Sandwich buns included)
@@ -43,7 +50,7 @@ Theme Menu package pricing is based on menu item selections and number of people
 
 **Select 3**
 
-- Tossed Mixed Greens *with tomatoes & cucumber and 2 dressings*
+- Tossed Mixed Greens _with tomatoes & cucumber and 2 dressings_
 - Baked Macaroni & Cheese
 - American Fried Potatoes
 - Macaroni Pasta Salad
@@ -58,15 +65,15 @@ Add dessert for 50¢ more per person
 
 Apple Crisp or Bread Pudding
 
-* * *
+---
 
 ## Sunday Dinners at Grandma's
-*... for the best in comfort food ...*
 
-*30 person minimum - $14.75 - Includes plates, napkins, & silverware*
+_... for the best in comfort food ..._
+
+_30 person minimum - \$14.75 - Includes plates, napkins, & silverware_
 
 ### Entrees
-
 
 **Select 2**
 
@@ -95,13 +102,14 @@ Add Dessert for 50¢ per person
 
 Homemade Apple Cobbler or Fresh Baked Cookies
 
-* * *
+---
 
-*Step back in time, once again, to the 50’s and the . . .*
+_Step back in time, once again, to the 50’s and the . . ._
 
 ## Sock Hop
 
-*20 person minimum - Select 3 Entrees $14.50 - includes plates, napkins & silverware*
+_20 person minimum - Select 3 Entrees \$14.50 - includes plates, napkins &
+silverware_
 
 ### Entrees
 
@@ -124,13 +132,14 @@ All condiments included
 
 Brownies & Cookies
 
-* * *
+---
 
 ## Fiesta Time Party
 
-*Two great options for a south of the border taste!*
+_Two great options for a south of the border taste!_
 
-**$15.95 per person - Minimum 30 people - Includes plates, napkins & silverware**
+**\$15.95 per person - Minimum 30 people - Includes plates, napkins &
+silverware**
 
 ### Entrees
 
@@ -140,8 +149,7 @@ Brownies & Cookies
 - Chicken Enchiladas
 - Chicken Fajitas
 - Text-Mex Lasagna
-- Steak Fajitas (Add $1/person)
-
+- Steak Fajitas (Add \$1/person)
 
 ### Sides
 
@@ -153,13 +161,14 @@ Brownies & Cookies
 - Cornbread & Butter
 - Roasted Potato Salad with Chilies
 
-Plus - Tortilla Chips & your choice of freshmade pico de gallo or black bean & corn salsa
+Plus - Tortilla Chips & your choice of freshmade pico de gallo or black bean &
+corn salsa
 
-* * *
+---
 
 ## Build Your Own Taco Bar
 
-*... everything you need to build your own taco bar. For parties of 30 or more.*
+_... everything you need to build your own taco bar. For parties of 30 or more._
 
 **2/person - $12.95 or 3/person - $13.95**
 
@@ -180,17 +189,20 @@ Plus - Tortilla Chips & your choice of freshmade pico de gallo or black bean & c
 - Spanish Rice
 - Tortilla Chips & Salsa
 
-* * *
+---
 
 ## Shower Package
 
-The excitement is growing and there’s so much to do - Let us help!  We’ve designed a Shower menu with you in mind. Plates, napkins & silverware additional.
+The excitement is growing and there’s so much to do - Let us help! We’ve
+designed a Shower menu with you in mind. Plates, napkins & silverware
+additional.
 
-**$14.45 per person - 20 person minimum**
+**\$14.45 per person - 20 person minimum**
 
 ### Croissant Sandwich Platter
 
-Buttery, flakey croissants with your choice of three sandwich fillings, all  with lettuce & tomatoes
+Buttery, flakey croissants with your choice of three sandwich fillings, all with
+lettuce & tomatoes
 
 - Tuna Salad
 - Chicken Salad
@@ -200,36 +212,40 @@ Buttery, flakey croissants with your choice of three sandwich fillings, all  wit
 - Ham & Cheddar
 - Roast Beef & Cheddar
 
-
 ### Tropical Bowtie Caesar Salad
 
-A crisp romaine salad with Mandarin Oranges, Strawberries, Bowtie pasta & Poppyseed dressing
-
+A crisp romaine salad with Mandarin Oranges, Strawberries, Bowtie pasta &
+Poppyseed dressing
 
 ### Pinwheel Sandwiches
 
-Ham, Turkey, Genoa Salami, tomatoes, lettuce, onions & cheeses rolled in a flour tortilla with our seasoned cream cheese and sliced into flavorful bite sized pieces
-
+Ham, Turkey, Genoa Salami, tomatoes, lettuce, onions & cheeses rolled in a flour
+tortilla with our seasoned cream cheese and sliced into flavorful bite sized
+pieces
 
 ### Spinach Bread Bowl
 
-Fresh baked bread bowl filled with our own Spinach Dip made with Baby Spinach & fresh veggies
-
+Fresh baked bread bowl filled with our own Spinach Dip made with Baby Spinach &
+fresh veggies
 
 ### Fresh Fruit Display and Vegetable Crudite with dip
 
-
-**Having a Couples Shower?**  We'll  “beef” up the Ladies Lunch & keep everyone happy & full!  Substitute a Hero Sandwich Platter for the Croissants Sandwiches for $1.25/person.
+**Having a Couples Shower?** We'll “beef” up the Ladies Lunch & keep everyone
+happy & full! Substitute a Hero Sandwich Platter for the Croissants Sandwiches
+for \$1.25/person.
 
 Sandwich Platters come with Mustard & Mayo sides.
 
-* * *
+---
 
 ## The Islands
 
-Dreaming of the ideal get-a-way or remembering that perfect vacation?  Just close your eyes, feel the breeze in your hair and the sun on your face …
+Dreaming of the ideal get-a-way or remembering that perfect vacation? Just close
+your eyes, feel the breeze in your hair and the sun on your face …
 
-Price is based on number of guests and menu selections. Please call for pricing. Minimums may apply. Plates, napkins, silverware, & serving tongs and spoons available.
+Price is based on number of guests and menu selections. Please call for pricing.
+Minimums may apply. Plates, napkins, silverware, & serving tongs and spoons
+available.
 
 ### Entrees
 

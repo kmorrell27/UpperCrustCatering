@@ -10,13 +10,13 @@ Celebrate October with Upper Crust Catering!
 To help you celebrate we’ve put together some of our favorite selections for
 several delicious party menus
 
-***
+---
 
 ## Oktoberfest
 
 ### Braised Sauerbraten
 
-$13.25 per person
+\$13.25 per person
 
 - Homemade potato pancakes with sour cream & applesauce
 - Carrots
@@ -25,7 +25,7 @@ $13.25 per person
 
 ### Bratwurst-Knockwurst Buffet
 
-$12.75 per person
+\$12.75 per person
 
 - Sauerkraut
 - Bavarian baked beans
@@ -35,7 +35,7 @@ $12.75 per person
 
 ### Braised Beef Rouladen
 
-$13.25 per person
+\$13.25 per person
 
 - Buttered noodles
 - Braised red cabbage
@@ -45,7 +45,7 @@ $13.25 per person
 
 ### Chicken & Dumplings
 
-$12.95 per person
+\$12.95 per person
 
 - Tossed salad with tomatoes & cucumbers and your choice of two dressings
 - Peas & carrots
@@ -54,17 +54,17 @@ $12.95 per person
 
 ### Bavarian Pot Roast
 
-$12.95 per person
+\$12.95 per person
 
 - Carrots & potatoes
 - Applesauce
 - Biscuits & butter
 - Peach cobbler
 
-* * *
+---
 
-*Oktoberfest menus have a 25 person minimum - please call for individual
-package pricing*
+_Oktoberfest menus have a 25 person minimum - please call for individual package
+pricing_
 
-*add plates, napkin, silverware & serving tongs and spoons for an additional
-75¢/person*
+_add plates, napkin, silverware & serving tongs and spoons for an additional
+75¢/person_

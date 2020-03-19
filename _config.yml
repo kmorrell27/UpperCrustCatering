@@ -10,13 +10,12 @@ title: Upper Crust Catering
 email: sales@uppercrust-catering.net
 description: > # this means to ignore newlines until "baseurl:"
   Whatever the occasion, Chef Mitch Morrell brings 35 years of culinary
-  experience to events across Yorkville and the west Chicagoland area.
-  Upper Crust offers a wide variety of excellent homemade cuisine
-  selections from simple to gourmet, all prepared with Chef Mitch's
-  personal touch!
+  experience to events across Yorkville and the west Chicagoland area. Upper
+  Crust offers a wide variety of excellent homemade cuisine selections from
+  simple to gourmet, all prepared with Chef Mitch's personal touch!
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.uppercrust-catering.net" # the base hostname & protocol for your site
+baseurl: '' # the subpath of your site, e.g. /blog
+url: 'http://www.uppercrust-catering.net' # the base hostname & protocol for your site
 
 collections:
   menus:
@@ -32,8 +31,8 @@ full_rebuild: true
 markdown: kramdown
 
 prose:
-  siteurl: "http://www.uppercrust-catering.net"
-  media: "images"
+  siteurl: 'http://www.uppercrust-catering.net'
+  media: 'images'
   ignore:
     - /_includes
     - /_layouts
