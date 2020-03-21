@@ -18,12 +18,18 @@ week.
 Choose from the options below. \$35 for each selection. All dishes include
 reheating instructions.
 
-1. Lasagna w/Meat sauce or Vegetarian
-2. Mostaccoli w/beef & Italian Sausage or Vegetarian
-3. Italian Beef comes with hot & sweet peppers
-4. Pot Roast - includes dinner rolls & butter
-5. Hungarian Beef Tips over Rice
-6. Braised Beef Brisket - French Rolls available for additional \$ 2.00
+1. Lasagna (meat sauce _or_ vegetarian) with Garlic Bread & Caesar Salad
+2. Mostaccoli (w/beef & Italian Sausage _or_ Vegetarian) with Garlic Bread and
+   Caesar Salad
+3. Italian Beef with Rolls and Mac and Cheese and Baked Beans - comes with hot &
+   sweet peppers
+4. BBQ Pulled Pork with Rolls with Mac and Cheese and Baked Beans
+5. Pot Roast with Baby New Potatoes and Carrots - includes dinner rolls & butter
+6. Meatloaf with Mashed Potatoes, Gravy and Green Beans
+7. Hungarian Beef Tips over Rice
+8. Baked Chicken with Rice Pilaf and Vegetable Medley
+9. Braised Beef Brisket with Garlic Mashed Potatoes - French Rolls available for
+   additional \$ 2.00
 
 All meals above are made to freeze and reheat well!
 
