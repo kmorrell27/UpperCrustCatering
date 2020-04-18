@@ -1,9 +1,9 @@
 ---
 layout: menu
-title: 'Ala Carte Selections'
+title: "Ala Carte Selections"
 collection: menus
 order-by: 3
-headline: 'Ala Carte Selections'
+headline: "Ala Carte Selections"
 image-filename: ala-carte.jpg
 redirect_from:
   - /Menus/AlaCarteEntrees.aspx

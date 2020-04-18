@@ -1,16 +1,16 @@
 ---
 layout: menu
-title: 'Curbside Pickup Ready to Heat Meals'
-headline: 'Curbside Pickup Ready to Heat Meals'
-custom-classes: 'ready-to-heat'
+title: "Curbside Pickup Ready to Heat Meals"
+headline: "Curbside Pickup Ready to Heat Meals"
+custom-classes: "ready-to-heat"
 permalink: /ready-to-heat/
 image-filename: boxed-lunch.jpg
 ---
 
 ## Curbside Pickup Ready to Heat Meals
 
-With the current situatation in Illinois, Upper Crust is happy to offer
-delicious home-cooked meals that can easily be reheated throughout the week.
+With the current situation in Illinois, Upper Crust is happy to offer delicious
+home-cooked meals that can easily be reheated throughout the week.
 
 Each meal serves a family of 4 people and can easily be reheated throughout the
 week.
@@ -19,7 +19,7 @@ Choose from the options below. \$35 for each selection. All dishes include
 reheating instructions.
 
 1. Lasagna (meat sauce _or_ vegetarian) with Garlic Bread & Caesar Salad
-2. Mostaccoli (w/beef & Italian Sausage _or_ Vegetarian) with Garlic Bread and
+2. Mostaccioli (w/beef & Italian Sausage _or_ Vegetarian) with Garlic Bread and
    Caesar Salad
 3. Italian Beef with Rolls and Mac and Cheese and Baked Beans - comes with hot &
    sweet peppers
@@ -35,8 +35,8 @@ All meals above are made to freeze and reheat well!
 
 Also check out our [boxed lunch options](/menus/boxed-lunches/)!
 
-Pickup curbside Service only - Credit/Debit cards only - no cash accepted at
-this time
+Delivery available for orders of 5 meals or more - Credit/Debit cards only - no
+cash accepted at this time
 
 <div class="buttonContainer">
   <a
