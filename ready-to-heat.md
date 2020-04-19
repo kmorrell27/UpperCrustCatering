@@ -27,7 +27,7 @@ reheating instructions.
 5. Pot Roast with Baby New Potatoes and Carrots - includes dinner rolls & butter
 6. Meatloaf with Mashed Potatoes, Gravy and Green Beans
 7. Hungarian Beef Tips over Rice with Gingered Carrots and Dinner Rolls & Butter
-8. Baked Chicken with Rice Pilaf and Vegetable Medley
+8. Herb Roasted Chicken with Rice Pilaf and Vegetable Medley
 9. Braised Beef Brisket with Garlic Mashed Potatoes - French Rolls available for
    additional \$ 2.00
 
