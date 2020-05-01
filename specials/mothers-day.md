@@ -17,18 +17,18 @@ We're offering curbside pick-up of Mother's Day dinners.
 - Chicken Cordon Bleu
 - Rice Pilaf & Vegetable Medley
 - Dinner Rolls & Caesar Salad
-- Pretzel Brownies
+- Chewy Pretzel Brownies
 
 ## Option #2
 
 - Roasted Sliced Sirloin with Natural Juice
 - Roasted Baby New Potatoes & Vegetable Medley
 - Dinner Rolls & Caesar Salad
-- Pretzel Brownies
+- Chewy Pretzel Brownies
 
 ## Option #3
 
-- Pached Salmon with Champagne Herb Sauce
+- Poached Salmon with Champagne Herb Sauce
 - Rice Pilaf & Vegetable Medley
 - Dinner Rolls & Caesar Salad
-- Pretzel Brownies
+- Chewy Pretzel Brownies
