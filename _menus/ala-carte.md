@@ -57,7 +57,7 @@ Barnaby's Famous Grilled Pork Chops
 _Absolutely the best pork chop ever! Such incredible flavor and so juicy you'll
 wish you had ordered more!_
 
-Marinated & ready to cook $ 5.99 per lb. | Grilled by us $ 4.99 each
+Marinated & ready to cook $5.99 per lb. | Grilled by us $4.99 each
 <br /><br />
 
 | Ala Carte Sides & Salads                                                                                                                                                                                              | Price        |
