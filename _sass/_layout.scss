@@ -375,7 +375,7 @@
     display: inline-block;
   }
   li:not(:last-child):after {
-    content: ' ●';
+    content: " ●";
     font-size: 1em;
   }
 }
@@ -426,10 +426,10 @@ fieldset[disabled] .form-control {
 textarea.form-control {
   height: auto;
 }
-input[type='search'] {
+input[type="search"] {
   -webkit-appearance: none;
 }
-input[type='date'] {
+input[type="date"] {
   line-height: 34px;
 }
 .form-group {
@@ -445,11 +445,5 @@ input[type='date'] {
     -moz-column-count: 1;
     -webkit-column-count: 1;
     column-count: 1;
-  }
-}
-
-.ready-to-heat {
-  td {
-    text-align: center;
   }
 }
