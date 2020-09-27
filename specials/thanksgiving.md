@@ -6,14 +6,14 @@ custom-classes: three-column-lists
 ---
 
 Celebrate Thanksgiving with Upper Crust Catering! Pick up by 5:00 PM on
-Wednesday, November 27. We'll include everything you need plus heating
+Wednesday, November 25. We'll include everything you need plus heating
 instructions.
 
 ---
 
 ## Thanksgiving Feast
 
-\$15.15 per person
+\$15.95 per person
 
 - Roasted tom turkey with sage stuffing
 - Whipped potatoes with giblet gravy

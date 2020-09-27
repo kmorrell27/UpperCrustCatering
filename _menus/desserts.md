@@ -18,12 +18,9 @@ image-filename: dessert.jpg
 | Cheesecake Squares - 35 pcs                                | \$43 |
 | Lemon Bars - 40 pcs                                        | \$45 |
 | Assorted Dessert Tray - 40 pcs                             | \$50 |
-| Bread Pudding with an Old-Fashioned Bourbon Glaze (20 pcs) | \$42 |
 | Chocolate Covered Strawberries - 35-40 ct                  | \$45 |
 | Homemade Apple Crisp - Small _(12-15 servings)_            | \$33 |
 | Homemade Apple Crisp - Large _(32-36 servings)_            | \$53 |
-| Fruit Strudel - 35 pcs                                     | \$45 |
-| Coconut Macaroons Hand Dipped in Chocolate (50 pcs)        | \$40 |
 
 ---
 
