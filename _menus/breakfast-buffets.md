@@ -29,6 +29,19 @@ For a heartier breakfast, add ham steaks with biscuits and sausage gravy for
 
 ---
 
+## Ala Carte ~ Breakfast Stratas
+
+**Serves 20 people**
+
+|                                 |      |
+| ------------------------------- | ---- |
+| Ham, Sausage, & Cheddar         | \$55 |
+| Bacon, Onion & Swiss            | \$55 |
+| Vegetarian                      | \$55 |
+| Half Orders of any of the above | \$30 |
+
+---
+
 ## Continental Breakfast
 
 **\$7.25 per person - Includes plates, napkins & silverware**
